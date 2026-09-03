@@ -2880,21 +2880,6 @@
     "updated_at": "2026-09-03T16:54:13.686Z"
   },
   {
-    "id": "s_mtlrlsc8z51j9qfu",
-    "employee_id": "1020486300",
-    "employee_name": "DANIEL GIL CANO",
-    "class_name": "GIRO",
-    "day": "MIERCOLES",
-    "time": "06:30",
-    "location": "Colores",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "import",
-    "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
-  },
-  {
     "id": "s_mtlrlsc8qjbk8fi9",
     "employee_id": "1001773177",
     "employee_name": "SANTIAGO MEDINA OSORIO",
