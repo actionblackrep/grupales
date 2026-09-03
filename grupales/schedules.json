@@ -6375,21 +6375,6 @@
     "updated_at": "2026-09-03T16:54:13.686Z"
   },
   {
-    "id": "s_mtlrlsc8es7tvn4p",
-    "employee_id": "1001782573",
-    "employee_name": "LUIS DANIEL VIZCAÍNO GARCÍA",
-    "class_name": "BEATS",
-    "day": "VIERNES",
-    "time": "06:30",
-    "location": "Niquia",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "import",
-    "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
-  },
-  {
     "id": "s_mtlrlsc88e16dovs",
     "employee_id": "1004352490",
     "employee_name": "CAMILO ANDRES OROZCO BLANCO",
