@@ -1,1 +1,2481 @@
-[]
+[
+  {
+    "row": 2,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "5:15AM",
+      "clase": "GIRO",
+      "sede": "Aves Maria",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "05:15",
+    "class_name": "GIRO",
+    "location": "Aves Maria",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybxtxh83pr3",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "5:15AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "05:15",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybx1vk756ry",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "DAVID VEGA",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "6:45PM",
+      "clase": "GIRO",
+      "sede": "Fabricato",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "18:45",
+    "class_name": "GIRO",
+    "location": "Fabricato",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybxnyase6lq",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JORGE ACEVEDO",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "7:300AM",
+      "clase": "GIRO",
+      "sede": "Niquia",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": null,
+    "class_name": "GIRO",
+    "location": "Niquia",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "MISSING",
+    "message": "Faltan: Hora",
+    "id": "p_mtlrhybxh4k8nzb1",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "6:15AM",
+      "clase": "GIRO",
+      "sede": "Aves Maria",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "06:15",
+    "class_name": "GIRO",
+    "location": "Aves Maria",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybyxpmxftra",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "6:15AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "06:15",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyby6htte23f",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "DAVID VEGA",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "19:45",
+      "clase": "GIRO",
+      "sede": "Fabricato",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "19:45",
+    "class_name": "GIRO",
+    "location": "Fabricato",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybyp4u19hn2",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "5:15AM",
+      "clase": "GIRO",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "05:15",
+    "class_name": "GIRO",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybyv6se21z7",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "7:15AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "07:15",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybybpkbsgkt",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "DAVID VEGA",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "06:15",
+      "clase": "GIRO",
+      "sede": "Fabricato",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "06:15",
+    "class_name": "GIRO",
+    "location": "Fabricato",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybytcqmdl1a",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 5,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "6:15AM",
+      "clase": "GIRO",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "06:15",
+    "class_name": "GIRO",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyby3oedaxpt",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 5,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "6:00AM",
+      "clase": "GIRO",
+      "sede": "Inferior",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "06:00",
+    "class_name": "GIRO",
+    "location": "Inferior",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybyz5ok49bo",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 5,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "DAVID VEGA",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "07:15",
+      "clase": "GIRO",
+      "sede": "Fabricato",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "07:15",
+    "class_name": "GIRO",
+    "location": "Fabricato",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybyh6gyso1a",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 6,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "8:00AM",
+      "clase": "GIRO",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "08:00",
+    "class_name": "GIRO",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybyfba2lb0f",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 6,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "7:00AM",
+      "clase": "GIRO",
+      "sede": "Inferior",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "07:00",
+    "class_name": "GIRO",
+    "location": "Inferior",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyby45t7vliv",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 6,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "DAVID VEGA",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "17:45",
+      "clase": "GIRO",
+      "sede": "Fabricato",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "17:45",
+    "class_name": "GIRO",
+    "location": "Fabricato",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybybvmpkcbp",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 7,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "5:15AM",
+      "clase": "GIRO",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "05:15",
+    "class_name": "GIRO",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybyl17ajeks",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 7,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "5:30PM",
+      "clase": "GIRO",
+      "sede": "Sabaneta - AVES",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "17:30",
+    "class_name": "GIRO",
+    "location": "Sabaneta - AVES",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybynxp5wx1l",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 7,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "DAVID VEGA",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "18:45",
+      "clase": "GIRO",
+      "sede": "Fabricato",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "18:45",
+    "class_name": "GIRO",
+    "location": "Fabricato",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybyz1fceo6p",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 8,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "6:30AM",
+      "clase": "GIRO",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "06:30",
+    "class_name": "GIRO",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyby8l4autnv",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 8,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "6:30PM",
+      "clase": "GIRO",
+      "sede": "Sabaneta - AVES",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "18:30",
+    "class_name": "GIRO",
+    "location": "Sabaneta - AVES",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybyt8shoiyi",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 9,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "8:00AM",
+      "clase": "GIRO",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "08:00",
+    "class_name": "GIRO",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybyewn0cxoc",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 9,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "7:45PM",
+      "clase": "GIRO",
+      "sede": "Sabaneta - AVES",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "19:45",
+    "class_name": "GIRO",
+    "location": "Sabaneta - AVES",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybyma5k9ksh",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 10,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "5:15AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "05:15",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybyt6te18p8",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 10,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "VIERNES",
+      "hora": "5:45AM",
+      "clase": "GIRO",
+      "sede": "Sabaneta - viva",
+      "modalidad": ""
+    },
+    "day": "VIERNES",
+    "time": "05:45",
+    "class_name": "GIRO",
+    "location": "Sabaneta - viva",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybyqx08y0zb",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 11,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "6:15AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "06:15",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyby7pqh58j6",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 11,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "VIERNES",
+      "hora": "6:45AM",
+      "clase": "GIRO",
+      "sede": "Sabaneta - viva",
+      "modalidad": ""
+    },
+    "day": "VIERNES",
+    "time": "06:45",
+    "class_name": "GIRO",
+    "location": "Sabaneta - viva",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybzhilxmt33",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 12,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "MARIANA VELEZ",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "6:30OM",
+      "clase": "GIRO",
+      "sede": "Sabaneta- FIC",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": null,
+    "class_name": "GIRO",
+    "location": "Sabaneta- FIC",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "MISSING",
+    "message": "Faltan: Hora",
+    "id": "p_mtlrhybzcdp3qfxj",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 12,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "7:30AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "07:30",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybz94mb6wn4",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 12,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "9:00AM",
+      "clase": "GIRO",
+      "sede": "Oviedo Beats",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "09:00",
+    "class_name": "GIRO",
+    "location": "Oviedo Beats",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybzuuqg0rms",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 13,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "7:15AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "07:15",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybz76hzsexj",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 13,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "10:00AM",
+      "clase": "GIRO",
+      "sede": "Oviedo Beats",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "10:00",
+    "class_name": "GIRO",
+    "location": "Oviedo Beats",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybzcvrciad6",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 14,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "8:30AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "08:30",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzv6xmdp22",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 14,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "6:15PM",
+      "clase": "GIRO",
+      "sede": "Oviedo",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "18:15",
+    "class_name": "GIRO",
+    "location": "Oviedo",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybzdl53tsbw",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 15,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "ORIANA PEREZ",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "9:45AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "09:45",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybznznewhoz",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 15,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "7:15PM",
+      "clase": "GIRO",
+      "sede": "Oviedo",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "19:15",
+    "class_name": "GIRO",
+    "location": "Oviedo",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybzotw2u5mp",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 16,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "VIERNES",
+      "hora": "6:15PM",
+      "clase": "GIRO",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "VIERNES",
+    "time": "18:15",
+    "class_name": "GIRO",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybzouyvuopf",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 17,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "VIERNES",
+      "hora": "7:30PM",
+      "clase": "GIRO",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "VIERNES",
+    "time": "19:30",
+    "class_name": "GIRO",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybz8zko5qx2",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 20,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "DOMINGO",
+      "hora": "8:30AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "DOMINGO",
+    "time": "08:30",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Dominical",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybzwubd5p3u",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 21,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "JHONATAN  ALONSO ALVAREZ",
+      "cedula": "",
+      "dia": "DOMINGO",
+      "hora": "10:00AM",
+      "clase": "GIRO",
+      "sede": "Campestre",
+      "modalidad": ""
+    },
+    "day": "DOMINGO",
+    "time": "10:00",
+    "class_name": "GIRO",
+    "location": "Campestre",
+    "modality": "Dominical",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "98761840",
+        "nombre": "JHONNATAN ALVAREZ HOLGUIN"
+      },
+      {
+        "cedula": "1152192329",
+        "nombre": "JHONATAN ALEXIS RESTREPO ALVAREZ"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhybzoolvc274",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 24,
+    "sheet": "GIRO ANTIOQUIA",
+    "raw": {
+      "profesor": "SANTIAGO MEDINA",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "",
+      "clase": "GIRO",
+      "sede": "",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": null,
+    "class_name": "GIRO",
+    "location": null,
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "MISSING",
+    "message": "Faltan: Hora",
+    "id": "p_mtlrhybzsqja1ea6",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "HENDER VALLES",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "09:15",
+      "clase": "BEATS",
+      "sede": "AVES MARIA",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "09:15",
+    "class_name": "BEATS",
+    "location": "AVES MARIA",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzqqj956x1",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "LUIGI PAOLO RUSSI",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "07:30",
+      "clase": "BEATS",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "07:30",
+    "class_name": "BEATS",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybz0yn7fco8",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "ISABELLA ROMERO",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "6:15AM",
+      "clase": "BEATS",
+      "sede": "Florida",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "06:15",
+    "class_name": "BEATS",
+    "location": "Florida",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybz9viiix4u",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "CARLOS TORRES AGUADAS",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "7:00PM",
+      "clase": "BEATS",
+      "sede": "Aguadas",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "19:00",
+    "class_name": "BEATS",
+    "location": "Aguadas",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzf62khh7t",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "ALAN MOSQUERA",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "6:45PM",
+      "clase": "BEATS",
+      "sede": "Oviedo",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "18:45",
+    "class_name": "BEATS",
+    "location": "Oviedo",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzapxo961k",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "HENDER VALLES",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "10:15",
+      "clase": "BEATS",
+      "sede": "",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "10:15",
+    "class_name": "BEATS",
+    "location": null,
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzkm9iairy",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "LUIGI PAOLO RUSSI",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "6:30PM",
+      "clase": "BEATS",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "18:30",
+    "class_name": "BEATS",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzsk9xhkfh",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "ISABELLA ROMERO",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "6:00aM",
+      "clase": "BEATS",
+      "sede": "Colores",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "06:00",
+    "class_name": "BEATS",
+    "location": "Colores",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybz21ntayu1",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "CARLOS TORRES AGUADAS",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "5:30PM",
+      "clase": "BEATS",
+      "sede": "Aguadas",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "17:30",
+    "class_name": "BEATS",
+    "location": "Aguadas",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzdzfx3ary",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "ALAN MOSQUERA",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "6:30PM",
+      "clase": "BEATS",
+      "sede": "Outlet Moda",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "18:30",
+    "class_name": "BEATS",
+    "location": "Outlet Moda",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzc62xlzjh",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "LUIGI PAOLO RUSSI",
+      "cedula": "",
+      "dia": "VIERNES",
+      "hora": "07:30",
+      "clase": "BEATS",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "VIERNES",
+    "time": "07:30",
+    "class_name": "BEATS",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzxt1p6w7d",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "ISABELLA ROMERO",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "6:30PM",
+      "clase": "BEATS",
+      "sede": "City Plaza",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "18:30",
+    "class_name": "BEATS",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzd2yna57o",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "ALAN MOSQUERA",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "6:30PM",
+      "clase": "BEATS",
+      "sede": "Outlet Moda",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "18:30",
+    "class_name": "BEATS",
+    "location": "Outlet Moda",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzqig39r3e",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 5,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "LUIGI PAOLO RUSSI",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "09:30",
+      "clase": "BEATS",
+      "sede": "Exito Colombia",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "09:30",
+    "class_name": "BEATS",
+    "location": "Exito Colombia",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzdrcgddms",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 5,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "ISABELLA ROMERO",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "6:30PM",
+      "clase": "BEATS",
+      "sede": "Ex. Colombia",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "18:30",
+    "class_name": "BEATS",
+    "location": "Ex. Colombia",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzkmfg73uj",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 5,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "ALAN MOSQUERA",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "7:30PM",
+      "clase": "BEATS",
+      "sede": "Sabaneta-AVES",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "19:30",
+    "class_name": "BEATS",
+    "location": "Sabaneta-AVES",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzt5ymhtcu",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 6,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "LUIGI PAOLO RUSSI",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "06:30",
+      "clase": "BEATS",
+      "sede": "Oviedo",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "06:30",
+    "class_name": "BEATS",
+    "location": "Oviedo",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhybzlcs07weq",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 6,
+    "sheet": "BEATS ANTIOQUIA",
+    "raw": {
+      "profesor": "ISABELLA ROMERO",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "6:30AM",
+      "clase": "BEATS",
+      "sede": "Arkadia",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "06:30",
+    "class_name": "BEATS",
+    "location": "Arkadia",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc07o6a76vo",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 12,
+    "sheet": "TIBET ANTIOQUIA",
+    "raw": {
+      "profesor": "VALENTINA CALAD",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "",
+      "clase": "TIBET",
+      "sede": "",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": null,
+    "class_name": "TIBET",
+    "location": null,
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "MISSING",
+    "message": "Faltan: Hora",
+    "id": "p_mtlrhyc0fby29sh4",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 14,
+    "sheet": "TIBET ANTIOQUIA",
+    "raw": {
+      "profesor": "LINA MARIA QUIROZ",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "",
+      "clase": "TIBET",
+      "sede": "10:.30 AM",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": null,
+    "class_name": "TIBET",
+    "location": "10:.30 AM",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "MISSING",
+    "message": "Faltan: Hora",
+    "id": "p_mtlrhyc0aom4drbe",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "6:15PM",
+      "clase": "GIRO",
+      "sede": "Santafe",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "18:15",
+    "class_name": "GIRO",
+    "location": "Santafe",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc0dcis1nh8",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "7:30PM",
+      "clase": "GIRO",
+      "sede": "Santafe",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "19:30",
+    "class_name": "GIRO",
+    "location": "Santafe",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc03qs3o5tb",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "5:45AM",
+      "clase": "GIRO",
+      "sede": "Atlantis",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "05:45",
+    "class_name": "GIRO",
+    "location": "Atlantis",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc0digyuwbs",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 5,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "7:00AM",
+      "clase": "GIRO",
+      "sede": "Atlantis",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "07:00",
+    "class_name": "GIRO",
+    "location": "Atlantis",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc024ntlkmb",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 6,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "VIERNES",
+      "hora": "5:30AM",
+      "clase": "GIRO",
+      "sede": "Atlantis",
+      "modalidad": ""
+    },
+    "day": "VIERNES",
+    "time": "05:30",
+    "class_name": "GIRO",
+    "location": "Atlantis",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc0vrh19xs7",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 7,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "VIERNES",
+      "hora": "6:45AM",
+      "clase": "GIRO",
+      "sede": "Atlantis",
+      "modalidad": ""
+    },
+    "day": "VIERNES",
+    "time": "06:45",
+    "class_name": "GIRO",
+    "location": "Atlantis",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc0hdzbc8o3",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 8,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "7:30AM",
+      "clase": "GIRO",
+      "sede": "Atlantis",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "07:30",
+    "class_name": "GIRO",
+    "location": "Atlantis",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc064vgrp5c",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 9,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "9:00AM",
+      "clase": "GIRO",
+      "sede": "Atlantis",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "09:00",
+    "class_name": "GIRO",
+    "location": "Atlantis",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc0hf7iv2sr",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 10,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "5:45AM",
+      "clase": "GIRO",
+      "sede": "Connecta 26",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "05:45",
+    "class_name": "GIRO",
+    "location": "Connecta 26",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc0le7w735i",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 11,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "7:00AM",
+      "clase": "GIRO",
+      "sede": "Connecta 26",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "07:00",
+    "class_name": "GIRO",
+    "location": "Connecta 26",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc0t1o6p5fa",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 12,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "18:15",
+      "clase": "GIRO",
+      "sede": "Colina",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "18:15",
+    "class_name": "GIRO",
+    "location": "Colina",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc09s0n3x1u",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 13,
+    "sheet": "GIRO BOGOTA",
+    "raw": {
+      "profesor": "MIGUEL CHACON",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "19:30",
+      "clase": "GIRO",
+      "sede": "Colina",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "19:30",
+    "class_name": "GIRO",
+    "location": "Colina",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc0498dz8x6",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "GIRO BARRANQUILLA",
+    "raw": {
+      "profesor": "DIEGO JOSE GARCIA",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "6:15AM",
+      "clase": "BEATS",
+      "sede": "Plaza Campestre",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "06:15",
+    "class_name": "BEATS",
+    "location": "Plaza Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1042439721",
+        "nombre": "DIEGO GARCIA DEL RIO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0kgmh1gzk",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "GIRO BARRANQUILLA",
+    "raw": {
+      "profesor": "DIEGO JOSE GARCIA",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "7:15AM",
+      "clase": "BEATS",
+      "sede": "Plaza Campestre",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "07:15",
+    "class_name": "BEATS",
+    "location": "Plaza Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1042439721",
+        "nombre": "DIEGO GARCIA DEL RIO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0xuhktltf",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "GIRO BARRANQUILLA",
+    "raw": {
+      "profesor": "DIEGO JOSE GARCIA",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "6:15AM",
+      "clase": "GIRO",
+      "sede": "Altos Del Prado",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "06:15",
+    "class_name": "GIRO",
+    "location": "Altos Del Prado",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1042439721",
+        "nombre": "DIEGO GARCIA DEL RIO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0mcr5w830",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 5,
+    "sheet": "GIRO BARRANQUILLA",
+    "raw": {
+      "profesor": "DIEGO JOSE GARCIA",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "6:30PM",
+      "clase": "GIRO",
+      "sede": "Altos Del Prado",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "18:30",
+    "class_name": "GIRO",
+    "location": "Altos Del Prado",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1042439721",
+        "nombre": "DIEGO GARCIA DEL RIO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0iohjm1ho",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "DAVID RUSSO ECHEVERRIA",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "7:30PM",
+      "clase": "BEATS",
+      "sede": "Plaza Campestre",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "19:30",
+    "class_name": "BEATS",
+    "location": "Plaza Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1045759736",
+        "nombre": "DAVID ENRIQUE ECHEVERRIA MACHADO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0edp42zqm",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 2,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "MARIELA RUSSO",
+      "cedula": "",
+      "dia": "LUNES",
+      "hora": "18:30",
+      "clase": "BEATS",
+      "sede": "Viva Barranquilla",
+      "modalidad": ""
+    },
+    "day": "LUNES",
+    "time": "18:30",
+    "class_name": "BEATS",
+    "location": "Viva Barranquilla",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc0i1swy2xm",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "DAVID RUSSO ECHEVERRIA",
+      "cedula": "",
+      "dia": "MARTES",
+      "hora": "6:15PM",
+      "clase": "BEATS",
+      "sede": "Plaza Campestre",
+      "modalidad": ""
+    },
+    "day": "MARTES",
+    "time": "18:15",
+    "class_name": "BEATS",
+    "location": "Plaza Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1045759736",
+        "nombre": "DAVID ENRIQUE ECHEVERRIA MACHADO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0nqopqjj5",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 3,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "MARIELA RUSSO",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "06:15",
+      "clase": "BEATS",
+      "sede": "Altos del Prado",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "06:15",
+    "class_name": "BEATS",
+    "location": "Altos del Prado",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc04xqs1qvu",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "DAVID RUSSO ECHEVERRIA",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "615PM",
+      "clase": "BEATS",
+      "sede": "Plaza Campestre",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "18:15",
+    "class_name": "BEATS",
+    "location": "Plaza Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1045759736",
+        "nombre": "DAVID ENRIQUE ECHEVERRIA MACHADO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0zdb4qyzo",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 4,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "MARIELA RUSSO",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "18:30",
+      "clase": "BEATS",
+      "sede": "Plaza Campestre",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "18:30",
+    "class_name": "BEATS",
+    "location": "Plaza Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado en /employees (GRUPALES).",
+    "id": "p_mtlrhyc05ra4knmd",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 5,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "DAVID RUSSO ECHEVERRIA",
+      "cedula": "",
+      "dia": "MIERCOLES",
+      "hora": "715PM",
+      "clase": "BEATS",
+      "sede": "Plaza Campestre",
+      "modalidad": ""
+    },
+    "day": "MIERCOLES",
+    "time": "19:15",
+    "class_name": "BEATS",
+    "location": "Plaza Campestre",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1045759736",
+        "nombre": "DAVID ENRIQUE ECHEVERRIA MACHADO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0xonxs43y",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 6,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "DAVID RUSSO ECHEVERRIA",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "6:15AM",
+      "clase": "BEATS",
+      "sede": "Viva Barranquilla",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "06:15",
+    "class_name": "BEATS",
+    "location": "Viva Barranquilla",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1045759736",
+        "nombre": "DAVID ENRIQUE ECHEVERRIA MACHADO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc00s20mc00",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 7,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "DAVID RUSSO ECHEVERRIA",
+      "cedula": "",
+      "dia": "JUEVES",
+      "hora": "6:15PM",
+      "clase": "BEATS",
+      "sede": "Viva Barranquilla",
+      "modalidad": ""
+    },
+    "day": "JUEVES",
+    "time": "18:15",
+    "class_name": "BEATS",
+    "location": "Viva Barranquilla",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1045759736",
+        "nombre": "DAVID ENRIQUE ECHEVERRIA MACHADO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0p6oqhzr3",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  },
+  {
+    "row": 8,
+    "sheet": "BEATS BARRANQUILLA",
+    "raw": {
+      "profesor": "DAVID RUSSO ECHEVERRIA",
+      "cedula": "",
+      "dia": "SABADO",
+      "hora": "9:15AM",
+      "clase": "BEATS",
+      "sede": "Viva Barranquilla",
+      "modalidad": ""
+    },
+    "day": "SABADO",
+    "time": "09:15",
+    "class_name": "BEATS",
+    "location": "Viva Barranquilla",
+    "modality": "Normal",
+    "employee_id": null,
+    "employee_name": null,
+    "suggestions": [
+      {
+        "cedula": "1045759736",
+        "nombre": "DAVID ENRIQUE ECHEVERRIA MACHADO"
+      }
+    ],
+    "status": "NOT_FOUND",
+    "message": "Instructor no encontrado. Selecciona una sugerencia.",
+    "id": "p_mtlrhyc0wl63zz6v",
+    "file": "NOMINA GRUPALES.xlsx",
+    "created_at": "2026-09-03T16:51:14.829Z"
+  }
+]
