@@ -9645,21 +9645,6 @@
     "updated_at": "2026-09-03T16:54:13.686Z"
   },
   {
-    "id": "s_mtlrqqd1cqyzdhft",
-    "employee_id": "1001782573",
-    "employee_name": "LUIS DANIEL VIZCAÍNO GARCÍA",
-    "class_name": "BEATS",
-    "day": "MARTES",
-    "time": "06:30",
-    "location": "Outlet Moda",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "import",
-    "created_at": "2026-09-03T16:58:04.404Z",
-    "updated_at": "2026-09-03T16:58:04.404Z"
-  },
-  {
     "id": "s_mtlrqqd1ir3xevin",
     "employee_id": "1001782573",
     "employee_name": "LUIS DANIEL VIZCAÍNO GARCÍA",
