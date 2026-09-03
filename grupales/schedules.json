@@ -9645,21 +9645,6 @@
     "updated_at": "2026-09-03T16:54:13.686Z"
   },
   {
-    "id": "s_mtlrqqd1rfeoqtex",
-    "employee_id": "1001782573",
-    "employee_name": "LUIS DANIEL VIZCAÍNO GARCÍA",
-    "class_name": "BEATS",
-    "day": "JUEVES",
-    "time": "18:30",
-    "location": "Niquia",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "import",
-    "created_at": "2026-09-03T16:58:04.404Z",
-    "updated_at": "2026-09-03T16:58:04.404Z"
-  },
-  {
     "id": "s_mtlrqqd1deuzmpur",
     "employee_id": "1001782573",
     "employee_name": "LUIS DANIEL VIZCAÍNO GARCÍA",
