@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mtlrpwajzyrhc0i7",
+    "at": "2026-09-03T16:57:25.435Z",
+    "actor": "julian.vasquez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "DANIEL GIL CANO MARTES 18:15 GIRO"
+  },
+  {
     "id": "a_mtlrpu55zdy8wfqc",
     "at": "2026-09-03T16:57:22.649Z",
     "actor": "julian.vasquez@actionblack.co",
