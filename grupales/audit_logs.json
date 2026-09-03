@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mtlrqqd1kbt94d89",
+    "at": "2026-09-03T16:58:04.405Z",
+    "actor": "julian.vasquez@actionblack.co",
+    "action": "SCHEDULE_IMPORT",
+    "detail": "created=20 replaced=0 pending=0 strategy=skip file=NOMINA GRUPALES.xlsx"
+  },
+  {
     "id": "a_mtlrqnb5um9loehs",
     "at": "2026-09-03T16:58:00.449Z",
     "actor": "julian.vasquez@actionblack.co",
