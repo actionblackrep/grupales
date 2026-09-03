@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mtlryev0q5e62umb",
+    "at": "2026-09-03T17:04:02.748Z",
+    "actor": "julian.vasquez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "LUIS DANIEL VIZCAÍNO GARCÍA MARTES 06:30 BEATS"
+  },
+  {
     "id": "a_mtlrydcyu2i8qeji",
     "at": "2026-09-03T17:04:00.802Z",
     "actor": "julian.vasquez@actionblack.co",
