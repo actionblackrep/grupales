@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mtn40mwdmgdcbyxc",
+    "at": "2026-09-04T15:29:28.045Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SEDES_NORMALIZE",
+    "detail": "changed=279"
+  },
+  {
     "id": "a_mtlrym9a34seoapl",
     "at": "2026-09-03T17:04:12.334Z",
     "actor": "julian.vasquez@actionblack.co",
