@@ -66,13 +66,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "06:30",
-    "location": "Fabricato",
+    "location": "Parque Fabricato",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7ujgi5clm",
@@ -96,13 +96,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "06:00",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7s9066o6n",
@@ -156,13 +156,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "05:30",
-    "location": "Fic 48",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7k7exj9go",
@@ -171,13 +171,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "05:15",
-    "location": "Bio 26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7tzwq0zcw",
@@ -216,13 +216,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "05:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7qitugwfl",
@@ -261,13 +261,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "18:15",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7ykkcjscz",
@@ -306,13 +306,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "05:30",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc751qtcik2",
@@ -336,13 +336,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "05:45",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc72i9iqa1g",
@@ -411,13 +411,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "07:30",
-    "location": "Fabricato",
+    "location": "Parque Fabricato",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc71c03s42o",
@@ -441,13 +441,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "07:00",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7zkgxev1m",
@@ -501,13 +501,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "06:30",
-    "location": "Fic 48",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7utvivyac",
@@ -516,13 +516,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "06:15",
-    "location": "Bio 26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7efdb4ktq",
@@ -546,13 +546,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "06:45",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7larkvvjs",
@@ -591,13 +591,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "19:30",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc74j3mr4my",
@@ -636,13 +636,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "06:30",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc78nnaeu48",
@@ -666,13 +666,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "07:00",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7y3bzkuek",
@@ -741,13 +741,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "18:15",
-    "location": "Fabricato",
+    "location": "Parque Fabricato",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7f58jmlo4",
@@ -756,13 +756,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "18:15",
-    "location": "Aves Marias",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7b5tdwonx",
@@ -771,13 +771,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "08:15",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7iurcaf00",
@@ -801,13 +801,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "07:30",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7eaqra6un",
@@ -816,13 +816,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "05:15",
-    "location": "Sabaneta-AVES",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7shsxr8j0",
@@ -831,13 +831,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "18:30",
-    "location": "Fic 48",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7nc12axeu",
@@ -891,13 +891,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "18:15",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc746qhmywc",
@@ -936,13 +936,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:15",
-    "location": "Bio26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7v5t9t1ik",
@@ -981,13 +981,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:30",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc74fr50ftg",
@@ -1011,13 +1011,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "08:15",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7ofny7k7b",
@@ -1086,13 +1086,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "19:15",
-    "location": "Fabricato",
+    "location": "Parque Fabricato",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7c6wrscyg",
@@ -1101,13 +1101,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "19:30",
-    "location": "Aves Marias",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc78mxzpswp",
@@ -1131,13 +1131,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "08:45",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7uznshek6",
@@ -1146,13 +1146,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "06:30",
-    "location": "Sabaneta-AVES",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7wym08cpb",
@@ -1161,13 +1161,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "19:30",
-    "location": "Fic 48",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7csbpcskv",
@@ -1221,13 +1221,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "19:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7u4as1jjy",
@@ -1266,13 +1266,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:15",
-    "location": "Bio26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7ndfihx0y",
@@ -1311,13 +1311,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:30",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc70f3a3g23",
@@ -1341,13 +1341,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:15",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7qvkj60h8",
@@ -1401,13 +1401,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:30",
-    "location": "Poblado",
+    "location": "Éxito Poblado",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7n9pdykuq",
@@ -1446,13 +1446,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "10:00",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc73loc0yyn",
@@ -1461,13 +1461,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "07:15",
-    "location": "Sabaneta-AVES",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7k1qtmrjx",
@@ -1476,13 +1476,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:00",
-    "location": "Fic 48",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7fsbyq7t4",
@@ -1521,13 +1521,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "05:30",
-    "location": "Sabaneta- Aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7vu2eu6d2",
@@ -1551,13 +1551,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "05:45",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7jjc400ay",
@@ -1611,13 +1611,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "17:30",
-    "location": "Sabaneta - aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc76luhqs24",
@@ -1641,13 +1641,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:30",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7n8db1gdi",
@@ -1701,13 +1701,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "18:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7lgb2vip2",
@@ -1731,13 +1731,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:00",
-    "location": "Aves Marias",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7x6yyexk8",
@@ -1746,13 +1746,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "05:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7s8xancps",
@@ -1761,13 +1761,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "06:00",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7s0qyht16",
@@ -1776,13 +1776,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:00",
-    "location": "Fic 48",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7nsu4e58n",
@@ -1821,13 +1821,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "06:45",
-    "location": "Sabaneta- Aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7j9ie6stb",
@@ -1851,13 +1851,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "07:00",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc709g0hert",
@@ -1911,13 +1911,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "18:30",
-    "location": "Sabaneta - aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7nt0ztl36",
@@ -1926,13 +1926,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "17:30",
-    "location": "Exito Poblado",
+    "location": "Éxito Poblado",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7kufx4h6b",
@@ -2016,13 +2016,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "19:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc75i9by3e2",
@@ -2046,13 +2046,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:00",
-    "location": "Aves Marias",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7kw9wdwl7",
@@ -2061,13 +2061,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "06:45",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7ltlmmdbg",
@@ -2076,13 +2076,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "07:00",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc778l2jvyv",
@@ -2091,13 +2091,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "06:30",
-    "location": "Fic 48",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7m6ka4hu1",
@@ -2136,13 +2136,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "07:45",
-    "location": "Sabaneta- Aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7997cnfl7",
@@ -2196,13 +2196,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "06:30",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc71olai5o7",
@@ -2241,13 +2241,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "19:30",
-    "location": "Sabaneta - aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7ti0x1omy",
@@ -2256,13 +2256,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "18:30",
-    "location": "Exito Poblado",
+    "location": "Éxito Poblado",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc778gwgkv9",
@@ -2346,13 +2346,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "20:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7hfg6v1vf",
@@ -2376,13 +2376,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "20:00",
-    "location": "Aves Marias",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7iu0bbl88",
@@ -2391,13 +2391,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "07:00",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7raoy7v1t",
@@ -2541,13 +2541,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "07:45",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7njwvmip6",
@@ -2571,13 +2571,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "05:30",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc79xjolujs",
@@ -2601,13 +2601,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "08:00",
-    "location": "Fabricato",
+    "location": "Parque Fabricato",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc72ep8z0w1",
@@ -2631,13 +2631,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "19:30",
-    "location": "Sabaneta- FIC",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc754rb8abq",
@@ -2661,13 +2661,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "06:00",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc770rgl1lm",
@@ -2676,13 +2676,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "18:15",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7bo0nbzll",
@@ -2721,13 +2721,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "08:15",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7f1z4b9fj",
@@ -2766,13 +2766,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "06:15",
-    "location": "San Bernado",
+    "location": "San Bernardo",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc76o45xv27",
@@ -2826,13 +2826,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "18:15",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc7kg57b3cf",
@@ -2841,13 +2841,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "05:15",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc87gmep8ix",
@@ -2856,13 +2856,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "18:15",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8ca76d5jr",
@@ -2886,13 +2886,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "06:45",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc80swvbaki",
@@ -2916,13 +2916,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "09:00",
-    "location": "Fabricato",
+    "location": "Parque Fabricato",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8cralslnw",
@@ -2946,13 +2946,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "17:30",
-    "location": "Sabaneta- FIC",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8bel5xbth",
@@ -2976,13 +2976,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "07:15",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc89ldglg4i",
@@ -2991,13 +2991,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "07:30",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8akvj3ur6",
@@ -3051,13 +3051,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "05:15",
-    "location": "City PLaza",
+    "location": "City Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8jyh9ts4z",
@@ -3141,13 +3141,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "19:30",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc81xd8rwrw",
@@ -3156,13 +3156,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "06:15",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8pvwed43c",
@@ -3171,13 +3171,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "19:15",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc894xxteee",
@@ -3201,13 +3201,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "18:15",
-    "location": "Bio 26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8y784tfci",
@@ -3216,13 +3216,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "18:15",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc82f8rhklf",
@@ -3231,13 +3231,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "10:00",
-    "location": "Fabricato",
+    "location": "Parque Fabricato",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8ukhuh03e",
@@ -3246,13 +3246,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "06:00",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8i9xfdbzr",
@@ -3321,13 +3321,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "06:15",
-    "location": "City PLaza",
+    "location": "City Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8qwoeumub",
@@ -3396,13 +3396,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "05:30",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc88fm0nki0",
@@ -3411,13 +3411,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "07:15",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8btumg352",
@@ -3426,13 +3426,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "05:45",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8r68j1x2n",
@@ -3456,13 +3456,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "19:15",
-    "location": "Bio 26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8y3y73r8b",
@@ -3471,13 +3471,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "19:30",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc88x8s0i5z",
@@ -3486,13 +3486,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "07:30",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc81ke8sghw",
@@ -3501,13 +3501,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "06:15",
-    "location": "Bio 26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc84f65p5cu",
@@ -3546,13 +3546,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "19:00",
-    "location": "City PLaza",
+    "location": "City Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8c196m726",
@@ -3561,13 +3561,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "07:15",
-    "location": "City PLaza",
+    "location": "City Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8jp0v9qhn",
@@ -3591,13 +3591,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "05:30",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8whbkij2m",
@@ -3606,13 +3606,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "18:15",
-    "location": "Aves Marias",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc87ov0gpbe",
@@ -3621,13 +3621,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "18:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc86v7giwql",
@@ -3636,13 +3636,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "06:45",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc85cix1mp2",
@@ -3666,13 +3666,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "06:45",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8v7zboikj",
@@ -3726,13 +3726,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "08:00",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc829ndqjiy",
@@ -3741,13 +3741,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "07:30",
-    "location": "Bio 26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8g5gif295",
@@ -3786,13 +3786,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "17:30",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8fwnbihcb",
@@ -3816,13 +3816,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "06:45",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8yqew7ywr",
@@ -3831,13 +3831,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "19:30",
-    "location": "Aves Marias",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc88pldsq3t",
@@ -3846,13 +3846,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "19:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8hxav73co",
@@ -3891,13 +3891,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "06:15",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8ljmm29dc",
@@ -3951,13 +3951,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "09:15",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8lev20cp7",
@@ -3966,13 +3966,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "07:10",
-    "location": "Fic 48",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8v607bglz",
@@ -4011,13 +4011,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "18:30",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc807orhmzx",
@@ -4026,13 +4026,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "05:45",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8wcn4934n",
@@ -4056,13 +4056,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "20:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8zk331vrt",
@@ -4101,13 +4101,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "07:20",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc89t3leaeq",
@@ -4146,13 +4146,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "10:15",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8decd24c9",
@@ -4161,13 +4161,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "08:10",
-    "location": "Fic 49",
+    "location": "FIC 48 CD DEL RIO",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8xduubucu",
@@ -4206,13 +4206,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "19:30",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8q1kai24u",
@@ -4221,13 +4221,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "07:00",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc84ucpnr6b",
@@ -4266,13 +4266,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc829znwwve",
@@ -4296,13 +4296,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "18:15",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8szsd0aqz",
@@ -4311,13 +4311,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:15",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8g8ua8a2m",
@@ -4341,13 +4341,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "18:15",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc841wyg7q6",
@@ -4446,13 +4446,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8qzfuux8o",
@@ -4461,13 +4461,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "19:15",
-    "location": "Rio Negro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8x8b65c5n",
@@ -4476,13 +4476,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:30",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8p2m0js0j",
@@ -4506,13 +4506,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "06:00",
-    "location": "Rio Grande",
+    "location": "Plaza Rio Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8af3x6xhk",
@@ -4521,13 +4521,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "19:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc85x0uknmv",
@@ -4626,13 +4626,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "20:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8umt66tnt",
@@ -4641,13 +4641,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "07:15",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc86j74xmxa",
@@ -4656,13 +4656,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "07:30",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8o9vfu4f6",
@@ -4686,13 +4686,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "07:00",
-    "location": "Rio Grande",
+    "location": "Plaza Rio Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8fw8m9yk3",
@@ -4701,13 +4701,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "18:15",
-    "location": "San lucas",
+    "location": "San Lucas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc84x8zere9",
@@ -4806,13 +4806,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "05:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8d518eltd",
@@ -4821,13 +4821,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:15",
-    "location": "PALMAS",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8u5vdv6co",
@@ -4836,13 +4836,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "08:15",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8na8daytp",
@@ -4851,13 +4851,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "09:00",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8czwl6qz9",
@@ -4866,13 +4866,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "07:00",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8stlapv8s",
@@ -4971,13 +4971,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "06:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8ro6fuzrz",
@@ -4986,13 +4986,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:30",
-    "location": "PALMAS",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8saow0fzf",
@@ -5001,13 +5001,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "09:30",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8zv6axqic",
@@ -5016,13 +5016,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "08:15",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8cp86fcx0",
@@ -5061,13 +5061,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "06:00",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8oeycv0eb",
@@ -5091,13 +5091,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "07:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc83g2hit0p",
@@ -5106,13 +5106,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "07:20",
-    "location": "Rio Grande",
+    "location": "Plaza Rio Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8xwfe8oi5",
@@ -5136,13 +5136,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "07:15",
-    "location": "Corteza",
+    "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8xxk4q63w",
@@ -5151,13 +5151,13 @@
     "class_name": "GIRO",
     "day": "DOMINGO",
     "time": "08:15",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8jpker7pm",
@@ -5166,13 +5166,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "08:45",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8wzg6nb3d",
@@ -5181,13 +5181,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "08:20",
-    "location": "Rio Grande",
+    "location": "Plaza Rio Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8m19c4i50",
@@ -5211,13 +5211,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "05:15",
-    "location": "Sabaneta-aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8wy5dq137",
@@ -5226,13 +5226,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "07:30",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8fgzagnwz",
@@ -5241,13 +5241,13 @@
     "class_name": "GIRO",
     "day": "DOMINGO",
     "time": "09:30",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8u9bzdgl7",
@@ -5256,13 +5256,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "10:00",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc836xhqfgi",
@@ -5286,13 +5286,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "05:45",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8pus79laf",
@@ -5301,13 +5301,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "06:15",
-    "location": "Sabaneta-aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8oioagnyx",
@@ -5316,13 +5316,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "08:30",
-    "location": "Molinos",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8h4ktcf8l",
@@ -5331,13 +5331,13 @@
     "class_name": "GIRO",
     "day": "DOMINGO",
     "time": "07:15",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8rw46rbz2",
@@ -5346,13 +5346,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "07:00",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8nqjj4l1m",
@@ -5361,13 +5361,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "07:15",
-    "location": "Sabaneta-aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8l068pt0g",
@@ -5376,13 +5376,13 @@
     "class_name": "GIRO",
     "day": "DOMINGO",
     "time": "08:15",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc89y7zbhn1",
@@ -5391,13 +5391,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "08:15",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8i4dn9ksl",
@@ -5406,13 +5406,13 @@
     "class_name": "GIRO",
     "day": "DOMINGO",
     "time": "09:15",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8s8vt41ha",
@@ -5421,13 +5421,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "07:30",
-    "location": "Sabaneta-aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8944bhsqp",
@@ -5436,13 +5436,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "18:15",
-    "location": "Sabaneta-aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8ay7h6g61",
@@ -5466,13 +5466,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "19:15",
-    "location": "Sabaneta-aves",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc80c2j4ho1",
@@ -5496,13 +5496,13 @@
     "class_name": "GIRO",
     "day": "DOMINGO",
     "time": "08:15",
-    "location": "Sabaneta- viva",
+    "location": "Sabaneta",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8v2og0vi2",
@@ -5511,13 +5511,13 @@
     "class_name": "GIRO",
     "day": "DOMINGO",
     "time": "09:15",
-    "location": "Sabaneta- viva",
+    "location": "Sabaneta",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8anvslh3h",
@@ -5526,13 +5526,13 @@
     "class_name": "GIRO",
     "day": "DOMINGO",
     "time": "10:15",
-    "location": "Sabaneta- viva",
+    "location": "Sabaneta",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8rnghr640",
@@ -5556,13 +5556,13 @@
     "class_name": "BEATS",
     "day": "MIERCOLES",
     "time": "18:15",
-    "location": "Sabaneta-Oviedo",
+    "location": "Oviedo",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc830bqqvch",
@@ -5586,13 +5586,13 @@
     "class_name": "BEATS",
     "day": "LUNES",
     "time": "06:15",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc86z685ej6",
@@ -5631,13 +5631,13 @@
     "class_name": "BEATS",
     "day": "LUNES",
     "time": "18:15",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8c0vtywud",
@@ -5661,13 +5661,13 @@
     "class_name": "BEATS",
     "day": "LUNES",
     "time": "19:15",
-    "location": "Aves Marias",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8kj2upsg3",
@@ -5676,13 +5676,13 @@
     "class_name": "BEATS",
     "day": "MARTES",
     "time": "17:30",
-    "location": "Rionegro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8njm2lkoq",
@@ -5691,13 +5691,13 @@
     "class_name": "BEATS",
     "day": "LUNES",
     "time": "18:30",
-    "location": "Viva Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8kiqs69cm",
@@ -5751,13 +5751,13 @@
     "class_name": "BEATS",
     "day": "MIERCOLES",
     "time": "19:15",
-    "location": "Sabaneta-Oviedo",
+    "location": "Oviedo",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8my9xwmpl",
@@ -5781,13 +5781,13 @@
     "class_name": "BEATS",
     "day": "JUEVES",
     "time": "06:15",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8mnplkq0d",
@@ -5826,13 +5826,13 @@
     "class_name": "BEATS",
     "day": "LUNES",
     "time": "19:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8yh65bj54",
@@ -5856,13 +5856,13 @@
     "class_name": "BEATS",
     "day": "MIERCOLES",
     "time": "18:30",
-    "location": "Aves Marias",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8dx4dxdnh",
@@ -5871,13 +5871,13 @@
     "class_name": "BEATS",
     "day": "JUEVES",
     "time": "17:30",
-    "location": "Rionegro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8vz5iokvx",
@@ -5901,13 +5901,13 @@
     "class_name": "BEATS",
     "day": "LUNES",
     "time": "18:30",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8mfb5skzk",
@@ -5916,13 +5916,13 @@
     "class_name": "BEATS",
     "day": "MARTES",
     "time": "18:15",
-    "location": "Florida",
+    "location": "CC Florida",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8ug7sqhc6",
@@ -5946,13 +5946,13 @@
     "class_name": "BEATS",
     "day": "MIERCOLES",
     "time": "08:00",
-    "location": "Viva Laureles",
+    "location": "Laureles",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8nayz1o7o",
@@ -5976,13 +5976,13 @@
     "class_name": "BEATS",
     "day": "SABADO",
     "time": "09:15",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8tzg15uqj",
@@ -5991,13 +5991,13 @@
     "class_name": "BEATS",
     "day": "VIERNES",
     "time": "18:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8qpwvdcdl",
@@ -6021,13 +6021,13 @@
     "class_name": "BEATS",
     "day": "MIERCOLES",
     "time": "06:15",
-    "location": "Bio 26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8xl65673r",
@@ -6036,13 +6036,13 @@
     "class_name": "BEATS",
     "day": "SABADO",
     "time": "09:00",
-    "location": "Rionegro",
+    "location": "Jardines Llano Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc82qzxa1bh",
@@ -6051,13 +6051,13 @@
     "class_name": "BEATS",
     "day": "MIERCOLES",
     "time": "06:30",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc86uk4yoyt",
@@ -6081,13 +6081,13 @@
     "class_name": "BEATS",
     "day": "JUEVES",
     "time": "06:15",
-    "location": "Florida",
+    "location": "CC Florida",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc846g47cjt",
@@ -6111,13 +6111,13 @@
     "class_name": "BEATS",
     "day": "VIERNES",
     "time": "08:00",
-    "location": "Viva Laureles",
+    "location": "Laureles",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc84h3mo9kv",
@@ -6126,13 +6126,13 @@
     "class_name": "BEATS",
     "day": "VIERNES",
     "time": "18:30",
-    "location": "Florida",
+    "location": "CC Florida",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8idymp0ff",
@@ -6186,13 +6186,13 @@
     "class_name": "BEATS",
     "day": "MARTES",
     "time": "18:30",
-    "location": "Fabricato",
+    "location": "Parque Fabricato",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8pxan0tnt",
@@ -6321,13 +6321,13 @@
     "class_name": "BEATS",
     "day": "VIERNES",
     "time": "06:30",
-    "location": "Sabaneta-AVES",
+    "location": "Aves María",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc84itmcf61",
@@ -6336,13 +6336,13 @@
     "class_name": "BEATS",
     "day": "JUEVES",
     "time": "18:30",
-    "location": "Outlet Moda",
+    "location": "Outlet",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8ts3lx7mq",
@@ -6351,13 +6351,13 @@
     "class_name": "BEATS",
     "day": "JUEVES",
     "time": "06:30",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc84p6c1xpl",
@@ -6366,13 +6366,13 @@
     "class_name": "BEATS",
     "day": "JUEVES",
     "time": "18:30",
-    "location": "Bio 26",
+    "location": "Las Palmas Bio 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc88e16dovs",
@@ -6456,13 +6456,13 @@
     "class_name": "BEATS",
     "day": "SABADO",
     "time": "09:30",
-    "location": "Outlet Moda",
+    "location": "Outlet",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8py20lgwv",
@@ -6516,13 +6516,13 @@
     "class_name": "BEATS",
     "day": "SABADO",
     "time": "06:30",
-    "location": "Arkadia",
+    "location": "CC Arkadia",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8i88kv698",
@@ -6576,13 +6576,13 @@
     "class_name": "BEATS",
     "day": "MIERCOLES",
     "time": "07:00",
-    "location": "Viva Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8edl6eljj",
@@ -6591,13 +6591,13 @@
     "class_name": "BEATS",
     "day": "JUEVES",
     "time": "18:30",
-    "location": "LA 33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8byczwv76",
@@ -6606,13 +6606,13 @@
     "class_name": "BEATS",
     "day": "SABADO",
     "time": "09:15",
-    "location": "Fabricato",
+    "location": "Parque Fabricato",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8c5l6wxr8",
@@ -6621,13 +6621,13 @@
     "class_name": "BEATS",
     "day": "SABADO",
     "time": "09:15",
-    "location": "Viva Palmas",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8jybdhsi8",
@@ -6636,13 +6636,13 @@
     "class_name": "BEATS",
     "day": "DOMINGO",
     "time": "10:00",
-    "location": "Aves Maria",
+    "location": "Aves María",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8lraheral",
@@ -6651,13 +6651,13 @@
     "class_name": "BEATS",
     "day": "DOMINGO",
     "time": "09:30",
-    "location": "LAURELES",
+    "location": "Laureles",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8kw9e3qtn",
@@ -6666,13 +6666,13 @@
     "class_name": "BEATS",
     "day": "MARTES",
     "time": "18:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8m15oan0b",
@@ -6696,13 +6696,13 @@
     "class_name": "BEATS",
     "day": "MARTES",
     "time": "19:30",
-    "location": "Colores",
+    "location": "Los Colores",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8fovjykof",
@@ -6711,13 +6711,13 @@
     "class_name": "BEATS",
     "day": "DOMINGO",
     "time": "09:15",
-    "location": "Sabaneta-AVES",
+    "location": "Aves María",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8lh4ydupg",
@@ -6726,13 +6726,13 @@
     "class_name": "TIBET",
     "day": "LUNES",
     "time": "18:15",
-    "location": "City",
+    "location": "City Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8vxn0vk1z",
@@ -6741,13 +6741,13 @@
     "class_name": "TIBET",
     "day": "LUNES",
     "time": "06:30",
-    "location": "City",
+    "location": "City Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8auy4pai9",
@@ -6816,13 +6816,13 @@
     "class_name": "TIBET",
     "day": "MARTES",
     "time": "06:15",
-    "location": "City",
+    "location": "City Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8jzuhjjm4",
@@ -6831,13 +6831,13 @@
     "class_name": "TIBET",
     "day": "VIERNES",
     "time": "06:00",
-    "location": "City",
+    "location": "City Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc83m1urrb6",
@@ -6846,13 +6846,13 @@
     "class_name": "TIBET",
     "day": "MIERCOLES",
     "time": "19:20",
-    "location": "Florida",
+    "location": "CC Florida",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8dqtow3r5",
@@ -6876,13 +6876,13 @@
     "class_name": "TIBET",
     "day": "JUEVES",
     "time": "06:15",
-    "location": "City",
+    "location": "City Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc82x65fbxu",
@@ -6906,13 +6906,13 @@
     "class_name": "TIBET",
     "day": "JUEVES",
     "time": "18:15",
-    "location": "Florida",
+    "location": "CC Florida",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8zpmoi1ui",
@@ -6936,13 +6936,13 @@
     "class_name": "TIBET",
     "day": "MIERCOLES",
     "time": "07:30",
-    "location": "Sabaneta-OVIEDO",
+    "location": "Oviedo",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc89pgfi4tm",
@@ -6966,13 +6966,13 @@
     "class_name": "TIBET",
     "day": "VIERNES",
     "time": "06:15",
-    "location": "La33",
+    "location": "La 33",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8vfx4u61j",
@@ -6981,13 +6981,13 @@
     "class_name": "TIBET",
     "day": "MARTES",
     "time": "09:00",
-    "location": "Molinos Plazoleta",
+    "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8bo7o4ngp",
@@ -6996,13 +6996,13 @@
     "class_name": "TIBET",
     "day": "VIERNES",
     "time": "05:20",
-    "location": "Sabaneta-OVIEDO",
+    "location": "Oviedo",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8v41inszg",
@@ -7026,13 +7026,13 @@
     "class_name": "TIBET",
     "day": "VIERNES",
     "time": "18:30",
-    "location": "Sabaneta-OVIEDO",
+    "location": "Oviedo",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8tjwp1i5m",
@@ -7101,13 +7101,13 @@
     "class_name": "TIBET",
     "day": "LUNES",
     "time": "06:10",
-    "location": "VIVA PALMAS",
+    "location": "Alto de palmas",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8ywsgu8ps",
@@ -7116,13 +7116,13 @@
     "class_name": "TIBET",
     "day": "DOMINGO",
     "time": "08:20",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8ho1rvf8v",
@@ -7131,13 +7131,13 @@
     "class_name": "TIBET",
     "day": "DOMINGO",
     "time": "09:30",
-    "location": "Palmas",
+    "location": "Alto de palmas",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc83hdbkvb4",
@@ -7161,13 +7161,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "06:45",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc87riq5p0s",
@@ -7176,13 +7176,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "05:45",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8xmml85rf",
@@ -7236,13 +7236,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "08:00",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8tujvhv31",
@@ -7251,13 +7251,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "07:00",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8cxdn4y1s",
@@ -7311,13 +7311,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "18:30",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8bvy133o6",
@@ -7326,13 +7326,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "18:15",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8y1ebgh3k",
@@ -7371,13 +7371,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "19:45",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8qn9raxdx",
@@ -7386,13 +7386,13 @@
     "class_name": "BEATS",
     "day": "JUEVES",
     "time": "19:30",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8at8p1ohu",
@@ -7416,13 +7416,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:15",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc8yimxgyfm",
@@ -7431,13 +7431,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "07:00",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc87zzl6z4n",
@@ -7446,13 +7446,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "18:15",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9xhk916lr",
@@ -7461,13 +7461,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:15",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9vaq0yweu",
@@ -7476,13 +7476,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "08:15",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9ucr6owvs",
@@ -7491,13 +7491,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "19:30",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9g7j7gnwu",
@@ -7506,13 +7506,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "05:30",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc93sq0ln2q",
@@ -7521,13 +7521,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "18:15",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9zgfb3pf8",
@@ -7536,13 +7536,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "05:30",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc95ld8hu7o",
@@ -7551,13 +7551,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "06:45",
-    "location": "Conecta 26 Beats",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9ip4qt5xq",
@@ -7581,13 +7581,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "06:45",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc97ywsaeun",
@@ -7836,13 +7836,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "18:15",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9rta46zen",
@@ -7866,13 +7866,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "06:00",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc933zqmjug",
@@ -7881,13 +7881,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "19:30",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9kjstquaz",
@@ -7911,13 +7911,13 @@
     "class_name": "GIRO",
     "day": "MARTES",
     "time": "07:10",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9gpma6tvs",
@@ -7926,13 +7926,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "07:30",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9hraqvrrf",
@@ -7956,13 +7956,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "18:15",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc91b7sx1l1",
@@ -7971,13 +7971,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "09:00",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9l7g62n7u",
@@ -8001,13 +8001,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "19:30",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9y12xvewu",
@@ -8016,13 +8016,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "07:30",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc96dzz7phl",
@@ -8031,13 +8031,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "09:00",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9v94jtxdt",
@@ -8046,13 +8046,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "10:15",
-    "location": "S.Fe.Bogota",
+    "location": "Santafé Bogotá",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9uwhrsmom",
@@ -8286,13 +8286,13 @@
     "class_name": "BEATS",
     "day": "LUNES",
     "time": "18:45",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9xplr5z5x",
@@ -8316,13 +8316,13 @@
     "class_name": "BEATS",
     "day": "VIERNES",
     "time": "18:15",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9tkh8enit",
@@ -8376,13 +8376,13 @@
     "class_name": "BEATS",
     "day": "DOMINGO",
     "time": "08:00",
-    "location": "PEPE SIERRA",
+    "location": "Pepe Sierra",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9lsamg0v1",
@@ -8391,13 +8391,13 @@
     "class_name": "BEATS",
     "day": "DOMINGO",
     "time": "09:00",
-    "location": "PEPE SIERRA",
+    "location": "Pepe Sierra",
     "modality": "Dominical",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc91zdfce7u",
@@ -8556,13 +8556,13 @@
     "class_name": "TIBET",
     "day": "MARTES",
     "time": "06:15",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9lwxspthj",
@@ -8571,13 +8571,13 @@
     "class_name": "TIBET",
     "day": "MARTES",
     "time": "07:15",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9h33cqw8y",
@@ -8586,13 +8586,13 @@
     "class_name": "TIBET",
     "day": "MIERCOLES",
     "time": "19:00",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9baak131k",
@@ -8601,13 +8601,13 @@
     "class_name": "TIBET",
     "day": "SABADO",
     "time": "09:00",
-    "location": "Conecta 26",
+    "location": "Connecta 26",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc98cv0zqht",
@@ -9216,13 +9216,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "20:00",
-    "location": "Campanella",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc96v4zdc47",
@@ -9246,13 +9246,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "06:00",
-    "location": "Campanella",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9g9mu0qhz",
@@ -9276,13 +9276,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "19:00",
-    "location": "Campanella",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc96uu215g2",
@@ -9306,13 +9306,13 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "22:15",
-    "location": "Campanella",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9z1mbpde0",
@@ -9381,13 +9381,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "08:30",
-    "location": "Campanella",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9e3ttedcz",
@@ -9396,13 +9396,13 @@
     "class_name": "GIRO",
     "day": "JUEVES",
     "time": "08:30",
-    "location": "Campanela",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc92f4zbpsg",
@@ -9411,13 +9411,13 @@
     "class_name": "TIBET",
     "day": "MARTES",
     "time": "17:00",
-    "location": "Unicentro Cali",
+    "location": "Unicentro",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9n8n8wtdc",
@@ -9426,13 +9426,13 @@
     "class_name": "TIBET",
     "day": "MIERCOLES",
     "time": "10:00",
-    "location": "Unicentro Cali",
+    "location": "Unicentro",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9nnt6qkgm",
@@ -9441,13 +9441,13 @@
     "class_name": "TIBET",
     "day": "JUEVES",
     "time": "10:00",
-    "location": "Unicentro Cali",
+    "location": "Unicentro",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9hcs8cv4x",
@@ -9456,13 +9456,13 @@
     "class_name": "TIBET",
     "day": "VIERNES",
     "time": "09:30",
-    "location": "Unicentro Cali",
+    "location": "Unicentro",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc97k2qa4bv",
@@ -9471,13 +9471,13 @@
     "class_name": "BEATS",
     "day": "LUNES",
     "time": "08:00",
-    "location": "Campanella",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9rivii1j3",
@@ -9486,13 +9486,13 @@
     "class_name": "BEATS",
     "day": "LUNES",
     "time": "18:30",
-    "location": "Campanella",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9l2jso6su",
@@ -9501,13 +9501,13 @@
     "class_name": "BEATS",
     "day": "MARTES",
     "time": "19:00",
-    "location": "Campanella",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9mwhzl358",
@@ -9516,13 +9516,13 @@
     "class_name": "BEATS",
     "day": "MIERCOLES",
     "time": "08:00",
-    "location": "Campanella",
+    "location": "Campanella Plaza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9g1ae3cp4",
@@ -9576,13 +9576,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "06:00",
-    "location": "Epic",
+    "location": "Epic Pereira",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc91i9kw79r",
@@ -9591,13 +9591,13 @@
     "class_name": "GIRO",
     "day": "LUNES",
     "time": "18:30",
-    "location": "Epic",
+    "location": "Epic Pereira",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9hnrt3xd9",
@@ -9606,13 +9606,13 @@
     "class_name": "GIRO",
     "day": "MIERCOLES",
     "time": "06:00",
-    "location": "Epic",
+    "location": "Epic Pereira",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9ffwf72y4",
@@ -9621,13 +9621,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "18:30",
-    "location": "Epic",
+    "location": "Epic Pereira",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
     "id": "s_mtlrlsc9cftb1egn",
@@ -9636,12 +9636,12 @@
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "10:30",
-    "location": "Epic",
+    "location": "Epic Pereira",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-04T15:29:28.043Z"
   }
 ]
