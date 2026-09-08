@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "n_mtsuxfi9mm9ot3wr",
+    "employee_id": "1017207973",
+    "employee_name": "LAURA GÓMEZ GARCIA",
+    "date": "2026-09-07",
+    "schedule_id": "s_mtlrlsc8rnghr640",
+    "tipo": "AUSENCIA",
+    "note": "NO LLEGO , SIN AVISAR",
+    "reported_by": "laura.gomez@actionblack.co",
+    "created_at": "2026-09-08T16:01:39.009Z"
+  }
+]
