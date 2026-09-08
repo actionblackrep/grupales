@@ -46,13 +46,15 @@
     "total_classes": 4,
     "total": 180000,
     "status": "SUBMITTED",
-    "alerts": [],
+    "alerts": [
+      "Novedad AUSENCIA 2026-09-07 (BEATS 18:45 Sabaneta) reportada por laura.gomez@actionblack.co despues del envio"
+    ],
     "instructor_note": "",
     "admin_note": "",
     "submitted_at": "2026-09-08T16:04:08.824Z",
     "reviewed_by": null,
     "reviewed_at": null,
     "created_at": "2026-09-08T16:04:08.824Z",
-    "updated_at": "2026-09-08T16:04:08.824Z"
+    "updated_at": "2026-09-08T16:04:51.938Z"
   }
 ]
