@@ -56,5 +56,263 @@
     "reviewed_at": "2026-09-09T17:22:20.786Z",
     "created_at": "2026-09-08T16:04:08.824Z",
     "updated_at": "2026-09-09T17:22:20.786Z"
+  },
+  {
+    "id": "r_mtudei8y4xtsq7ml",
+    "period": "2026-08-2",
+    "employee_id": "1000640712",
+    "employee_name": "MARIANA VELEZ ARANGO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc7g0zzf7p1",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "18:15",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-17",
+          "2026-08-24",
+          "2026-08-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc72i9iqa1g",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "19:30",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-17",
+          "2026-08-24",
+          "2026-08-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7y3bzkuek",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "05:45",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-21",
+          "2026-08-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7ofny7k7b",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "07:00",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-21",
+          "2026-08-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7j6idulb1",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "Cortezza",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-18",
+          "2026-08-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7y1pbi16f",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "Cortezza",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-18",
+          "2026-08-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8rbsd7fpt",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "17:30",
+        "location": "FIC 48 CD DEL RIO",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-19",
+          "2026-08-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc750zs12tr",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:30",
+        "location": "FIC 48 CD DEL RIO",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-19",
+          "2026-08-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8lev20cp7",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "07:10",
+        "location": "FIC 48 CD DEL RIO",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-22",
+          "2026-08-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8decd24c9",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "08:10",
+        "location": "FIC 48 CD DEL RIO",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-22",
+          "2026-08-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7ufrboijy",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "17:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-18",
+          "2026-08-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7yeyhmy0j",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-18",
+          "2026-08-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc81ke8sghw",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "06:15",
+        "location": "Las Palmas Bio 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-20",
+          "2026-08-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc829ndqjiy",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "07:30",
+        "location": "Las Palmas Bio 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-08-20",
+          "2026-08-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Campestre",
+        "classes": 10,
+        "value": 450000
+      },
+      {
+        "location": "Cortezza",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "FIC 48 CD DEL RIO",
+        "classes": 8,
+        "value": 360000
+      },
+      {
+        "location": "La 33",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Las Palmas Bio 26",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 30,
+    "total": 1350000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "Creado por katherine.zapata@actionblack.co",
+    "submitted_at": "2026-09-09T17:26:34.978Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-09T17:26:34.978Z",
+    "updated_at": "2026-09-09T17:26:34.978Z"
   }
 ]
