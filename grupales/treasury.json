@@ -15,8 +15,8 @@
   },
   {
     "cedula": "1017207973",
-    "nombre": "laura gomez",
-    "ss": false,
+    "nombre": "LAURA GÓMEZ GARCIA",
+    "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
     "codigo_banco": "1007",
@@ -25,7 +25,7 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-09T17:23:11.882Z"
   },
   {
     "cedula": "1020408588",
