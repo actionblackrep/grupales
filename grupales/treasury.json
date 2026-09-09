@@ -961,9 +961,9 @@
     "no_cuenta": "488445561357",
     "referencia": "octuno",
     "notas": "",
-    "in_workforce": true,
+    "in_workforce": false,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-09T17:11:39.541Z"
   },
   {
     "cedula": "1020459136",
