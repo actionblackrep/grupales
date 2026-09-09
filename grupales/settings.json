@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "settings",
+    "tarifas": {
+      "normal": 45000,
+      "dominical": 50000,
+      "orienteNormal": 53000,
+      "orienteDominical": 58000
+    },
+    "orienteSedes": [
+      "Alto de palmas",
+      "Jardines Llano Grande",
+      "Plaza Rio Grande"
+    ],
+    "cutoffs": {},
+    "defaultCutoffDays": 1,
+    "bonoSS": 50000,
+    "updated_at": "2026-09-09T17:21:38.479Z"
+  }
+]
