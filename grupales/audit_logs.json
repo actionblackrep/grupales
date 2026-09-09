@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mtud85gwm6hijvd1",
+    "at": "2026-09-09T17:21:38.480Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "SETTINGS_UPDATE",
+    "detail": "{\"normal\":45000,\"dominical\":50000,\"orienteNormal\":53000,\"orienteDominical\":58000}"
+  },
+  {
     "id": "a_mtucvbbvk2f2hb6o",
     "at": "2026-09-09T17:11:39.547Z",
     "actor": "katherine.zapata@actionblack.co",
