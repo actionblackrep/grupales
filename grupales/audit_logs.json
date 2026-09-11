@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mtx6kj1tb3dk6hdb",
+    "at": "2026-09-11T16:38:37.169Z",
+    "actor": "instructor:1128441629",
+    "action": "REPORT_SUBMIT",
+    "detail": "2026-09-1 42 clases $2002000"
+  },
+  {
     "id": "a_mtudf5em1vpteqy7",
     "at": "2026-09-09T17:27:04.990Z",
     "actor": "katherine.zapata@actionblack.co",
