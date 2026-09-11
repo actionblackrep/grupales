@@ -1296,13 +1296,15 @@
     "total_classes": 19,
     "total": 865000,
     "status": "SUBMITTED",
-    "alerts": [],
+    "alerts": [
+      "Novedad AUSENCIA 2026-09-11 (BEATS 06:45 Laureles) reportada por laura.gomez@actionblack.co despues del envio"
+    ],
     "instructor_note": "",
     "admin_note": "",
     "submitted_at": "2026-09-11T17:13:46.786Z",
     "reviewed_by": null,
     "reviewed_at": null,
     "created_at": "2026-09-11T17:13:46.786Z",
-    "updated_at": "2026-09-11T17:13:46.786Z"
+    "updated_at": "2026-09-11T17:14:29.479Z"
   }
 ]
