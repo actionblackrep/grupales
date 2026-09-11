@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mtx7uns732qlchaw",
+    "at": "2026-09-11T17:14:29.479Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA CAMILO ANDRES OROZCO BLANCO 2026-09-11 alerts=1"
+  },
+  {
     "id": "a_mtx7tquaieqvnt36",
     "at": "2026-09-11T17:13:46.786Z",
     "actor": "instructor:1004352490",
