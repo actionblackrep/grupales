@@ -15,8 +15,8 @@
     "cutoffs": {},
     "defaultCutoffDays": 1,
     "bonoSS": 50000,
-    "locked": true,
+    "locked": false,
     "lockedMessage": "",
-    "updated_at": "2026-09-12T03:47:43.870Z"
+    "updated_at": "2026-09-12T03:47:46.788Z"
   }
 ]
