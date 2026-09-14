@@ -1640,14 +1640,14 @@
     "employee_name": "MARIANA VELEZ ARANGO",
     "class_name": "GIRO",
     "day": "MARTES",
-    "time": "19:30",
+    "time": "07:00",
     "location": "Cortezza",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-04T15:29:28.043Z"
+    "updated_at": "2026-09-14T15:15:54.030Z"
   },
   {
     "id": "s_mtlrlsc7n8db1gdi",
