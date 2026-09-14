@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu1ehpx3codlz8iw",
+    "at": "2026-09-14T15:31:27.735Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "LAURA GÓMEZ GARCIA VIERNES 16:04 GIRO"
+  },
+  {
     "id": "a_mu1egsxxfzef3vji",
     "at": "2026-09-14T15:30:44.997Z",
     "actor": "laura.gomez@actionblack.co",
