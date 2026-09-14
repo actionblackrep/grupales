@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu1e60s4xip9tfis",
+    "at": "2026-09-14T15:22:21.940Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "MARIANA VELEZ ARANGO MIERCOLES 18:30 GIRO"
+  },
+  {
     "id": "a_mu1dyz0cxqzn87lt",
     "at": "2026-09-14T15:16:53.052Z",
     "actor": "laura.gomez@actionblack.co",
