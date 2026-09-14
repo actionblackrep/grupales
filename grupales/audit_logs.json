@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu1f2lay06hjkhsc",
+    "at": "2026-09-14T15:47:41.530Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc7n8db1gdi JHON FERNEY AGUDELO DUQUE MIERCOLES 05:45"
+  },
+  {
     "id": "a_mu1eig7tg8avj6qh",
     "at": "2026-09-14T15:32:01.817Z",
     "actor": "laura.gomez@actionblack.co",
