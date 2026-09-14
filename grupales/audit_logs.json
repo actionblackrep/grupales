@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu1ef0kct73k2auu",
+    "at": "2026-09-14T15:29:21.564Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "LAURA GÓMEZ GARCIA LUNES 06:00 BEATS"
+  },
+  {
     "id": "a_mu1e60s4xip9tfis",
     "at": "2026-09-14T15:22:21.940Z",
     "actor": "laura.gomez@actionblack.co",
