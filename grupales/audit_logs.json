@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu1dyz0cxqzn87lt",
+    "at": "2026-09-14T15:16:53.052Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc7yeyhmy0j MARIANA VELEZ ARANGO MARTES 19:30"
+  },
+  {
     "id": "a_mu1dyiyjx4074540",
     "at": "2026-09-14T15:16:32.251Z",
     "actor": "laura.gomez@actionblack.co",
