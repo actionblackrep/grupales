@@ -9658,5 +9658,20 @@
     "source": "manual",
     "created_at": "2026-09-11T16:51:06.631Z",
     "updated_at": "2026-09-11T16:51:06.631Z"
+  },
+  {
+    "id": "s_mu1e60s36f0za91a",
+    "employee_id": "1000640712",
+    "employee_name": "MARIANA VELEZ ARANGO",
+    "class_name": "GIRO",
+    "day": "MIERCOLES",
+    "time": "18:30",
+    "location": "FIC 48 CD DEL RIO",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-14T15:22:21.939Z",
+    "updated_at": "2026-09-14T15:22:21.939Z"
   }
 ]
