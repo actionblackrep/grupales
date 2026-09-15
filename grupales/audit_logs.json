@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu35vojoll5ta5k6",
+    "at": "2026-09-15T21:05:54.948Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA LAURA GÓMEZ GARCIA 2026-09-14 alerts=1"
+  },
+  {
     "id": "a_mu35tn38cd1xcbbe",
     "at": "2026-09-15T21:04:19.748Z",
     "actor": "instructor:1017207973",
