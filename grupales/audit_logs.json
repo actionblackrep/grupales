@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu4amts74n5j1rzs",
+    "at": "2026-09-16T16:06:46.087Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "NOMINA_DELETE",
+    "detail": "6000680499 Ender"
+  },
+  {
     "id": "a_mu4afag0ha8rpmou",
     "at": "2026-09-16T16:00:54.432Z",
     "actor": "katherine.zapata@actionblack.co",
