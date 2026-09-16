@@ -562,7 +562,11 @@
     "updated_at": "2026-09-16T16:24:24.608Z",
     "reporto_ss": false,
     "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "reporto_ss_by": null,
+    "ultimo_pago_at": "2026-09-16T17:52:11.814Z",
+    "ultimo_pago_by": "katherine.zapata@actionblack.co",
+    "ultimo_pago_period": "2026-09-2",
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "195361193",
