@@ -339,7 +339,7 @@
   },
   {
     "cedula": "1152453180",
-    "nombre": "Mario Alejandro Valencia Gavir",
+    "nombre": "ALEJANDRO VALENCIA GAVIRIA",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -349,7 +349,9 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-16T16:11:34.258Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-16T16:11:34.258Z"
   },
   {
     "cedula": "1000660555",
@@ -521,7 +523,7 @@
   },
   {
     "cedula": "52452277",
-    "nombre": "Andrea del pilar salazar Parra",
+    "nombre": "ANDREA DEL PILAR SALAZAR PARRADO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -531,7 +533,9 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-16T16:11:34.258Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-16T16:11:34.258Z"
   },
   {
     "cedula": "1128441629",
@@ -577,7 +581,7 @@
   },
   {
     "cedula": "1152217905",
-    "nombre": "Ana Maria Tirado Mejia",
+    "nombre": "ANA MARIA TIRADO MEJIA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -587,7 +591,9 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-16T16:11:34.258Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-16T16:11:34.258Z"
   },
   {
     "cedula": "94060794",
@@ -605,7 +611,7 @@
   },
   {
     "cedula": "1144070150",
-    "nombre": "Andres Felipe Tello Mopan",
+    "nombre": "ANDRES FELIPE TELLO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -615,7 +621,9 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-16T16:11:34.258Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-16T16:11:34.258Z"
   },
   {
     "cedula": "10308847",
@@ -913,7 +921,7 @@
   },
   {
     "cedula": "1088260299",
-    "nombre": "Amner Serna Borrero",
+    "nombre": "AMNER SERNA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -923,7 +931,9 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-16T16:11:34.258Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-16T16:11:34.258Z"
   },
   {
     "cedula": "1045759211",
@@ -955,7 +965,7 @@
   },
   {
     "cedula": "1020459136",
-    "nombre": "Alan David Mosquera Caro",
+    "nombre": "ALAN DAVID MOSQUERA CARO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -965,7 +975,9 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-16T16:11:34.258Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-16T16:11:34.258Z"
   },
   {
     "cedula": "1143850762",
