@@ -1,5 +1,19 @@
 [
   {
+    "id": "a_mu4b6ar0war5yji9",
+    "at": "2026-09-16T16:21:54.540Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=1 rejected=0"
+  },
+  {
+    "id": "a_mu4b6ar04vledhax",
+    "at": "2026-09-16T16:21:54.540Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "600680499 HENDER JOSE VALLES URDANETA"
+  },
+  {
     "id": "a_mu4b34h3k1zz417t",
     "at": "2026-09-16T16:19:26.439Z",
     "actor": "katherine.zapata@actionblack.co",
