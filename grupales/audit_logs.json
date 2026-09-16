@@ -1,5 +1,54 @@
 [
   {
+    "id": "a_mu4at0c8dx3z09bv",
+    "at": "2026-09-16T16:11:34.520Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=6 rejected=0"
+  },
+  {
+    "id": "a_mu4at0c860wnp711",
+    "at": "2026-09-16T16:11:34.520Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1144070150 ANDRES FELIPE TELLO"
+  },
+  {
+    "id": "a_mu4at0c8tho147lh",
+    "at": "2026-09-16T16:11:34.520Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "52452277 ANDREA DEL PILAR SALAZAR PARRADO"
+  },
+  {
+    "id": "a_mu4at0c7s88mbu6b",
+    "at": "2026-09-16T16:11:34.519Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1152217905 ANA MARIA TIRADO MEJIA"
+  },
+  {
+    "id": "a_mu4at0c75am9djo8",
+    "at": "2026-09-16T16:11:34.519Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1088260299 AMNER SERNA"
+  },
+  {
+    "id": "a_mu4at0c7qm3blbpc",
+    "at": "2026-09-16T16:11:34.519Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1152453180 ALEJANDRO VALENCIA GAVIRIA"
+  },
+  {
+    "id": "a_mu4at0c74lnaid1x",
+    "at": "2026-09-16T16:11:34.519Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1020459136 ALAN DAVID MOSQUERA CARO"
+  },
+  {
     "id": "a_mu4amvpfe6969zlj",
     "at": "2026-09-16T16:06:48.579Z",
     "actor": "laura.gomez@actionblack.co",
