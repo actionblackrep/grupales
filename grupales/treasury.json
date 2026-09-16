@@ -411,7 +411,7 @@
   },
   {
     "cedula": "1126909976",
-    "nombre": "Angelica Maria Cepeda Buelvas",
+    "nombre": "ANGELICA MARIA CEPEDA BUELVAS",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -421,7 +421,7 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-16T16:19:26.234Z"
   },
   {
     "cedula": "1031136942",
@@ -795,7 +795,7 @@
   },
   {
     "cedula": "1053830325",
-    "nombre": "Angie Natalia Sepulveda",
+    "nombre": "ANGIE NATALIA SEPULVEDA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -805,7 +805,7 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-09T16:38:33.532491Z"
+    "updated_at": "2026-09-16T16:19:26.234Z"
   },
   {
     "cedula": "1130613052",
