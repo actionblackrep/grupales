@@ -1022,5 +1022,21 @@
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
     "updated_at": "2026-09-09T16:38:33.532491Z"
+  },
+  {
+    "cedula": "600680499",
+    "nombre": "HENDER JOSE VALLES URDANETA",
+    "ss": false,
+    "tipo_documento": "5",
+    "tipo_transaccion": "37",
+    "codigo_banco": "",
+    "no_cuenta": "",
+    "referencia": "octuno",
+    "notas": "",
+    "in_workforce": true,
+    "reporto_ss": false,
+    "reporto_ss_at": null,
+    "created_at": "2026-09-16T16:06:48.577Z",
+    "updated_at": "2026-09-16T16:06:48.577Z"
   }
 ]
