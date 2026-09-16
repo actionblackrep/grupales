@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu4encoyrlsgs53e",
+    "at": "2026-09-16T17:59:09.058Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "APP_LOCK",
+    "detail": ""
+  },
+  {
     "id": "a_mu4eh1q67fpau71d",
     "at": "2026-09-16T17:54:14.910Z",
     "actor": "katherine.zapata@actionblack.co",
