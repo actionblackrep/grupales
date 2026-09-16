@@ -1,5 +1,19 @@
 [
   {
+    "id": "a_mu4afag0ha8rpmou",
+    "at": "2026-09-16T16:00:54.432Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=1 rejected=0"
+  },
+  {
+    "id": "a_mu4afag0vi1eiw96",
+    "at": "2026-09-16T16:00:54.432Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1017207973 LAURA GÓMEZ GARCIA"
+  },
+  {
     "id": "a_mu4af85uc9n2dxnv",
     "at": "2026-09-16T16:00:51.474Z",
     "actor": "katherine.zapata@actionblack.co",
