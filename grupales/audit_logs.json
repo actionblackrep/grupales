@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu4fcguq95v5u7cc",
+    "at": "2026-09-16T18:18:40.850Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "APP_UNLOCK",
+    "detail": "novedades"
+  },
+  {
     "id": "a_mu4fcerg1dab8sms",
     "at": "2026-09-16T18:18:38.140Z",
     "actor": "laura.gomez@actionblack.co",
