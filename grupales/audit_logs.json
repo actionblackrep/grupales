@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu5wf8tbor76ntug",
+    "at": "2026-09-17T19:04:30.047Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "JULIÁN DAVID MONTOYA SÁNCHEZ SABADO 09:15 GIRO"
+  },
+  {
     "id": "a_mu4fcguq95v5u7cc",
     "at": "2026-09-16T18:18:40.850Z",
     "actor": "laura.gomez@actionblack.co",
