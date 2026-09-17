@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu5wfprspfx7g7qp",
+    "at": "2026-09-17T19:04:52.024Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc7hr5z4arv JULIÁN DAVID MONTOYA SÁNCHEZ SABADO 08:15"
+  },
+  {
     "id": "a_mu5wf8tbor76ntug",
     "at": "2026-09-17T19:04:30.047Z",
     "actor": "laura.gomez@actionblack.co",
