@@ -1,7 +1,7 @@
 [
   {
     "cedula": "71221333",
-    "nombre": "jhon f agudelo",
+    "nombre": "JHON FERNEY AGUDELO DUQUE",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -11,10 +11,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1017207973",
@@ -28,18 +28,18 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
     "ultimo_pago_at": "2026-09-16T16:21:57.275Z",
     "ultimo_pago_by": "laura.gomez@actionblack.co",
     "ultimo_pago_period": "2026-09-1",
     "ultimo_pago_grupo": "pendientes",
-    "reporto_ss_by": null
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1020408588",
-    "nombre": "julian montoya",
+    "nombre": "JULIÁN DAVID MONTOYA SÁNCHEZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -49,14 +49,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1128476063",
-    "nombre": "Leidy Katherin Ospina",
+    "nombre": "LEIDY KATHERIN OSPINA RUIZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -66,14 +66,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "98761840",
-    "nombre": "Jhonnatan Alonso Alvarez",
+    "nombre": "JHONNATAN ALVAREZ HOLGUIN",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -83,14 +83,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1040738085",
-    "nombre": "Christian Fernandez Ibarra",
+    "nombre": "CHRISTIAN FERNANDEZ IBARRA",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -100,14 +100,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1017190525",
-    "nombre": "Diego Yepes",
+    "nombre": "DIEGO MAURICIO YEPES CAMACHO",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -117,14 +117,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1152200378",
-    "nombre": "Cristian Arley Martinez",
+    "nombre": "CRISTIAN ARLEY MARTÍNEZ PINEDA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -134,14 +134,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1152444479",
-    "nombre": "Julian David Garcia Guerrero",
+    "nombre": "JULIAN DAVID GARCIA GUERRERO",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -151,14 +151,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1004870281",
-    "nombre": "Juan David Gomez",
+    "nombre": "JUAN DAVID GÓMEZ ACOSTA",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -168,14 +168,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "43755824",
-    "nombre": "Lina Maria Quiroz",
+    "nombre": "LINA MARIA QUIROZ SALUDO",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -185,14 +185,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "71770170",
-    "nombre": "Carlos Andres Santana",
+    "nombre": "CARLOS ANDRES SANTANA MURIEL",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -202,14 +202,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1069505198",
-    "nombre": "Jorge Eliecer Avecedo Jimenez",
+    "nombre": "JORGE ELIECER ACEVEDO JIMENEZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -219,14 +219,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1152714302",
-    "nombre": "Kelly Urrego Giraldo",
+    "nombre": "KELLY JHOJANA URREGO GIRALDO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -236,14 +236,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "8177932",
-    "nombre": "Luis Felipe Marin",
+    "nombre": "LUIS FELIPE MARIN HINESTROZA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -253,14 +253,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "94151582",
-    "nombre": "Felipe Andres Molina",
+    "nombre": "FELIPE ANDRES MOLINA LOPEZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -270,14 +270,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1007173953",
-    "nombre": "Marlon Alberto de la Cruz",
+    "nombre": "MARLON ALBERTO DE LA CRUZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -287,14 +287,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "71783686",
-    "nombre": "Yidar Enrique Berrio",
+    "nombre": "YIDAR ENRIQUE BERRÍO VELASQUEZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -304,14 +304,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1020481758",
-    "nombre": "Julian Graciano",
+    "nombre": "JULIAN GRACIANO MURILLO",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -321,14 +321,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1129536451",
-    "nombre": "Orlando Jose Bermudez Tovar",
+    "nombre": "ORLANDO JOSÉ BERMÚDEZ TOVAR",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -338,14 +338,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1128470143",
-    "nombre": "Julian David Arango Sanchez",
+    "nombre": "JULIAN DAVID ARANGO SANCHEZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -355,14 +355,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1014258965",
-    "nombre": "Juan Camilo Mora",
+    "nombre": "JUAN CAMILO MORA BARAJAS",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -372,14 +372,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1001773177",
-    "nombre": "Santiago Medina Osorio",
+    "nombre": "SANTIAGO MEDINA OSORIO",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -389,14 +389,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1020486300",
-    "nombre": "Daniela Gil Cano",
+    "nombre": "DANIEL GIL CANO",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -406,10 +406,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1152453180",
@@ -430,7 +430,7 @@
   },
   {
     "cedula": "1000660555",
-    "nombre": "Heidy Yuliet Sanchez",
+    "nombre": "HEIDY YULIET SANCHEZ MAYA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -440,14 +440,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1017153274",
-    "nombre": "Jenny Marcela Barreto",
+    "nombre": "JENNY MARCELA BARRETO GARCIA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -457,14 +457,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1022432732",
-    "nombre": "Miguel del valle",
+    "nombre": "MIGUEL DEL VALLE PAREJO",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -474,14 +474,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1020793228",
-    "nombre": "Luisa Fernanda Ramos",
+    "nombre": "LUISA FERNANDA RAMOS SANCHEZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -491,10 +491,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1126909976",
@@ -508,14 +508,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1031136942",
-    "nombre": "Jersson Favian Angel Hernandez",
+    "nombre": "JERSSON FAVIAN ANGEL HERNANDEZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -525,14 +525,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1152458920",
-    "nombre": "Valentina Calad Ospina",
+    "nombre": "VALENTINA CALAD OSPINA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -542,10 +542,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1000640712",
@@ -570,7 +570,7 @@
   },
   {
     "cedula": "195361193",
-    "nombre": "Oriannis  Veronica Perez",
+    "nombre": "ORIANNIS  VERONICA PEREZ",
     "ss": true,
     "tipo_documento": "5",
     "tipo_transaccion": "37",
@@ -580,14 +580,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1000757514",
-    "nombre": "Juan Alejandro Gomez Restrepo",
+    "nombre": "JUAN ALEJANDRO GÓMEZ RESTREPO",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -597,14 +597,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1004352490",
-    "nombre": "Camilo Andres Orozco Blanco",
+    "nombre": "CAMILO ANDRES OROZCO BLANCO",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -614,14 +614,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1020110626",
-    "nombre": "Oscar Andres Gomez Castrillon",
+    "nombre": "OSCAR ANDRES GOMEZ CASTRILLON",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -631,10 +631,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "52452277",
@@ -655,7 +655,7 @@
   },
   {
     "cedula": "1128441629",
-    "nombre": "Sebastian Velasquez Jimenez",
+    "nombre": "SEBASTIAN VELASQUEZ JIMENEZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -665,14 +665,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1090150571",
-    "nombre": "Julian David Cruz Aristizabal",
+    "nombre": "JULIAN DAVID CRUZ ARISTIZABAL",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -682,14 +682,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "3414488",
-    "nombre": "Jorge Mario Barrera Penagos",
+    "nombre": "JORGE MARIO BARRERA PENAGOS",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -699,10 +699,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1152217905",
@@ -723,7 +723,7 @@
   },
   {
     "cedula": "94060794",
-    "nombre": "Cesar Ivan Arango Bejarano",
+    "nombre": "CESAR IVAN ARANGO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -733,10 +733,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1144070150",
@@ -757,7 +757,7 @@
   },
   {
     "cedula": "10308847",
-    "nombre": "Pablo Hernan Alvear Narvaez",
+    "nombre": "PABLO HERNAN ALVEAR NARVAEZ",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -767,14 +767,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "30402457",
-    "nombre": "Luz Maria Mejia Jaramillo",
+    "nombre": "LUZ MARÍA MEJIA JARAMILLO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -784,14 +784,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1128050157",
-    "nombre": "Diego Miguel herrera Llorente",
+    "nombre": "DIEGO MIGUEL HERRERA LLORENTE",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -801,14 +801,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1006015196",
-    "nombre": "Natalia Rivera Cifuentes",
+    "nombre": "NATALIA RIVERA CIFUENTE",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -818,14 +818,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1128462182",
-    "nombre": "Estiben Areiza Cardona",
+    "nombre": "ESTIBEN AREIZA CARDONA",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -835,14 +835,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1020482523",
-    "nombre": "Santiago Cardenas Martinez",
+    "nombre": "SANTIAGO CÁRDENAS MARTÍNEZ",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -852,14 +852,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1002210492",
-    "nombre": "Natalia Bautista",
+    "nombre": "NATALIA SARAY  BAUTISTA OSPINA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -869,14 +869,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1037592493",
-    "nombre": "Carlos Mario Garcia Rodas",
+    "nombre": "CARLOS MARIO GARCIA RODAS",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -886,14 +886,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1007583409",
-    "nombre": "Kevin Alvarez Doria",
+    "nombre": "KEVIN ALVAREZ DORIA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -903,14 +903,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "71270555",
-    "nombre": "Leonardo Antonio Isaza Restrep",
+    "nombre": "LEONARDO ANTONIO ISAZA RESTREPO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -920,14 +920,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1136886696",
-    "nombre": "Lina Maria Parra Martinez",
+    "nombre": "LINA MARIA PARRA MARTINEZ",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -937,14 +937,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1045759736",
-    "nombre": "David Enrique Echeverria Macha",
+    "nombre": "DAVID ENRIQUE ECHEVERRIA MACHADO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -954,10 +954,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1053830325",
@@ -971,14 +971,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1130613052",
-    "nombre": "Jose Armando Valencia Cano",
+    "nombre": "JOSE ARMANDO VALENCIA CANO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -988,14 +988,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1044423458",
-    "nombre": "Camila Andrea Ariza Navarro",
+    "nombre": "CAMILA ANDREA ARIZA NAVARRO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1005,14 +1005,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1000570970",
-    "nombre": "Maria Alejandra Villegas Ojeda",
+    "nombre": "MARIA ALEJANDRA VILLEGAS OJEDA",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1022,14 +1022,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1128421974",
-    "nombre": "Catherine Andrea Quintero Hena",
+    "nombre": "KATHERINE QUINTERO HENAO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1039,10 +1039,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "6427561",
@@ -1063,7 +1063,7 @@
   },
   {
     "cedula": "1032485975",
-    "nombre": "Jhon Alexander Calderon Barrer",
+    "nombre": "JHON ALEXANDER CALDERÓN BARRERA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1073,14 +1073,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1033180085",
-    "nombre": "Isaac Arango Garcia",
+    "nombre": "ISAAC ARANGO GARCÍA",
     "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1090,14 +1090,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "6781449",
-    "nombre": "Luis Fernando Labastidas",
+    "nombre": "LUIS FERNANDO LABASTIDAS CASTILLO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1107,10 +1107,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1088260299",
@@ -1131,7 +1131,7 @@
   },
   {
     "cedula": "1045759211",
-    "nombre": "Mariela Carolina Echaverria Ma",
+    "nombre": "MARIELA CAROLINA ECHEVERRÍA MACHADO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1141,14 +1141,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1019028020",
-    "nombre": "Miguel Angel Chacon Hincapie",
+    "nombre": "MIGUEL ANGEL CHACON HINCAPIE",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1156,12 +1156,12 @@
     "no_cuenta": "488445561357",
     "referencia": "octuno",
     "notas": "",
-    "in_workforce": false,
+    "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1020459136",
@@ -1182,7 +1182,7 @@
   },
   {
     "cedula": "1143850762",
-    "nombre": "David Vega Acosta",
+    "nombre": "DAVID VEGA ACOSTA",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1192,14 +1192,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1024514574",
-    "nombre": "Luigi Paolo Russi Cardenas",
+    "nombre": "LUIGI PAOLO RUSSI CARDENAS",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1209,14 +1209,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1025881200",
-    "nombre": "Isabella Romero de leon",
+    "nombre": "ISABELLA ROMERO DE LEÓN",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1226,14 +1226,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "1152449486",
-    "nombre": "Daniela Garcia Franco",
+    "nombre": "DANIELA GARCIA FRANCO",
     "ss": false,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
@@ -1243,10 +1243,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   },
   {
     "cedula": "600680499",
@@ -1259,10 +1259,10 @@
     "referencia": "octuno",
     "notas": "",
     "in_workforce": true,
-    "reporto_ss": false,
-    "reporto_ss_at": null,
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-18T20:52:07.663Z",
     "created_at": "2026-09-16T16:06:48.577Z",
-    "updated_at": "2026-09-16T16:24:24.608Z",
-    "reporto_ss_by": null
+    "updated_at": "2026-09-18T20:52:07.663Z",
+    "reporto_ss_by": "katherine.zapata@actionblack.co"
   }
 ]
