@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mu7fcp5n42b9mfhh",
+    "at": "2026-09-18T20:42:10.139Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "REPORT_CREATE_ADMIN",
+    "detail": "MARIANA VELEZ ARANGO 2026-09-2"
+  },
+  {
     "id": "a_mu5zc4tytw8s4y2r",
     "at": "2026-09-17T20:26:03.766Z",
     "actor": "instructor:1017207973",
