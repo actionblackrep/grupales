@@ -1,5 +1,19 @@
 [
   {
+    "id": "a_mu7fedbgwbzshgpe",
+    "at": "2026-09-18T20:43:28.108Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=1 rejected=0"
+  },
+  {
+    "id": "a_mu7fedbg9in3jcmw",
+    "at": "2026-09-18T20:43:28.108Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1000640712 MARIANA VELEZ ARANGO"
+  },
+  {
     "id": "a_mu7fcp5n42b9mfhh",
     "at": "2026-09-18T20:42:10.139Z",
     "actor": "katherine.zapata@actionblack.co",
