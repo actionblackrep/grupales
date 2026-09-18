@@ -834,14 +834,14 @@
     ],
     "total_classes": 33,
     "total": 1485000,
-    "status": "SUBMITTED",
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "Creado por katherine.zapata@actionblack.co",
     "submitted_at": "2026-09-18T20:42:10.138Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "katherine.zapata@actionblack.co",
+    "reviewed_at": "2026-09-18T20:44:51.677Z",
     "created_at": "2026-09-18T20:42:10.138Z",
-    "updated_at": "2026-09-18T20:42:10.138Z"
+    "updated_at": "2026-09-18T20:44:51.677Z"
   }
 ]
