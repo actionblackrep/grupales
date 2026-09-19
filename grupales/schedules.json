@@ -9808,5 +9808,20 @@
     "source": "manual",
     "created_at": "2026-09-19T22:44:09.185Z",
     "updated_at": "2026-09-19T22:44:09.185Z"
+  },
+  {
+    "id": "s_mu8z642kr2rk197z",
+    "employee_id": "1006015196",
+    "employee_name": "NATALIA RIVERA CIFUENTE",
+    "class_name": "BEATS",
+    "day": "JUEVES",
+    "time": "08:35",
+    "location": "Campanella Plaza",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-19T22:44:41.372Z",
+    "updated_at": "2026-09-19T22:44:41.372Z"
   }
 ]
