@@ -2750,14 +2750,14 @@
     "employee_name": "JUAN DAVID GÓMEZ ACOSTA",
     "class_name": "GIRO",
     "day": "MARTES",
-    "time": "06:15",
+    "time": "18:15",
     "location": "San Bernardo",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-04T15:29:28.043Z"
+    "updated_at": "2026-09-21T20:12:03.208Z"
   },
   {
     "id": "s_mtlrlsc76o45xv27",
