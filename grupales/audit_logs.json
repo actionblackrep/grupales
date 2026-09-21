@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubqqrz8ndq73w40",
+    "at": "2026-09-21T21:12:07.460Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "DANIEL GIL CANO MIERCOLES 18:15 GIRO"
+  },
+  {
     "id": "a_mubqq3e1iiyewq3q",
     "at": "2026-09-21T21:11:35.593Z",
     "actor": "laura.gomez@actionblack.co",
