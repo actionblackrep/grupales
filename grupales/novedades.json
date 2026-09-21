@@ -53,16 +53,5 @@
     "note": "estaba en medellin ",
     "reported_by": "laura.gomez@actionblack.co",
     "created_at": "2026-09-17T20:17:08.897Z"
-  },
-  {
-    "id": "n_mu5z0x2zoeb20me3",
-    "employee_id": "1007173953",
-    "employee_name": "MARLON ALBERTO DE LA CRUZ",
-    "date": "2026-09-14",
-    "schedule_id": "s_mtlrlsc9thmzx2g6",
-    "tipo": "AUSENCIA",
-    "note": "estaba en medellin",
-    "reported_by": "laura.gomez@actionblack.co",
-    "created_at": "2026-09-17T20:17:20.507Z"
   }
 ]
