@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubbfwy0mnpulnjl",
+    "at": "2026-09-21T14:03:46.440Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "LUIS DANIEL VIZCAÍNO GARCÍA MIERCOLES 06:45 BEATS"
+  },
+  {
     "id": "a_mub8zbyfygci2w8c",
     "at": "2026-09-21T12:54:53.511Z",
     "actor": "laura.gomez@actionblack.co",
