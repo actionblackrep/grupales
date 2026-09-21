@@ -10858,5 +10858,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:53:32.114Z",
     "updated_at": "2026-09-21T23:53:32.114Z"
+  },
+  {
+    "id": "s_mubwixai3npniowx",
+    "employee_id": "1024514574",
+    "employee_name": "LUIGI PAOLO RUSSI CARDENAS",
+    "class_name": "BEATS",
+    "day": "SABADO",
+    "time": "09:30",
+    "location": "Éxito Av Colombia",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:53:58.794Z",
+    "updated_at": "2026-09-21T23:53:58.794Z"
   }
 ]
