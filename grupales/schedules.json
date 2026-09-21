@@ -10528,5 +10528,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:27:08.263Z",
     "updated_at": "2026-09-21T23:27:08.263Z"
+  },
+  {
+    "id": "s_mubvkt4t94e7jeuv",
+    "employee_id": "98761840",
+    "employee_name": "JHONNATAN ALVAREZ HOLGUIN",
+    "class_name": "BEATS",
+    "day": "SABADO",
+    "time": "10:00",
+    "location": "Oviedo",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:27:27.101Z",
+    "updated_at": "2026-09-21T23:27:27.101Z"
   }
 ]
