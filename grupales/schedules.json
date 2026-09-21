@@ -10618,5 +10618,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:29:48.472Z",
     "updated_at": "2026-09-21T23:29:48.472Z"
+  },
+  {
+    "id": "s_mubvogclb5yub214",
+    "employee_id": "98761840",
+    "employee_name": "JHONNATAN ALVAREZ HOLGUIN",
+    "class_name": "GIRO",
+    "day": "DOMINGO",
+    "time": "10:00",
+    "location": "Campestre",
+    "modality": "Dominical",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:30:17.157Z",
+    "updated_at": "2026-09-21T23:30:17.157Z"
   }
 ]
