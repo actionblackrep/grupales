@@ -9958,5 +9958,20 @@
     "source": "manual",
     "created_at": "2026-09-21T14:13:29.804Z",
     "updated_at": "2026-09-21T14:13:29.804Z"
+  },
+  {
+    "id": "s_mubbt2y17qlz0p4u",
+    "employee_id": "1045759736",
+    "employee_name": "DAVID ENRIQUE ECHEVERRIA MACHADO",
+    "class_name": "BEATS",
+    "day": "JUEVES",
+    "time": "18:15",
+    "location": "Viva Barranquilla",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T14:14:00.745Z",
+    "updated_at": "2026-09-21T14:14:00.745Z"
   }
 ]
