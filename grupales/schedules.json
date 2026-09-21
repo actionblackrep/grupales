@@ -1995,21 +1995,6 @@
     "updated_at": "2026-09-03T16:54:13.686Z"
   },
   {
-    "id": "s_mtlrlsc7eqysy2g4",
-    "employee_id": "3414488",
-    "employee_name": "JORGE MARIO BARRERA PENAGOS",
-    "class_name": "GIRO",
-    "day": "MIERCOLES",
-    "time": "18:15",
-    "location": "Viva Envigado",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "import",
-    "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
-  },
-  {
     "id": "s_mtlrlsc7ygdbyj7w",
     "employee_id": "1128421974",
     "employee_name": "KATHERINE QUINTERO HENAO",
