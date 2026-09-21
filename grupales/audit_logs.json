@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubvkt4tx84cnv92",
+    "at": "2026-09-21T23:27:27.101Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "JHONNATAN ALVAREZ HOLGUIN SABADO 10:00 BEATS"
+  },
+  {
     "id": "a_mubvkeljwidskwa2",
     "at": "2026-09-21T23:27:08.263Z",
     "actor": "laura.gomez@actionblack.co",
