@@ -3846,13 +3846,13 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "06:15",
-    "location": "Jardines Llano Grande",
+    "location": "Plaza Rio Grande",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-04T15:29:28.043Z"
+    "updated_at": "2026-09-21T20:51:33.049Z"
   },
   {
     "id": "s_mtlrlsc8ljmm29dc",
