@@ -9973,5 +9973,20 @@
     "source": "manual",
     "created_at": "2026-09-21T18:53:59.736Z",
     "updated_at": "2026-09-21T18:53:59.736Z"
+  },
+  {
+    "id": "s_mubov39h5bik80bq",
+    "employee_id": "1069505198",
+    "employee_name": "JORGE ELIECER ACEVEDO JIMENEZ",
+    "class_name": "GIRO",
+    "day": "LUNES",
+    "time": "07:30",
+    "location": "Niquia",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T20:19:29.477Z",
+    "updated_at": "2026-09-21T20:19:29.477Z"
   }
 ]
