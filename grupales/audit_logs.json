@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubvv9mostie3tcv",
+    "at": "2026-09-21T23:35:35.040Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "DAVID VEGA ACOSTA JUEVES 06:45 GIRO"
+  },
+  {
     "id": "a_mubvur9opiggorpb",
     "at": "2026-09-21T23:35:11.244Z",
     "actor": "laura.gomez@actionblack.co",
