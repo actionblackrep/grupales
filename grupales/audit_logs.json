@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mublt54ozk5zlzod",
+    "at": "2026-09-21T18:53:59.736Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "CHRISTIAN FERNANDEZ IBARRA JUEVES 17:00 GIRO"
+  },
+  {
     "id": "a_mubls99girgypt5b",
     "at": "2026-09-21T18:53:18.436Z",
     "actor": "laura.gomez@actionblack.co",
