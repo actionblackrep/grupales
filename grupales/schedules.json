@@ -10198,5 +10198,20 @@
     "source": "manual",
     "created_at": "2026-09-21T22:43:38.774Z",
     "updated_at": "2026-09-21T22:43:38.774Z"
+  },
+  {
+    "id": "s_mubu17ks3j1o2er3",
+    "employee_id": "195361193",
+    "employee_name": "ORIANNIS  VERONICA PEREZ",
+    "class_name": "GIRO",
+    "day": "MARTES",
+    "time": "08:00",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T22:44:13.084Z",
+    "updated_at": "2026-09-21T22:44:13.084Z"
   }
 ]
