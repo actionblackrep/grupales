@@ -9973,5 +9973,20 @@
     "source": "manual",
     "created_at": "2026-09-21T14:14:41.027Z",
     "updated_at": "2026-09-21T14:14:41.027Z"
+  },
+  {
+    "id": "s_mublt54oqwv9z0qg",
+    "employee_id": "1040738085",
+    "employee_name": "CHRISTIAN FERNANDEZ IBARRA",
+    "class_name": "GIRO",
+    "day": "JUEVES",
+    "time": "17:00",
+    "location": "Aves María",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T18:53:59.736Z",
+    "updated_at": "2026-09-21T18:53:59.736Z"
   }
 ]
