@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubu2f7j0uunq3f5",
+    "at": "2026-09-21T22:45:09.631Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "ORIANNIS  VERONICA PEREZ JUEVES 08:00 GIRO"
+  },
+  {
     "id": "a_mubu1sxj1v09gme8",
     "at": "2026-09-21T22:44:40.759Z",
     "actor": "laura.gomez@actionblack.co",
