@@ -10093,5 +10093,20 @@
     "source": "manual",
     "created_at": "2026-09-21T21:15:20.596Z",
     "updated_at": "2026-09-21T21:15:20.596Z"
+  },
+  {
+    "id": "s_mubqvgxdlq7qgjfx",
+    "employee_id": "1020486300",
+    "employee_name": "DANIEL GIL CANO",
+    "class_name": "GIRO",
+    "day": "JUEVES",
+    "time": "19:15",
+    "location": "La 33",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T21:15:46.417Z",
+    "updated_at": "2026-09-21T21:15:46.417Z"
   }
 ]
