@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubov39i5r6xlnmo",
+    "at": "2026-09-21T20:19:29.478Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "JORGE ELIECER ACEVEDO JIMENEZ LUNES 07:30 GIRO"
+  },
+  {
     "id": "a_mubolqu3i2wap8ui",
     "at": "2026-09-21T20:12:13.467Z",
     "actor": "laura.gomez@actionblack.co",
