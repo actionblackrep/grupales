@@ -10363,5 +10363,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:07:53.688Z",
     "updated_at": "2026-09-21T23:07:53.688Z"
+  },
+  {
+    "id": "s_mubuw6jw9stsqtfn",
+    "employee_id": "1000570970",
+    "employee_name": "MARIA ALEJANDRA VILLEGAS OJEDA",
+    "class_name": "GIRO",
+    "day": "MARTES",
+    "time": "06:15",
+    "location": "Parque Fabricato",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:08:18.092Z",
+    "updated_at": "2026-09-21T23:08:18.092Z"
   }
 ]
