@@ -10723,5 +10723,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:34:04.825Z",
     "updated_at": "2026-09-21T23:34:33.718Z"
+  },
+  {
+    "id": "s_mubvur9ori1f917o",
+    "employee_id": "1143850762",
+    "employee_name": "DAVID VEGA ACOSTA",
+    "class_name": "GIRO",
+    "day": "JUEVES",
+    "time": "05:30",
+    "location": "Aves María",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:35:11.244Z",
+    "updated_at": "2026-09-21T23:35:11.244Z"
   }
 ]
