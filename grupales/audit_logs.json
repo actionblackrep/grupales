@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubuvnq0rxf3h3ts",
+    "at": "2026-09-21T23:07:53.688Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "MARIA ALEJANDRA VILLEGAS OJEDA MARTES 05:15 GIRO"
+  },
+  {
     "id": "a_mubue7tkfgk4ib1m",
     "at": "2026-09-21T22:54:19.928Z",
     "actor": "laura.gomez@actionblack.co",
