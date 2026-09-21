@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubwbtxumtyqphk8",
+    "at": "2026-09-21T23:48:27.858Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc8tj8ku6ux CAMILO ANDRES OROZCO BLANCO MIERCOLES 18:15"
+  },
+  {
     "id": "a_mubw85khxb438q81",
     "at": "2026-09-21T23:45:36.305Z",
     "actor": "laura.gomez@actionblack.co",
