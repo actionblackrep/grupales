@@ -10573,5 +10573,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:28:26.494Z",
     "updated_at": "2026-09-21T23:28:26.494Z"
+  },
+  {
+    "id": "s_mubvmq9oga3wcxab",
+    "employee_id": "98761840",
+    "employee_name": "JHONNATAN ALVAREZ HOLGUIN",
+    "class_name": "GIRO",
+    "day": "VIERNES",
+    "time": "18:15",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:28:56.700Z",
+    "updated_at": "2026-09-21T23:28:56.700Z"
   }
 ]
