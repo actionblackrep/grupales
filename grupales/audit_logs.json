@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubr0m45pq7vo37l",
+    "at": "2026-09-21T21:19:46.421Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mubqp16eachdcmwb DANIELA GIL CANO MARTES 19:30"
+  },
+  {
     "id": "a_mubr0ifn34sthd4i",
     "at": "2026-09-21T21:19:41.651Z",
     "actor": "laura.gomez@actionblack.co",
