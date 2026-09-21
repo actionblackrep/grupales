@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubvbud1lm6anja3",
+    "at": "2026-09-21T23:20:28.789Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtx70lc7lyv1ayyl JHONNATAN ALVAREZ HOLGUIN LUNES 05:15"
+  },
+  {
     "id": "a_mubuxg8c0b1oho2p",
     "at": "2026-09-21T23:09:17.292Z",
     "actor": "laura.gomez@actionblack.co",
