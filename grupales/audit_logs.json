@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubvnu7sxrpgxcwi",
+    "at": "2026-09-21T23:29:48.472Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "JHONNATAN ALVAREZ HOLGUIN DOMINGO 08:30 GIRO"
+  },
+  {
     "id": "a_mubvn1z3jlunu6ck",
     "at": "2026-09-21T23:29:11.871Z",
     "actor": "laura.gomez@actionblack.co",
