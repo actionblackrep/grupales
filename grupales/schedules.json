@@ -9853,5 +9853,20 @@
     "source": "manual",
     "created_at": "2026-09-21T14:08:28.878Z",
     "updated_at": "2026-09-21T14:08:28.878Z"
+  },
+  {
+    "id": "s_mubbmkpcb3lh2yqu",
+    "employee_id": "1045759211",
+    "employee_name": "MARIELA CAROLINA ECHEVERRÍA MACHADO",
+    "class_name": "BEATS",
+    "day": "JUEVES",
+    "time": "18:30",
+    "location": "Plaza Campestre",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T14:08:57.168Z",
+    "updated_at": "2026-09-21T14:08:57.168Z"
   }
 ]
