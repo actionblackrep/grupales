@@ -10153,5 +10153,20 @@
     "source": "manual",
     "created_at": "2026-09-21T21:55:19.680Z",
     "updated_at": "2026-09-21T21:55:19.680Z"
+  },
+  {
+    "id": "s_mubsaykuxzh7re3u",
+    "employee_id": "195361193",
+    "employee_name": "ORIANNIS  VERONICA PEREZ",
+    "class_name": "GIRO",
+    "day": "LUNES",
+    "time": "06:15",
+    "location": "Aves María",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T21:55:48.750Z",
+    "updated_at": "2026-09-21T21:55:48.750Z"
   }
 ]
