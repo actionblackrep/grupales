@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubw7mgmw6lx97rc",
+    "at": "2026-09-21T23:45:11.542Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "HENDER JOSE VALLES URDANETA SABADO 09:15 BEATS"
+  },
+  {
     "id": "a_mubvv9mostie3tcv",
     "at": "2026-09-21T23:35:35.040Z",
     "actor": "laura.gomez@actionblack.co",
