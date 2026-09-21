@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubudg45veqdezr9",
+    "at": "2026-09-21T22:53:44.021Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc7lxmcig6z SEBASTIAN VELASQUEZ JIMENEZ LUNES 23:00"
+  },
+  {
     "id": "a_mubu7vxji4xjsonk",
     "at": "2026-09-21T22:49:24.583Z",
     "actor": "laura.gomez@actionblack.co",
