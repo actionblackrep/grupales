@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubpv4ui0fkluv8q",
+    "at": "2026-09-21T20:47:31.146Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc8ci538u9a JULIAN DAVID ARANGO SANCHEZ JUEVES 06:45"
+  },
+  {
     "id": "a_mubpur0hkw567rvb",
     "at": "2026-09-21T20:47:13.217Z",
     "actor": "laura.gomez@actionblack.co",
