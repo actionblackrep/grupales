@@ -2415,21 +2415,6 @@
     "updated_at": "2026-09-03T16:54:13.686Z"
   },
   {
-    "id": "s_mtlrlsc7081ytu0h",
-    "employee_id": "1000757514",
-    "employee_name": "JUAN ALEJANDRO GÓMEZ RESTREPO",
-    "class_name": "GIRO",
-    "day": "MARTES",
-    "time": "06:15",
-    "location": "Laureles",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "import",
-    "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
-  },
-  {
     "id": "s_mtlrlsc7022b64pm",
     "employee_id": "1020482523",
     "employee_name": "SANTIAGO CÁRDENAS MARTÍNEZ",
