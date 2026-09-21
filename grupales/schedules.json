@@ -10483,5 +10483,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:24:33.718Z",
     "updated_at": "2026-09-21T23:24:33.718Z"
+  },
+  {
+    "id": "s_mubvi6janqeg0cl7",
+    "employee_id": "98761840",
+    "employee_name": "JHONNATAN ALVAREZ HOLGUIN",
+    "class_name": "GIRO",
+    "day": "VIERNES",
+    "time": "05:45",
+    "location": "Viva Envigado",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:25:24.502Z",
+    "updated_at": "2026-09-21T23:25:24.502Z"
   }
 ]
