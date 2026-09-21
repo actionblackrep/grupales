@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubux1us9wfi6xp7",
+    "at": "2026-09-21T23:08:58.660Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mubuvnq0jlku6gm8 MARIA ALEJANDRA VILLEGAS OJEDA MARTES 05:15"
+  },
+  {
     "id": "a_mubuw6jwy8w8g2aj",
     "at": "2026-09-21T23:08:18.092Z",
     "actor": "laura.gomez@actionblack.co",
