@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubnzll7kkitk9qu",
+    "at": "2026-09-21T19:55:00.235Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc7uznshek6 JUAN ALEJANDRO GÓMEZ RESTREPO LUNES 09:45"
+  },
+  {
     "id": "a_mubnz8pyhe8zlmgt",
     "at": "2026-09-21T19:54:43.558Z",
     "actor": "laura.gomez@actionblack.co",
