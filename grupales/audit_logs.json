@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muboyq885i1w4r2h",
+    "at": "2026-09-21T20:22:19.208Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "JORGE MARIO BARRERA PENAGOS MIERCOLES 18:15 GIRO"
+  },
+  {
     "id": "a_mubov39i5r6xlnmo",
     "at": "2026-09-21T20:19:29.478Z",
     "actor": "laura.gomez@actionblack.co",
