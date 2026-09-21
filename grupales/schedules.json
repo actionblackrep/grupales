@@ -10423,5 +10423,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:21:43.443Z",
     "updated_at": "2026-09-21T23:21:43.443Z"
+  },
+  {
+    "id": "s_mubvdtiu2wizx873",
+    "employee_id": "98761840",
+    "employee_name": "JHONNATAN ALVAREZ HOLGUIN",
+    "class_name": "GIRO",
+    "day": "MARTES",
+    "time": "07:00",
+    "location": "Inferior",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:22:01.014Z",
+    "updated_at": "2026-09-21T23:22:01.014Z"
   }
 ]
