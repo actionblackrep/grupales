@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubbsf2kujpkqf2q",
+    "at": "2026-09-21T14:13:29.804Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "DAVID ENRIQUE ECHEVERRIA MACHADO JUEVES 06:15 GIRO"
+  },
+  {
     "id": "a_mubbrfndnbuf03rs",
     "at": "2026-09-21T14:12:43.897Z",
     "actor": "laura.gomez@actionblack.co",
