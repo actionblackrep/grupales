@@ -9883,5 +9883,20 @@
     "source": "manual",
     "created_at": "2026-09-21T14:09:20.309Z",
     "updated_at": "2026-09-21T14:09:20.309Z"
+  },
+  {
+    "id": "s_mubbodhsyf3zpavg",
+    "employee_id": "1045759736",
+    "employee_name": "DAVID ENRIQUE ECHEVERRIA MACHADO",
+    "class_name": "BEATS",
+    "day": "MARTES",
+    "time": "19:30",
+    "location": "Plaza Campestre",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T14:10:21.136Z",
+    "updated_at": "2026-09-21T14:10:21.136Z"
   }
 ]
