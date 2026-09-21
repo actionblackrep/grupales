@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubwicpewfygqpu5",
+    "at": "2026-09-21T23:53:32.114Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "LUIGI PAOLO RUSSI CARDENAS SABADO 08:00 BEATS"
+  },
+  {
     "id": "a_mubwhvpvew9lirag",
     "at": "2026-09-21T23:53:10.099Z",
     "actor": "laura.gomez@actionblack.co",
