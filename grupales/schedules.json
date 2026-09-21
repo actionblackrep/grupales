@@ -10633,5 +10633,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:30:17.157Z",
     "updated_at": "2026-09-21T23:30:17.157Z"
+  },
+  {
+    "id": "s_mubvq9z1qas5pzjf",
+    "employee_id": "1143850762",
+    "employee_name": "DAVID VEGA ACOSTA",
+    "class_name": "GIRO",
+    "day": "LUNES",
+    "time": "18:45",
+    "location": "Parque Fabricato",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:31:42.205Z",
+    "updated_at": "2026-09-21T23:31:42.205Z"
   }
 ]
