@@ -10127,7 +10127,7 @@
   {
     "id": "s_mubqwpioae9oqywl",
     "employee_id": "1020486300",
-    "employee_name": "DANIEL GIL CANO",
+    "employee_name": "DANIELA GIL CANO",
     "class_name": "GIRO",
     "day": "SABADO",
     "time": "09:30",
@@ -10137,6 +10137,6 @@
     "status": "ACTIVE",
     "source": "manual",
     "created_at": "2026-09-21T21:16:44.208Z",
-    "updated_at": "2026-09-21T21:16:44.208Z"
+    "updated_at": "2026-09-21T21:20:15.176Z"
   }
 ]
