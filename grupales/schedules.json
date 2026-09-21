@@ -10753,5 +10753,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:35:35.039Z",
     "updated_at": "2026-09-21T23:35:35.039Z"
+  },
+  {
+    "id": "s_mubw7mgl9j0ygzvp",
+    "employee_id": "600680499",
+    "employee_name": "HENDER JOSE VALLES URDANETA",
+    "class_name": "BEATS",
+    "day": "SABADO",
+    "time": "09:15",
+    "location": "Aves María",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:45:11.541Z",
+    "updated_at": "2026-09-21T23:45:11.541Z"
   }
 ]
