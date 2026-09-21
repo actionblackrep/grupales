@@ -9868,5 +9868,20 @@
     "source": "manual",
     "created_at": "2026-09-21T14:08:57.168Z",
     "updated_at": "2026-09-21T14:08:57.168Z"
+  },
+  {
+    "id": "s_mubbn2k5x9q2enyg",
+    "employee_id": "1045759211",
+    "employee_name": "MARIELA CAROLINA ECHEVERRÍA MACHADO",
+    "class_name": "BEATS",
+    "day": "LUNES",
+    "time": "18:30",
+    "location": "Viva Barranquilla",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T14:09:20.309Z",
+    "updated_at": "2026-09-21T14:09:20.309Z"
   }
 ]
