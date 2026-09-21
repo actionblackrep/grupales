@@ -10453,5 +10453,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:23:25.474Z",
     "updated_at": "2026-09-21T23:23:25.474Z"
+  },
+  {
+    "id": "s_mubvgjuj27g66h9n",
+    "employee_id": "98761840",
+    "employee_name": "JHONNATAN ALVAREZ HOLGUIN",
+    "class_name": "GIRO",
+    "day": "MARTES",
+    "time": "12:00",
+    "location": "Aves María",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:24:08.443Z",
+    "updated_at": "2026-09-21T23:24:08.443Z"
   }
 ]
