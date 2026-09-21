@@ -10813,5 +10813,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:51:32.413Z",
     "updated_at": "2026-09-21T23:51:32.413Z"
+  },
+  {
+    "id": "s_mubwgd4ps6gu7jdc",
+    "employee_id": "1024514574",
+    "employee_name": "LUIGI PAOLO RUSSI CARDENAS",
+    "class_name": "BEATS",
+    "day": "VIERNES",
+    "time": "07:30",
+    "location": "City Plaza",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T23:51:59.353Z",
+    "updated_at": "2026-09-21T23:51:59.353Z"
   }
 ]
