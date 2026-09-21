@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubr18awamt9ofvk",
+    "at": "2026-09-21T21:20:15.176Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mubqwpioae9oqywl DANIELA GIL CANO SABADO 09:30"
+  },
+  {
     "id": "a_mubr15fqn6gq6fi8",
     "at": "2026-09-21T21:20:11.462Z",
     "actor": "laura.gomez@actionblack.co",
