@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubwhvpvew9lirag",
+    "at": "2026-09-21T23:53:10.099Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mubwfscdthvkpmi6 LUIGI PAOLO RUSSI CARDENAS MIERCOLES 18:30"
+  },
+  {
     "id": "a_mubwhhyli5opf75u",
     "at": "2026-09-21T23:52:52.269Z",
     "actor": "laura.gomez@actionblack.co",
