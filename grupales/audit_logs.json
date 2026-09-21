@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubvtybaphrh8gub",
+    "at": "2026-09-21T23:34:33.718Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mubvtc0p85bz8pd4 DAVID VEGA ACOSTA MIERCOLES 18:45"
+  },
+  {
     "id": "a_mubvtc0q48mc2sdc",
     "at": "2026-09-21T23:34:04.826Z",
     "actor": "laura.gomez@actionblack.co",
