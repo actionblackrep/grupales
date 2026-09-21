@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubtztz4ncozq2l3",
+    "at": "2026-09-21T22:43:08.800Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mubtzd0cw6npavl4 ORIANNIS  VERONICA PEREZ MARTES 05:15"
+  },
+  {
     "id": "a_mubtzd0h1m2rveg0",
     "at": "2026-09-21T22:42:46.817Z",
     "actor": "laura.gomez@actionblack.co",
