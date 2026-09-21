@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubwevt7r0qd0sxv",
+    "at": "2026-09-21T23:50:50.251Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "LUIGI PAOLO RUSSI CARDENAS LUNES 07:30 BEATS"
+  },
+  {
     "id": "a_mubwc2ldqrbahodi",
     "at": "2026-09-21T23:48:39.073Z",
     "actor": "laura.gomez@actionblack.co",
