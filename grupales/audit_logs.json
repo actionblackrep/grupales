@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubvlkayinspxoit",
+    "at": "2026-09-21T23:28:02.314Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "JHONNATAN ALVAREZ HOLGUIN JUEVES 18:15 GIRO"
+  },
+  {
     "id": "a_mubvkt4tx84cnv92",
     "at": "2026-09-21T23:27:27.101Z",
     "actor": "laura.gomez@actionblack.co",
