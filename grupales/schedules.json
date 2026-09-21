@@ -10333,5 +10333,20 @@
     "source": "manual",
     "created_at": "2026-09-21T22:49:06.719Z",
     "updated_at": "2026-09-21T22:49:06.719Z"
+  },
+  {
+    "id": "s_mubu7vxjnvzcpiaq",
+    "employee_id": "195361193",
+    "employee_name": "ORIANNIS  VERONICA PEREZ",
+    "class_name": "GIRO",
+    "day": "SABADO",
+    "time": "09:45",
+    "location": "Campestre",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T22:49:24.583Z",
+    "updated_at": "2026-09-21T22:49:24.583Z"
   }
 ]
