@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubbq1njjtc4baj0",
+    "at": "2026-09-21T14:11:39.103Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "DAVID ENRIQUE ECHEVERRIA MACHADO MARTES 18:15 BEATS"
+  },
+  {
     "id": "a_mubbodht6ud81gtr",
     "at": "2026-09-21T14:10:21.137Z",
     "actor": "laura.gomez@actionblack.co",
