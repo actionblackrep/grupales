@@ -9838,5 +9838,20 @@
     "source": "manual",
     "created_at": "2026-09-21T14:07:01.895Z",
     "updated_at": "2026-09-21T14:07:01.895Z"
+  },
+  {
+    "id": "s_mubblyvi4lu91bjy",
+    "employee_id": "1045759211",
+    "employee_name": "MARIELA CAROLINA ECHEVERRÍA MACHADO",
+    "class_name": "BEATS",
+    "day": "MIERCOLES",
+    "time": "06:15",
+    "location": "Altos Del Prado",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T14:08:28.878Z",
+    "updated_at": "2026-09-21T14:08:28.878Z"
   }
 ]
