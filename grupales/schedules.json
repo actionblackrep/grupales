@@ -9973,5 +9973,20 @@
     "source": "manual",
     "created_at": "2026-09-21T14:14:41.027Z",
     "updated_at": "2026-09-21T14:14:41.027Z"
+  },
+  {
+    "id": "s_mublpy29t0upfqgh",
+    "employee_id": "1040738085",
+    "employee_name": "CHRISTIAN FERNANDEZ IBARRA",
+    "class_name": "GIRO",
+    "day": "JUEVES",
+    "time": "17:00",
+    "location": "ZONA SUR",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T18:51:30.609Z",
+    "updated_at": "2026-09-21T18:51:30.609Z"
   }
 ]
