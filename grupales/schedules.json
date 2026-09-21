@@ -9793,5 +9793,20 @@
     "source": "manual",
     "created_at": "2026-09-19T22:44:41.372Z",
     "updated_at": "2026-09-19T22:44:41.372Z"
+  },
+  {
+    "id": "s_mubbh44m1kw9khw8",
+    "employee_id": "6781449",
+    "employee_name": "LUIS FERNANDO LABASTIDAS CASTILLO",
+    "class_name": "BEATS",
+    "day": "LUNES",
+    "time": "06:00",
+    "location": "Altos Del Prado",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-21T14:04:42.406Z",
+    "updated_at": "2026-09-21T14:04:42.406Z"
   }
 ]
