@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubbj7fy7zkbqrpn",
+    "at": "2026-09-21T14:06:20.014Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "LUIS FERNANDO LABASTIDAS CASTILLO MIERCOLES 18:45 BEATS"
+  },
+  {
     "id": "a_mubbhx9axyhoxndj",
     "at": "2026-09-21T14:05:20.158Z",
     "actor": "laura.gomez@actionblack.co",
