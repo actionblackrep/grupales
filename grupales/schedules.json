@@ -10963,5 +10963,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:36:49.513Z",
     "updated_at": "2026-09-22T00:36:49.513Z"
+  },
+  {
+    "id": "s_muby2hyop2yv2spk",
+    "employee_id": "1020459136",
+    "employee_name": "ALAN DAVID MOSQUERA CARO",
+    "class_name": "BEATS",
+    "day": "MIERCOLES",
+    "time": "18:30",
+    "location": "Outlet",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:37:11.664Z",
+    "updated_at": "2026-09-22T00:37:11.664Z"
   }
 ]
