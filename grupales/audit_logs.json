@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubylm4mp5y3k7lc",
+    "at": "2026-09-22T00:52:03.526Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "KELLY JHOJANA URREGO GIRALDO JUEVES 19:15 TIBET"
+  },
+  {
     "id": "a_mubyl1xwmt9q9m41",
     "at": "2026-09-22T00:51:37.364Z",
     "actor": "laura.gomez@actionblack.co",
