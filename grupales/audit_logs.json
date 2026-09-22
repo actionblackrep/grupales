@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mud0k1gawj3w8iei",
+    "at": "2026-09-22T18:34:35.483Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "LAURA GÓMEZ GARCIA LUNES 00:00 BEATS"
+  },
+  {
     "id": "a_mud0hfaqboo3bz0y",
     "at": "2026-09-22T18:32:33.458Z",
     "actor": "instructor:1152217905",
