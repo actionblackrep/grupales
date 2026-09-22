@@ -1183,5 +1183,82 @@
     "reviewed_at": "2026-09-22T16:13:32.929Z",
     "created_at": "2026-09-22T15:51:46.307Z",
     "updated_at": "2026-09-22T16:13:32.929Z"
+  },
+  {
+    "id": "r_mucw42k7bq2qeimv",
+    "period": "2026-09-2",
+    "employee_id": "6781449",
+    "employee_name": "LUIS FERNANDO LABASTIDAS CASTILLO",
+    "rows": [
+      {
+        "schedule_id": "s_mubbhx9a8p5ih4f3",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:45",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubbj7fyslsvwb50",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:45",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mubbk3rb9rfznpqp",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:15",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Altos Del Prado",
+        "classes": 5,
+        "value": 225000
+      },
+      {
+        "location": "Viva Barranquilla",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 7,
+    "total": 315000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T16:30:11.959Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T16:30:11.959Z",
+    "updated_at": "2026-09-22T16:30:11.959Z"
   }
 ]
