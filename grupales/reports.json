@@ -6649,5 +6649,356 @@
     "reviewed_at": null,
     "created_at": "2026-09-22T19:51:51.971Z",
     "updated_at": "2026-09-22T19:51:51.971Z"
+  },
+  {
+    "id": "r_mud54h647za1qqxa",
+    "period": "2026-09-2",
+    "employee_id": "1069505198",
+    "employee_name": "JORGE ELIECER ACEVEDO JIMENEZ",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc7bq19zip0",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "05:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7nt30ihyw",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "06:45",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7m2n7sajx",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "07:45",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7k0mp4qiv",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "06:15",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7v4x8ny0z",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "07:30",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8jaxyynsp",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "05:15",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8ro66p1aj",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "06:30",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7gh7agkyq",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "Inferior",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7u9k0e9ef",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:30",
+        "location": "Inferior",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc87ov0gpbe",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "18:00",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc88pldsq3t",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:00",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8j507mk3v",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "20:00",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7amlj2g6h",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "06:15",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubov39h5bik80bq",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "07:30",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8zwpfv43o",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "05:45",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8id5ldyzf",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "06:45",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8h43s8qxd",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "07:30",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8199molzk",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "08:30",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8kb2kjmi0",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "09:30",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 9,
+        "value": 405000
+      },
+      {
+        "location": "Belen",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Campestre",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Inferior",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Niquia",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Viva Envigado",
+        "classes": 6,
+        "value": 270000
+      }
+    ],
+    "total_classes": 43,
+    "total": 1935000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T20:42:27.436Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T20:42:27.436Z",
+    "updated_at": "2026-09-22T20:42:27.436Z"
   }
 ]
