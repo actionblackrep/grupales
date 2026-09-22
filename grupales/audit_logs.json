@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muby6fwwlgpk37p7",
+    "at": "2026-09-22T00:40:15.632Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "DANIELA GARCIA FRANCO VIERNES 06:30 BEATS"
+  },
+  {
     "id": "a_muby5xktzz87jgrd",
     "at": "2026-09-22T00:39:51.869Z",
     "actor": "laura.gomez@actionblack.co",
