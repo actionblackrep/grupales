@@ -10843,5 +10843,20 @@
     "source": "manual",
     "created_at": "2026-09-21T23:53:58.794Z",
     "updated_at": "2026-09-21T23:53:58.794Z"
+  },
+  {
+    "id": "s_mubx3p4me01qa5br",
+    "employee_id": "1002210492",
+    "employee_name": "NATALIA SARAY  BAUTISTA OSPINA",
+    "class_name": "BEATS",
+    "day": "MARTES",
+    "time": "19:00",
+    "location": "Parque Fabricato",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:10:07.990Z",
+    "updated_at": "2026-09-22T00:10:07.990Z"
   }
 ]
