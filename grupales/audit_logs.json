@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mud0kjkghlt1hwj3",
+    "at": "2026-09-22T18:34:58.960Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "LAURA GÓMEZ GARCIA SABADO 09:15 BEATS"
+  },
+  {
     "id": "a_mud0kdopfyr4wi3w",
     "at": "2026-09-22T18:34:51.337Z",
     "actor": "laura.gomez@actionblack.co",
