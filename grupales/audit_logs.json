@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mud0k9p17fn3hb9j",
+    "at": "2026-09-22T18:34:46.165Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "LAURA GÓMEZ GARCIA JUEVES 15:00 GIRO"
+  },
+  {
     "id": "a_mud0k4jem4xrqly3",
     "at": "2026-09-22T18:34:39.482Z",
     "actor": "laura.gomez@actionblack.co",
