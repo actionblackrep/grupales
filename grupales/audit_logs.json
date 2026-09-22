@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubx37a2vj4jj0m6",
+    "at": "2026-09-22T00:09:44.858Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc8j49f2rsa NATALIA SARAY  BAUTISTA OSPINA MARTES 18:00"
+  },
+  {
     "id": "a_mubwxhug0favq2jf",
     "at": "2026-09-22T00:05:18.616Z",
     "actor": "laura.gomez@actionblack.co",
