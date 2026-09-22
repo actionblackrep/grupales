@@ -11023,5 +11023,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:38:53.899Z",
     "updated_at": "2026-09-22T00:38:53.899Z"
+  },
+  {
+    "id": "s_muby574f4zad1myn",
+    "employee_id": "1152449486",
+    "employee_name": "DANIELA GARCIA FRANCO",
+    "class_name": "BEATS",
+    "day": "MARTES",
+    "time": "18:15",
+    "location": "Éxito Av Colombia",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:39:17.583Z",
+    "updated_at": "2026-09-22T00:39:17.583Z"
   }
 ]
