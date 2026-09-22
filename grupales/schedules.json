@@ -11068,5 +11068,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:52:52.739Z",
     "updated_at": "2026-09-22T00:52:52.739Z"
+  },
+  {
+    "id": "s_mucptcjikl2n0ky5",
+    "employee_id": "1032485975",
+    "employee_name": "JHON ALEXANDER CALDERÓN BARRERA",
+    "class_name": "GIRO",
+    "day": "LUNES",
+    "time": "18:15",
+    "location": "Connecta 26",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T13:33:53.982Z",
+    "updated_at": "2026-09-22T13:33:53.982Z"
   }
 ]
