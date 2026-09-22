@@ -4785,5 +4785,191 @@
     "reviewed_at": null,
     "created_at": "2026-09-22T19:04:50.726Z",
     "updated_at": "2026-09-22T19:05:06.206Z"
+  },
+  {
+    "id": "r_mud1o8ic21wpuz2w",
+    "period": "2026-09-2",
+    "employee_id": "71770170",
+    "employee_name": "CARLOS ANDRES SANTANA MURIEL",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc7vu2eu6d2",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7j9ie6stb",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7997cnfl7",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "05:45",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7mk20iqb7",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "07:30",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc74mys7hdz",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "05:30",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7lkhcmuan",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "06:45",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc73b50fbhm",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "18:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7hpx1evpz",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "19:30",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7cq93yvgg",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "05:30",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8q4jp9b4s",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "06:45",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Belen",
+        "classes": 8,
+        "value": 360000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 8,
+        "value": 360000
+      },
+      {
+        "location": "San Bernardo",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 20,
+    "total": 900000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T19:05:50.868Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T19:05:50.868Z",
+    "updated_at": "2026-09-22T19:05:50.868Z"
   }
 ]
