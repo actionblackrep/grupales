@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubykodpkiaalmqo",
+    "at": "2026-09-22T00:51:19.789Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc83m1urrb6 KELLY JHOJANA URREGO GIRALDO MIERCOLES 18:00"
+  },
+  {
     "id": "a_mubyka1prowf49ez",
     "at": "2026-09-22T00:51:01.213Z",
     "actor": "laura.gomez@actionblack.co",
