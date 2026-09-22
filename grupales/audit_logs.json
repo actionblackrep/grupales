@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mucpuemybdig3rnc",
+    "at": "2026-09-22T13:34:43.354Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "JHON ALEXANDER CALDERÓN BARRERA LUNES 19:30 GIRO"
+  },
+  {
     "id": "a_mucptcjr32anoww5",
     "at": "2026-09-22T13:33:53.991Z",
     "actor": "laura.gomez@actionblack.co",
