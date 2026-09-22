@@ -10858,5 +10858,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:14:42.170Z",
     "updated_at": "2026-09-22T00:14:42.170Z"
+  },
+  {
+    "id": "s_mubxas7yzmwna78o",
+    "employee_id": "1025881200",
+    "employee_name": "ISABELLA ROMERO DE LEÓN",
+    "class_name": "BEATS",
+    "day": "LUNES",
+    "time": "06:15",
+    "location": "CC Florida",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:15:38.590Z",
+    "updated_at": "2026-09-22T00:15:38.590Z"
   }
 ]
