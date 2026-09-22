@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mucwo71e5jth6su0",
+    "at": "2026-09-22T16:45:50.882Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mucwnk7sl74s1qlp MIGUEL ANGEL CHACON HINCAPIE SABADO 07:30"
+  },
+  {
     "id": "a_mucwnymxt54cxzqz",
     "at": "2026-09-22T16:45:39.993Z",
     "actor": "laura.gomez@actionblack.co",
