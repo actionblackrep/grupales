@@ -11263,5 +11263,20 @@
     "source": "manual",
     "created_at": "2026-09-22T18:44:22.785Z",
     "updated_at": "2026-09-22T18:44:22.785Z"
+  },
+  {
+    "id": "s_mud12r45be93qsbf",
+    "employee_id": "43755824",
+    "employee_name": "LINA MARIA QUIROZ SALUDO",
+    "class_name": "TIBET",
+    "day": "SABADO",
+    "time": "10:30",
+    "location": "Alto de palmas",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T18:49:08.549Z",
+    "updated_at": "2026-09-22T18:49:08.549Z"
   }
 ]
