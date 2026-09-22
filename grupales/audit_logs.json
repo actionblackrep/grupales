@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mucx7453ikl3oxnl",
+    "at": "2026-09-22T17:00:33.591Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "JUAN ALEJANDRO GÓMEZ RESTREPO MARTES 18:15 GIRO"
+  },
+  {
     "id": "a_mucws2s0iaggenk7",
     "at": "2026-09-22T16:48:51.984Z",
     "actor": "laura.gomez@actionblack.co",
