@@ -11308,5 +11308,20 @@
     "source": "manual",
     "created_at": "2026-09-22T17:00:33.591Z",
     "updated_at": "2026-09-22T17:00:33.591Z"
+  },
+  {
+    "id": "s_mucx7q96dfd94irc",
+    "employee_id": "1000757514",
+    "employee_name": "JUAN ALEJANDRO GÓMEZ RESTREPO",
+    "class_name": "GIRO",
+    "day": "MARTES",
+    "time": "19:30",
+    "location": "Laureles",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T17:01:02.250Z",
+    "updated_at": "2026-09-22T17:01:02.250Z"
   }
 ]
