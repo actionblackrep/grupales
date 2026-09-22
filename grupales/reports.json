@@ -1787,5 +1787,326 @@
     "reviewed_at": null,
     "created_at": "2026-09-22T18:52:19.443Z",
     "updated_at": "2026-09-22T18:52:19.443Z"
+  },
+  {
+    "id": "r_mud18v2bdmic2ruf",
+    "period": "2026-09-2",
+    "employee_id": "98761840",
+    "employee_name": "JHONNATAN ALVAREZ HOLGUIN",
+    "rows": [
+      {
+        "schedule_id": "s_mubvfmoyw81wkys5",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "11:00",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvgjuj27g66h9n",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "12:00",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvh3cmb0ewjam0",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "13:00",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvnu7s1ue5vamn",
+        "class_name": "GIRO",
+        "day": "DOMINGO",
+        "time": "08:30",
+        "location": "Campestre",
+        "modality": "Dominical",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mubvogclb5yub214",
+        "class_name": "GIRO",
+        "day": "DOMINGO",
+        "time": "10:00",
+        "location": "Campestre",
+        "modality": "Dominical",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtx70lc7lyv1ayyl",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "05:15",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvchpnpo5rwn5b",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "06:15",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvcy8pwivuhotm",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "07:15",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvmq9oga3wcxab",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "18:15",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvn1z3mg4fzjsz",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "19:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvdfyrvp8kppog",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "06:00",
+        "location": "Inferior",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvdtiu2wizx873",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "07:00",
+        "location": "Inferior",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvlkaxuambvy68",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "18:15",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvm2ym6bk6qbus",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:15",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvkeljv8bymmju",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:00",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvkt4t94e7jeuv",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "10:00",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubvi6janqeg0cl7",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "05:45",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubviqhw91gmok2b",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "06:45",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Campestre",
+        "classes": 10,
+        "value": 470000
+      },
+      {
+        "location": "City Plaza",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Inferior",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 8,
+        "value": 360000
+      },
+      {
+        "location": "Viva Envigado",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 36,
+    "total": 1640000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T18:53:53.603Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T18:53:53.603Z",
+    "updated_at": "2026-09-22T18:53:53.603Z"
   }
 ]
