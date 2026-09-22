@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mud0hfaqboo3bz0y",
+    "at": "2026-09-22T18:32:33.458Z",
+    "actor": "instructor:1152217905",
+    "action": "REPORT_SUBMIT",
+    "detail": "2026-09-2 1 clases $45000"
+  },
+  {
     "id": "a_mucy8z2hla4648jd",
     "at": "2026-09-22T17:29:59.945Z",
     "actor": "laura.gomez@actionblack.co",
