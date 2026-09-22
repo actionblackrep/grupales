@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mud0l3l8xjm7nrvg",
+    "at": "2026-09-22T18:35:24.908Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc8rnghr640 LAURA GÓMEZ GARCIA LUNES 18:00"
+  },
+  {
     "id": "a_mud0kqz4tfkbkh9u",
     "at": "2026-09-22T18:35:08.560Z",
     "actor": "laura.gomez@actionblack.co",
