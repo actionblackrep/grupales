@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mud0w6vwno0gw7m5",
+    "at": "2026-09-22T18:44:02.397Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mud0vyjrwqwxpzfw JORGE MARIO BARRERA PENAGOS MIERCOLES 18:15"
+  },
+  {
     "id": "a_mud0vyjs61dnooab",
     "at": "2026-09-22T18:43:51.592Z",
     "actor": "laura.gomez@actionblack.co",
