@@ -7710,21 +7710,6 @@
     "updated_at": "2026-09-03T16:54:13.686Z"
   },
   {
-    "id": "s_mtlrlsc92fm9q1zw",
-    "employee_id": "1020793228",
-    "employee_name": "LUISA FERNANDA RAMOS SANCHEZ",
-    "class_name": "GIRO",
-    "day": "LUNES",
-    "time": "18:15",
-    "location": "Connecta 26",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "import",
-    "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-04T15:29:28.043Z"
-  },
-  {
     "id": "s_mtlrlsc9rta46zen",
     "employee_id": "1014258965",
     "employee_name": "JUAN CAMILO MORA BARAJAS",
