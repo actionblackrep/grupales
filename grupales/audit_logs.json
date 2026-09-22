@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubxas7zoyrj1kpj",
+    "at": "2026-09-22T00:15:38.591Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "ISABELLA ROMERO DE LEÓN LUNES 06:15 BEATS"
+  },
+  {
     "id": "a_mubx9koridzls3ea",
     "at": "2026-09-22T00:14:42.171Z",
     "actor": "laura.gomez@actionblack.co",
