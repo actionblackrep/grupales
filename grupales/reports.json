@@ -7000,5 +7000,143 @@
     "reviewed_at": null,
     "created_at": "2026-09-22T20:42:27.436Z",
     "updated_at": "2026-09-22T20:42:27.436Z"
+  },
+  {
+    "id": "r_mud60sq6zr9oh9r6",
+    "period": "2026-09-2",
+    "employee_id": "1017190525",
+    "employee_name": "DIEGO MAURICIO YEPES CAMACHO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc7iu0bbl88",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "07:00",
+        "location": "Alto de palmas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 53000,
+        "subtotal": 159000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7rossidd2",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "08:15",
+        "location": "Alto de palmas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 53000,
+        "subtotal": 159000
+      },
+      {
+        "schedule_id": "s_mtlrlsc78mxzpswp",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "05:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7r4dltbpg",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "06:45",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7s9066o6n",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "17:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7zkgxev1m",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7iurcaf00",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "19:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Alto de palmas",
+        "classes": 6,
+        "value": 318000
+      },
+      {
+        "location": "La 33",
+        "classes": 10,
+        "value": 450000
+      }
+    ],
+    "total_classes": 16,
+    "total": 768000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T21:07:35.406Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T21:07:35.406Z",
+    "updated_at": "2026-09-22T21:07:35.406Z"
   }
 ]
