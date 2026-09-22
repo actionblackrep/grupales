@@ -10873,5 +10873,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:15:38.590Z",
     "updated_at": "2026-09-22T00:15:38.590Z"
+  },
+  {
+    "id": "s_mubxbdmaj32481vk",
+    "employee_id": "1025881200",
+    "employee_name": "ISABELLA ROMERO DE LEÓN",
+    "class_name": "BEATS",
+    "day": "MARTES",
+    "time": "06:30",
+    "location": "Los Colores",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:16:06.322Z",
+    "updated_at": "2026-09-22T00:16:06.322Z"
   }
 ]
