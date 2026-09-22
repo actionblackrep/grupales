@@ -2235,5 +2235,198 @@
     "reviewed_at": null,
     "created_at": "2026-09-22T18:54:34.009Z",
     "updated_at": "2026-09-22T18:54:34.009Z"
+  },
+  {
+    "id": "r_mud1bw54c9cfmqdp",
+    "period": "2026-09-2",
+    "employee_id": "1152453180",
+    "employee_name": "ALEJANDRO VALENCIA GAVIRIA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc72gc19ocm",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "06:00",
+        "location": "Alto de palmas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 53000,
+        "subtotal": 106000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7e8n4xxw3",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "07:00",
+        "location": "Alto de palmas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 53000,
+        "subtotal": 106000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7b5tdwonx",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "08:15",
+        "location": "Alto de palmas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 53000,
+        "subtotal": 106000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7rhva66sy",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:00",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7dny7fqw9",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "19:00",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7prq0yj2j",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "20:00",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8649b42ux",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "18:00",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8cs3fgj7y",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:00",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7uqjom624",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8fvtmjskk",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:30",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Alto de palmas",
+        "classes": 6,
+        "value": 318000
+      },
+      {
+        "location": "Aves María",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "City Plaza",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "San Bernardo",
+        "classes": 6,
+        "value": 270000
+      }
+    ],
+    "total_classes": 22,
+    "total": 1038000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T18:56:14.968Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T18:56:14.968Z",
+    "updated_at": "2026-09-22T18:56:14.968Z"
   }
 ]
