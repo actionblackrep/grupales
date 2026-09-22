@@ -10933,5 +10933,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:17:24.143Z",
     "updated_at": "2026-09-22T00:17:24.143Z"
+  },
+  {
+    "id": "s_muby1dnp5r9ecf45",
+    "employee_id": "1020459136",
+    "employee_name": "ALAN DAVID MOSQUERA CARO",
+    "class_name": "BEATS",
+    "day": "LUNES",
+    "time": "18:45",
+    "location": "Oviedo",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:36:19.429Z",
+    "updated_at": "2026-09-22T00:36:19.429Z"
   }
 ]
