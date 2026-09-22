@@ -10918,5 +10918,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:16:56.242Z",
     "updated_at": "2026-09-22T00:16:56.242Z"
+  },
+  {
+    "id": "s_mubxd1nz1x0i9cq4",
+    "employee_id": "1025881200",
+    "employee_name": "ISABELLA ROMERO DE LEÓN",
+    "class_name": "BEATS",
+    "day": "JUEVES",
+    "time": "06:30",
+    "location": "CC Arkadia",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:17:24.143Z",
+    "updated_at": "2026-09-22T00:17:24.143Z"
   }
 ]
