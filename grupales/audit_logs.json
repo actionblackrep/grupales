@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muby2zl7zohjle6b",
+    "at": "2026-09-22T00:37:34.507Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "ALAN DAVID MOSQUERA CARO JUEVES 19:30 BEATS"
+  },
+  {
     "id": "a_muby2hyos5e9dvt7",
     "at": "2026-09-22T00:37:11.664Z",
     "actor": "laura.gomez@actionblack.co",
