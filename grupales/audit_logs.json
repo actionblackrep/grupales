@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mucwpcu951cwekiu",
+    "at": "2026-09-22T16:46:45.057Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "MIGUEL ANGEL CHACON HINCAPIE MIERCOLES 07:45 GIRO"
+  },
+  {
     "id": "a_mucwovczxbewuiqu",
     "at": "2026-09-22T16:46:22.403Z",
     "actor": "laura.gomez@actionblack.co",
