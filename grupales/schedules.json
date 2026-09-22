@@ -6105,21 +6105,6 @@
     "updated_at": "2026-09-22T00:09:44.858Z"
   },
   {
-    "id": "s_mtlrlsc8pxan0tnt",
-    "employee_id": "71270555",
-    "employee_name": "LEONARDO ANTONIO ISAZA RESTREPO",
-    "class_name": "BEATS",
-    "day": "LUNES",
-    "time": "06:30",
-    "location": "Sabaneta",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "import",
-    "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
-  },
-  {
     "id": "s_mtlrlsc83b3mbnzi",
     "employee_id": "1007583409",
     "employee_name": "KEVIN ALVAREZ DORIA",
