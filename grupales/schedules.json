@@ -11203,5 +11203,20 @@
     "source": "manual",
     "created_at": "2026-09-22T16:44:53.687Z",
     "updated_at": "2026-09-22T16:44:53.687Z"
+  },
+  {
+    "id": "s_mucwnk7sl74s1qlp",
+    "employee_id": "1019028020",
+    "employee_name": "MIGUEL ANGEL CHACON HINCAPIE",
+    "class_name": "GIRO",
+    "day": "SABADO",
+    "time": "07:30",
+    "location": "Connecta 80",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T16:45:21.304Z",
+    "updated_at": "2026-09-22T16:45:21.304Z"
   }
 ]
