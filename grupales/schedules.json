@@ -11263,5 +11263,20 @@
     "source": "manual",
     "created_at": "2026-09-22T16:46:45.057Z",
     "updated_at": "2026-09-22T16:46:45.057Z"
+  },
+  {
+    "id": "s_mucwrjwvr8hry27u",
+    "employee_id": "1019028020",
+    "employee_name": "MIGUEL ANGEL CHACON HINCAPIE",
+    "class_name": "GIRO",
+    "day": "MARTES",
+    "time": "18:15",
+    "location": "Colina",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T16:48:27.535Z",
+    "updated_at": "2026-09-22T16:48:27.535Z"
   }
 ]
