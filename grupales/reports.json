@@ -3371,5 +3371,330 @@
     "reviewed_at": null,
     "created_at": "2026-09-22T18:58:59.390Z",
     "updated_at": "2026-09-22T18:58:59.390Z"
+  },
+  {
+    "id": "r_mud1irnlyoo3gzf1",
+    "period": "2026-09-2",
+    "employee_id": "1128476063",
+    "employee_name": "LEIDY KATHERIN OSPINA RUIZ",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8szsd0aqz",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "Cortezza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8x8b65c5n",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "Cortezza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc86j74xmxa",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "07:30",
+        "location": "Cortezza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8na8daytp",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "09:00",
+        "location": "Cortezza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8r68j1x2n",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "06:15",
+        "location": "Inferior",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8v7zboikj",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "07:30",
+        "location": "Inferior",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8ljmm29dc",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "18:15",
+        "location": "Intermedia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc89t3leaeq",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "Intermedia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8ca76d5jr",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc894xxteee",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:30",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7v5t9t1ik",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "18:15",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7ndfihx0y",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "19:30",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc72hacshvm",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "05:45",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7k3mn10oa",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "07:00",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc71olai5o7",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "05:30",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7njwvmip6",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "07:00",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7ykkcjscz",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "05:30",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc74j3mr4my",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "06:45",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Cortezza",
+        "classes": 8,
+        "value": 360000
+      },
+      {
+        "location": "Inferior",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Intermedia",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "San Lucas",
+        "classes": 14,
+        "value": 630000
+      },
+      {
+        "location": "Viva Envigado",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 40,
+    "total": 1800000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T19:01:35.745Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T19:01:35.745Z",
+    "updated_at": "2026-09-22T19:01:35.745Z"
   }
 ]
