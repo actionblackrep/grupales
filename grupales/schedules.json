@@ -9495,21 +9495,6 @@
     "updated_at": "2026-09-14T15:22:21.939Z"
   },
   {
-    "id": "s_mu1ef0kb39la93hc",
-    "employee_id": "1017207973",
-    "employee_name": "LAURA GÓMEZ GARCIA",
-    "class_name": "BEATS",
-    "day": "LUNES",
-    "time": "06:00",
-    "location": "CC Florida",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "manual",
-    "created_at": "2026-09-14T15:29:21.563Z",
-    "updated_at": "2026-09-14T15:29:21.563Z"
-  },
-  {
     "id": "s_mu1eg5q00gqsuim3",
     "employee_id": "1017207973",
     "employee_name": "LAURA GÓMEZ GARCIA",
