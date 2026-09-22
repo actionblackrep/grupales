@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mubx4ufq2ek3tfsp",
+    "at": "2026-09-22T00:11:01.526Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "NATALIA SARAY  BAUTISTA OSPINA JUEVES 19:30 BEATS"
+  },
+  {
     "id": "a_mubx3p4nrvz875eq",
     "at": "2026-09-22T00:10:07.991Z",
     "actor": "laura.gomez@actionblack.co",
