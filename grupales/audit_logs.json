@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mucprgs6vdn5am08",
+    "at": "2026-09-22T13:32:26.166Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "LUISA FERNANDA RAMOS SANCHEZ LUNES 18:15 GIRO"
+  },
+  {
     "id": "a_mucprc5tlo8vm8pj",
     "at": "2026-09-22T13:32:20.177Z",
     "actor": "laura.gomez@actionblack.co",
