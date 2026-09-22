@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mucw7exxkzlzvmxm",
+    "at": "2026-09-22T16:32:47.973Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "MIGUEL DEL VALLE PAREJO LUNES 19:30 GIRO"
+  },
+  {
     "id": "a_mucw42k7iiklvw15",
     "at": "2026-09-22T16:30:11.959Z",
     "actor": "instructor:6781449",
