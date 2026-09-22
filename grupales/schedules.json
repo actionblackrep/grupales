@@ -10843,5 +10843,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:11:01.526Z",
     "updated_at": "2026-09-22T00:11:01.526Z"
+  },
+  {
+    "id": "s_mubx9koqdzzughp6",
+    "employee_id": "71270555",
+    "employee_name": "LEONARDO ANTONIO ISAZA RESTREPO",
+    "class_name": "BEATS",
+    "day": "LUNES",
+    "time": "06:30",
+    "location": "Aves María",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:14:42.170Z",
+    "updated_at": "2026-09-22T00:14:42.170Z"
   }
 ]
