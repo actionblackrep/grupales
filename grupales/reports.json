@@ -3926,5 +3926,333 @@
     "reviewed_at": null,
     "created_at": "2026-09-22T19:03:29.908Z",
     "updated_at": "2026-09-22T19:03:29.908Z"
+  },
+  {
+    "id": "r_mud1mllmhqtnutaz",
+    "period": "2026-09-2",
+    "employee_id": "1033180085",
+    "employee_name": "ISAAC ARANGO GARCÍA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc7rbitkxnh",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "05:45",
+        "location": "Alto de palmas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 53000,
+        "subtotal": 106000
+      },
+      {
+        "schedule_id": "s_mtlrlsc71z4wnvl4",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "07:00",
+        "location": "Alto de palmas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 53000,
+        "subtotal": 106000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7c5qb7pr2",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "08:15",
+        "location": "Alto de palmas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 53000,
+        "subtotal": 106000
+      },
+      {
+        "schedule_id": "s_mtlrlsc81dig2wox",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "08:00",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc80p8mpf9g",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "09:15",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc80wjo9dlu",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "10:15",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8ukhuh03e",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "06:00",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc88x8s0i5z",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "07:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8m19c4i50",
+        "class_name": "GIRO",
+        "day": "DOMINGO",
+        "time": "08:30",
+        "location": "City Plaza",
+        "modality": "Dominical",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc836xhqfgi",
+        "class_name": "GIRO",
+        "day": "DOMINGO",
+        "time": "09:45",
+        "location": "City Plaza",
+        "modality": "Dominical",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc72ep8z0w1",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "07:15",
+        "location": "Intermedia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8cralslnw",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "08:00",
+        "location": "Intermedia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8mptl6464",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "18:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8af3x6xhk",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "19:30",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8fw8m9yk3",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8stlapv8s",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:30",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7kufx4h6b",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc778gwgkv9",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Alto de palmas",
+        "classes": 6,
+        "value": 318000
+      },
+      {
+        "location": "Aves María",
+        "classes": 10,
+        "value": 450000
+      },
+      {
+        "location": "City Plaza",
+        "classes": 4,
+        "value": 200000
+      },
+      {
+        "location": "Intermedia",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "San Lucas",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Viva Envigado",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 38,
+    "total": 1778000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T19:04:34.522Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T19:04:34.522Z",
+    "updated_at": "2026-09-22T19:04:34.522Z"
   }
 ]
