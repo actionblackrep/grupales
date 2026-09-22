@@ -10978,5 +10978,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:37:11.664Z",
     "updated_at": "2026-09-22T00:37:11.664Z"
+  },
+  {
+    "id": "s_muby2zl65to6jq8y",
+    "employee_id": "1020459136",
+    "employee_name": "ALAN DAVID MOSQUERA CARO",
+    "class_name": "BEATS",
+    "day": "JUEVES",
+    "time": "19:30",
+    "location": "Aves María",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:37:34.506Z",
+    "updated_at": "2026-09-22T00:37:34.506Z"
   }
 ]
