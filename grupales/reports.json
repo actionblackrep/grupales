@@ -6036,5 +6036,250 @@
     "reviewed_at": null,
     "created_at": "2026-09-22T19:49:35.533Z",
     "updated_at": "2026-09-22T19:49:35.533Z"
+  },
+  {
+    "id": "r_mud3a97o54wspkn8",
+    "period": "2026-09-2",
+    "employee_id": "1128462182",
+    "employee_name": "ESTIBEN AREIZA CARDONA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8whbkij2m",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "18:15",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8yqew7ywr",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7tzwq0zcw",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "05:30",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7efdb4ktq",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "06:45",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc83xpo3d8s",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8nrsivbpb",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:30",
+        "location": "Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7b0h29wmc",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "06:15",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7g90h5izr",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "07:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc75gpn1nva",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "07:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc79ujyt23w",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "09:00",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc76o45xv27",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "10:00",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7yxn7uq0i",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7duegoxxe",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Belen",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Campestre",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Laureles",
+        "classes": 12,
+        "value": 540000
+      },
+      {
+        "location": "San Lucas",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 30,
+    "total": 1350000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T19:50:57.828Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T19:50:57.828Z",
+    "updated_at": "2026-09-22T19:50:57.828Z"
   }
 ]
