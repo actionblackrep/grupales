@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mucvinpdlsvysyip",
+    "at": "2026-09-22T16:13:32.929Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mucuqnib6o2ksjmc JERSSON FAVIAN ANGEL HERNANDEZ 2026-09-2 -> CONFIRMED $1190000"
+  },
+  {
     "id": "a_mucvdl74uf0tfsrv",
     "at": "2026-09-22T16:09:36.400Z",
     "actor": "manager:gerente",
