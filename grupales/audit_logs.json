@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mucv10evv4dlp7nt",
+    "at": "2026-09-22T15:59:49.591Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA MIGUEL ANGEL CHACON HINCAPIE 2026-09-21 alerts=0"
+  },
+  {
     "id": "a_mucuqnib0tirc0vk",
     "at": "2026-09-22T15:51:46.307Z",
     "actor": "instructor:1031136942",
