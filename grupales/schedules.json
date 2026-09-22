@@ -11038,5 +11038,20 @@
     "source": "manual",
     "created_at": "2026-09-22T00:39:17.583Z",
     "updated_at": "2026-09-22T00:39:17.583Z"
+  },
+  {
+    "id": "s_muby5xksacubwc3e",
+    "employee_id": "1152449486",
+    "employee_name": "DANIELA GARCIA FRANCO",
+    "class_name": "BEATS",
+    "day": "JUEVES",
+    "time": "18:30",
+    "location": "Niquia",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-22T00:39:51.868Z",
+    "updated_at": "2026-09-22T00:39:51.868Z"
   }
 ]
