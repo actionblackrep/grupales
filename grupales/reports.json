@@ -824,5 +824,138 @@
     "reviewed_at": null,
     "created_at": "2026-09-22T18:39:24.573Z",
     "updated_at": "2026-09-22T18:39:24.573Z"
+  },
+  {
+    "id": "r_mud0t1rvtcly4ilk",
+    "period": "2026-09-2",
+    "employee_id": "1024514574",
+    "employee_name": "LUIGI PAOLO RUSSI CARDENAS",
+    "rows": [
+      {
+        "schedule_id": "s_mubwevt7qg46gkcz",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "07:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubwfscdthvkpmi6",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mubwgd4ps6gu7jdc",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "07:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubwixai3npniowx",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:30",
+        "location": "Éxito Av Colombia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubwicpe14ou94jt",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "08:00",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubwh1o5v3ib7x8t",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "06:30",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "City Plaza",
+        "classes": 7,
+        "value": 315000
+      },
+      {
+        "location": "Éxito Av Colombia",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 3,
+        "value": 135000
+      }
+    ],
+    "total_classes": 14,
+    "total": 630000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-22T18:41:35.803Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-22T18:41:35.803Z",
+    "updated_at": "2026-09-22T18:41:35.803Z"
   }
 ]
