@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mucvdl74uf0tfsrv",
+    "at": "2026-09-22T16:09:36.400Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "OTRA LAURA GÓMEZ GARCIA 2026-09-21 alerts=0"
+  },
+  {
     "id": "a_mucv10evv4dlp7nt",
     "at": "2026-09-22T15:59:49.591Z",
     "actor": "manager:gerente",
