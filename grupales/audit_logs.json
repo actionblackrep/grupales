@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muby1dnqldep2lqq",
+    "at": "2026-09-22T00:36:19.430Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "ALAN DAVID MOSQUERA CARO LUNES 18:45 BEATS"
+  },
+  {
     "id": "a_mubxd1nzaohgnnxk",
     "at": "2026-09-22T00:17:24.143Z",
     "actor": "laura.gomez@actionblack.co",
