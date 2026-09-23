@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mue9xhfrazb8tlz5",
+    "at": "2026-09-23T15:44:45.447Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "NOVEDAD_DELETE",
+    "detail": "MARIANA VELEZ ARANGO 2026-09-30"
+  },
+  {
     "id": "a_mue9x7fn6sooqnmn",
     "at": "2026-09-23T15:44:32.483Z",
     "actor": "manager:gerente",
