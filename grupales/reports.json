@@ -7602,12 +7602,11 @@
         "location": "Belen",
         "modality": "Normal",
         "dates": [
-          "2026-09-19",
-          "2026-09-26"
+          "2026-09-19"
         ],
         "confirmed_dates": null,
         "tarifa": 45000,
-        "subtotal": 90000
+        "subtotal": 45000
       },
       {
         "schedule_id": "s_mtlrlsc8e7bs7r93",
@@ -7678,18 +7677,19 @@
         "location": "Los Colores",
         "modality": "Normal",
         "dates": [
-          "2026-09-18"
+          "2026-09-18",
+          "2026-09-25"
         ],
         "confirmed_dates": null,
         "tarifa": 45000,
-        "subtotal": 45000
+        "subtotal": 90000
       }
     ],
     "by_location": [
       {
         "location": "Belen",
-        "classes": 2,
-        "value": 90000
+        "classes": 1,
+        "value": 45000
       },
       {
         "location": "La 33",
@@ -7703,21 +7703,21 @@
       },
       {
         "location": "Los Colores",
-        "classes": 5,
-        "value": 225000
+        "classes": 6,
+        "value": 270000
       }
     ],
     "total_classes": 12,
     "total": 540000,
-    "status": "REJECTED",
+    "status": "SUBMITTED",
     "alerts": [],
-    "instructor_note": "",
+    "instructor_note": "CLASE ESPECCIAL EN EL CENTRO COMERCIAL FLORIDA SABADO 26 DE SEPTIEMBRE  VALOR:50.000",
     "admin_note": "revisar clase de colores y restar la clase del sabado de belen ya que esa se paga aparte como clase especial ",
-    "submitted_at": "2026-09-23T11:59:54.958Z",
+    "submitted_at": "2026-09-23T16:31:28.583Z",
     "reviewed_by": "laura.gomez@actionblack.co",
     "reviewed_at": "2026-09-23T16:15:23.397Z",
     "created_at": "2026-09-23T11:59:54.958Z",
-    "updated_at": "2026-09-23T16:15:23.397Z"
+    "updated_at": "2026-09-23T16:31:28.583Z"
   },
   {
     "id": "r_mue34yhwghfishez",
