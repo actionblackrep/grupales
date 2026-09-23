@@ -1,5 +1,523 @@
 [
   {
+    "id": "a_mue93omxq4nofxdg",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=73 rejected=0"
+  },
+  {
+    "id": "a_mue93omx1izlsulr",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "71783686 YIDAR ENRIQUE BERRÍO VELASQUEZ"
+  },
+  {
+    "id": "a_mue93omxzb80bbu2",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1152458920 VALENTINA CALAD OSPINA"
+  },
+  {
+    "id": "a_mue93omxxdoeizyt",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1128441629 SEBASTIAN VELASQUEZ JIMENEZ"
+  },
+  {
+    "id": "a_mue93omxqxzw3smc",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1001773177 SANTIAGO MEDINA OSORIO"
+  },
+  {
+    "id": "a_mue93omxbrgamvbq",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1020482523 SANTIAGO CÁRDENAS MARTÍNEZ"
+  },
+  {
+    "id": "a_mue93omxrxrciy6o",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "10308847 PABLO HERNAN ALVEAR NARVAEZ"
+  },
+  {
+    "id": "a_mue93omxrpgzvczg",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1020110626 OSCAR ANDRES GOMEZ CASTRILLON"
+  },
+  {
+    "id": "a_mue93omxwfjgx3px",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1129536451 ORLANDO JOSÉ BERMÚDEZ TOVAR"
+  },
+  {
+    "id": "a_mue93omx2s7oaf7k",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "195361193 ORIANNIS  VERONICA PEREZ"
+  },
+  {
+    "id": "a_mue93omxi4b1prb5",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1002210492 NATALIA SARAY  BAUTISTA OSPINA"
+  },
+  {
+    "id": "a_mue93omxl0ezg46b",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1006015196 NATALIA RIVERA CIFUENTE"
+  },
+  {
+    "id": "a_mue93omx1p2yobua",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1022432732 MIGUEL DEL VALLE PAREJO"
+  },
+  {
+    "id": "a_mue93omx9scupdvo",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1019028020 MIGUEL ANGEL CHACON HINCAPIE"
+  },
+  {
+    "id": "a_mue93omxq9oxbz4e",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1007173953 MARLON ALBERTO DE LA CRUZ"
+  },
+  {
+    "id": "a_mue93omxq0z6xvmv",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1045759211 MARIELA CAROLINA ECHEVERRÍA MACHADO"
+  },
+  {
+    "id": "a_mue93omxx90trf92",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1000640712 MARIANA VELEZ ARANGO"
+  },
+  {
+    "id": "a_mue93omxzsq89a1k",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1000570970 MARIA ALEJANDRA VILLEGAS OJEDA"
+  },
+  {
+    "id": "a_mue93omx20efkujl",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "30402457 LUZ MARÍA MEJIA JARAMILLO"
+  },
+  {
+    "id": "a_mue93omxt7l3igyf",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1020793228 LUISA FERNANDA RAMOS SANCHEZ"
+  },
+  {
+    "id": "a_mue93omxhyogdbrz",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "6781449 LUIS FERNANDO LABASTIDAS CASTILLO"
+  },
+  {
+    "id": "a_mue93omxc4pujz6d",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "8177932 LUIS FELIPE MARIN HINESTROZA"
+  },
+  {
+    "id": "a_mue93omxns2nxqit",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1024514574 LUIGI PAOLO RUSSI CARDENAS"
+  },
+  {
+    "id": "a_mue93omx1feael7x",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "43755824 LINA MARIA QUIROZ SAÑUDO"
+  },
+  {
+    "id": "a_mue93omxbfk5rmag",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1136886696 LINA MARIA PARRA MARTINEZ"
+  },
+  {
+    "id": "a_mue93omx813szjqe",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "71270555 LEONARDO ANTONIO ISAZA RESTREPO"
+  },
+  {
+    "id": "a_mue93omxjr5fir0t",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1128476063 LEIDY KATHERIN OSPINA RUIZ"
+  },
+  {
+    "id": "a_mue93omx9f37kh98",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1017207973 LAURA GÓMEZ GARCIA"
+  },
+  {
+    "id": "a_mue93omxr0r3kvsc",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1007583409 KEVIN ALVAREZ DORIA"
+  },
+  {
+    "id": "a_mue93omx2myzcnpj",
+    "at": "2026-09-23T15:21:35.097Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1152714302 KELLY JHOJANA URREGO GIRALDO"
+  },
+  {
+    "id": "a_mue93omwpg0ex1ll",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1128421974 KATHERINE QUINTERO HENAO"
+  },
+  {
+    "id": "a_mue93omw0emooi91",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1020481758 JULIAN GRACIANO MURILLO"
+  },
+  {
+    "id": "a_mue93omwhfslqi8f",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1020408588 JULIÁN DAVID MONTOYA SÁNCHEZ"
+  },
+  {
+    "id": "a_mue93omw0o83ugum",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1152444479 JULIAN DAVID GARCIA GUERRERO"
+  },
+  {
+    "id": "a_mue93omw51cvm9d1",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1090150571 JULIAN DAVID CRUZ ARISTIZABAL"
+  },
+  {
+    "id": "a_mue93omw1i82nsxo",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1128470143 JULIAN DAVID ARANGO SANCHEZ"
+  },
+  {
+    "id": "a_mue93omwpj4fqdhk",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1004870281 JUAN DAVID GÓMEZ ACOSTA"
+  },
+  {
+    "id": "a_mue93omwqvr336eo",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1014258965 JUAN CAMILO MORA BARAJAS"
+  },
+  {
+    "id": "a_mue93omw2vlab5xx",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1000757514 JUAN ALEJANDRO GÓMEZ RESTREPO"
+  },
+  {
+    "id": "a_mue93omwu8mtdyi8",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1130613052 JOSE ARMANDO VALENCIA CANO"
+  },
+  {
+    "id": "a_mue93omwp6p2z43h",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "3414488 JORGE MARIO BARRERA PENAGOS"
+  },
+  {
+    "id": "a_mue93omww7vclajw",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1069505198 JORGE ELIECER ACEVEDO JIMENEZ"
+  },
+  {
+    "id": "a_mue93omwfzoy55ec",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "98761840 JHONNATAN ALVAREZ HOLGUIN"
+  },
+  {
+    "id": "a_mue93omwgfo7skaq",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "71221333 JHON FERNEY AGUDELO DUQUE"
+  },
+  {
+    "id": "a_mue93omw61utw9q9",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1032485975 JHON ALEXANDER CALDERÓN BARRERA"
+  },
+  {
+    "id": "a_mue93omwzcm6ga1m",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1031136942 JERSSON FAVIAN ANGEL HERNANDEZ"
+  },
+  {
+    "id": "a_mue93omwxn1hx4a5",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1017153274 JENNY MARCELA BARRETO GARCIA"
+  },
+  {
+    "id": "a_mue93omw8qvz98u2",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1025881200 ISABELLA ROMERO DE LEÓN"
+  },
+  {
+    "id": "a_mue93omwc76hfwi4",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1033180085 ISAAC ARANGO GARCÍA"
+  },
+  {
+    "id": "a_mue93omwj5rile5o",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "600680499 HENDER JOSE VALLES URDANETA"
+  },
+  {
+    "id": "a_mue93omwq0jwrl04",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1000660555 HEIDY YULIET SANCHEZ MAYA"
+  },
+  {
+    "id": "a_mue93omwjnoqzj9w",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "94151582 FELIPE ANDRES MOLINA LOPEZ"
+  },
+  {
+    "id": "a_mue93omwtzxmstu5",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1128462182 ESTIBEN AREIZA CARDONA"
+  },
+  {
+    "id": "a_mue93omwxggpd2xg",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1128050157 DIEGO MIGUEL HERRERA LLORENTE"
+  },
+  {
+    "id": "a_mue93omw481ficfr",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1017190525 DIEGO MAURICIO YEPES CAMACHO"
+  },
+  {
+    "id": "a_mue93omw4ruahajb",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1143850762 DAVID VEGA ACOSTA"
+  },
+  {
+    "id": "a_mue93omwem8e9dc8",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1045759736 DAVID ENRIQUE ECHEVERRIA MACHADO"
+  },
+  {
+    "id": "a_mue93omw8x3to9ij",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1020486300 DANIELA GIL CANO"
+  },
+  {
+    "id": "a_mue93omw3hlmxb5j",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1152449486 DANIELA GARCIA FRANCO"
+  },
+  {
+    "id": "a_mue93omwmvaf8ofh",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1152200378 CRISTIAN ARLEY MARTÍNEZ PINEDA"
+  },
+  {
+    "id": "a_mue93omw43ke7s5r",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1040738085 CHRISTIAN FERNANDEZ IBARRA"
+  },
+  {
+    "id": "a_mue93omwo7jvasm3",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "94060794 CESAR IVAN ARANGO"
+  },
+  {
+    "id": "a_mue93omw4mkyxcz2",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1037592493 CARLOS MARIO GARCIA RODAS"
+  },
+  {
+    "id": "a_mue93omw6pb9h5m1",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "71770170 CARLOS ANDRES SANTANA MURIEL"
+  },
+  {
+    "id": "a_mue93omw63zkxvlo",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1004352490 CAMILO ANDRES OROZCO BLANCO"
+  },
+  {
+    "id": "a_mue93omwp3lb30qn",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1044423458 CAMILA ANDREA ARIZA NAVARRO"
+  },
+  {
+    "id": "a_mue93omwh8nqdkty",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1053830325 ANGIE NATALIA SEPULVEDA"
+  },
+  {
+    "id": "a_mue93omwo2rphgz6",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1126909976 ANGELICA MARIA CEPEDA BUELVAS"
+  },
+  {
+    "id": "a_mue93omwe2uidef0",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1144070150 ANDRES FELIPE TELLO"
+  },
+  {
+    "id": "a_mue93omwala4k7k8",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "52452277 ANDREA DEL PILAR SALAZAR PARRADO"
+  },
+  {
+    "id": "a_mue93omwbi4a91xg",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1152217905 ANA MARIA TIRADO MEJIA"
+  },
+  {
+    "id": "a_mue93omw71dye17d",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1088260299 AMNER SERNA"
+  },
+  {
+    "id": "a_mue93omwzz9cw924",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1152453180 ALEJANDRO VALENCIA GAVIRIA"
+  },
+  {
+    "id": "a_mue93omwsgerxskd",
+    "at": "2026-09-23T15:21:35.096Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1020459136 ALAN DAVID MOSQUERA CARO"
+  },
+  {
     "id": "a_mue68jpqlc528al6",
     "at": "2026-09-23T14:01:23.150Z",
     "actor": "instructor:1152449486",
