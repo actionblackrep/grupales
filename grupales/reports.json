@@ -8141,5 +8141,121 @@
     "reviewed_at": null,
     "created_at": "2026-09-23T14:00:44.128Z",
     "updated_at": "2026-09-23T14:00:44.128Z"
+  },
+  {
+    "id": "r_mue68jpqj8fqv8ih",
+    "period": "2026-09-2",
+    "employee_id": "1152449486",
+    "employee_name": "DANIELA GARCIA FRANCO",
+    "rows": [
+      {
+        "schedule_id": "s_muby574f4zad1myn",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "Éxito Av Colombia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby5xksacubwc3e",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "18:30",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby6fwwlt4k9zpr",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "06:30",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby4oujzpkxzy65",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "06:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby41gfxwgz86wf",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:15",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Éxito Av Colombia",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Niquia",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Outlet",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 10,
+    "total": 450000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-23T14:01:23.150Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-23T14:01:23.150Z",
+    "updated_at": "2026-09-23T14:01:23.150Z"
   }
 ]
