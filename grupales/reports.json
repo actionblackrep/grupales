@@ -7451,15 +7451,15 @@
     ],
     "total_classes": 34,
     "total": 1530000,
-    "status": "SUBMITTED",
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "",
     "submitted_at": "2026-09-23T04:47:18.255Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-09-23T21:26:01.581Z",
     "created_at": "2026-09-23T04:47:18.255Z",
-    "updated_at": "2026-09-23T04:47:18.255Z"
+    "updated_at": "2026-09-23T21:26:01.581Z"
   },
   {
     "id": "r_mue1wc3yhi4y9nda",
