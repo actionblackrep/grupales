@@ -705,23 +705,6 @@
     "reporto_ss_by": null
   },
   {
-    "cedula": "1152217905",
-    "nombre": "ANA MARIA TIRADO MEJIA",
-    "ss": false,
-    "tipo_documento": "1",
-    "tipo_transaccion": "37",
-    "codigo_banco": "1007",
-    "no_cuenta": "91284740489",
-    "referencia": "octuno",
-    "notas": "",
-    "in_workforce": true,
-    "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
-  },
-  {
     "cedula": "94060794",
     "nombre": "CESAR IVAN ARANGO",
     "ss": false,
