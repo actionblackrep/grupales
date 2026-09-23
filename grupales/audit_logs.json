@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muec7471h1rdx93j",
+    "at": "2026-09-23T16:48:14.077Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_muec68xdnnpcnjci LAURA GÓMEZ GARCIA 2026-09-2 -> CONFIRMED $90000"
+  },
+  {
     "id": "a_muec68xd1vsl35ed",
     "at": "2026-09-23T16:47:33.553Z",
     "actor": "instructor:1017207973",
