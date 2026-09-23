@@ -4895,14 +4895,14 @@
     "employee_name": "JUAN DAVID GÓMEZ ACOSTA",
     "class_name": "GIRO",
     "day": "SABADO",
-    "time": "08:30",
+    "time": "08:15",
     "location": "Inferior",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-23T21:11:30.149Z"
   },
   {
     "id": "s_mtlrlsc8kb2kjmi0",
