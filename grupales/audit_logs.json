@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mueb6g8rjmrmay5q",
+    "at": "2026-09-23T16:19:43.419Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc87re6jw7z LIZARDO DE JESÚS MEJÍA ARREDONDO SABADO 07:15"
+  },
+  {
     "id": "a_mueb5s8saqgo89ed",
     "at": "2026-09-23T16:19:12.316Z",
     "actor": "laura.gomez@actionblack.co",
