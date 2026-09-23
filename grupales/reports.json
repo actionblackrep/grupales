@@ -571,46 +571,6 @@
     "updated_at": "2026-09-17T20:26:03.766Z"
   },
   {
-    "id": "r_mud0hfapato42sxq",
-    "period": "2026-09-2",
-    "employee_id": "1152217905",
-    "employee_name": "ANA MARIA TIRADO MEJIA",
-    "rows": [
-      {
-        "schedule_id": "s_mtlrlsc87re6jw7z",
-        "class_name": "TIBET",
-        "day": "SABADO",
-        "time": "07:15",
-        "location": "La 33",
-        "modality": "Normal",
-        "dates": [
-          "2026-09-19"
-        ],
-        "confirmed_dates": null,
-        "tarifa": 45000,
-        "subtotal": 45000
-      }
-    ],
-    "by_location": [
-      {
-        "location": "La 33",
-        "classes": 1,
-        "value": 45000
-      }
-    ],
-    "total_classes": 1,
-    "total": 45000,
-    "status": "SUBMITTED",
-    "alerts": [],
-    "instructor_note": "",
-    "admin_note": "",
-    "submitted_at": "2026-09-22T18:32:33.457Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
-    "created_at": "2026-09-22T18:32:33.457Z",
-    "updated_at": "2026-09-22T18:32:33.457Z"
-  },
-  {
     "id": "r_mud0pslfzpgeo5nn",
     "period": "2026-09-2",
     "employee_id": "94151582",
