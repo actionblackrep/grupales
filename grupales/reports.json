@@ -7758,5 +7758,61 @@
     "reviewed_at": null,
     "created_at": "2026-09-23T11:59:54.958Z",
     "updated_at": "2026-09-23T11:59:54.958Z"
+  },
+  {
+    "id": "r_mue34yhwghfishez",
+    "period": "2026-09-2",
+    "employee_id": "600680499",
+    "employee_name": "HENDER JOSE VALLES URDANETA",
+    "rows": [
+      {
+        "schedule_id": "s_mubw7mgl9j0ygzvp",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:15",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubw85kgcnhdzp48",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "10:15",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 4,
+    "total": 180000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-23T12:34:36.836Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-23T12:34:36.836Z",
+    "updated_at": "2026-09-23T12:34:36.836Z"
   }
 ]
