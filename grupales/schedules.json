@@ -3770,14 +3770,14 @@
     "employee_name": "JUAN DAVID GÓMEZ ACOSTA",
     "class_name": "GIRO",
     "day": "MIERCOLES",
-    "time": "06:45",
+    "time": "06:30",
     "location": "Los Molinos",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-04T15:29:28.043Z"
+    "updated_at": "2026-09-23T21:10:36.761Z"
   },
   {
     "id": "s_mtlrlsc8yqew7ywr",
