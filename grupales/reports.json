@@ -7905,5 +7905,241 @@
     "reviewed_at": null,
     "created_at": "2026-09-23T12:59:21.358Z",
     "updated_at": "2026-09-23T12:59:21.358Z"
+  },
+  {
+    "id": "r_mue67plt20mnmut4",
+    "period": "2026-09-2",
+    "employee_id": "1128050157",
+    "employee_name": "DIEGO MIGUEL HERRERA LLORENTE",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc91zdfce7u",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "07:30",
+        "location": "Colina",
+        "modality": "Dominical",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9y3c6bcl1",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "08:30",
+        "location": "Colina",
+        "modality": "Dominical",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9120zsd8g",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:30",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc99hwm6toi",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "05:30",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9ne2pk8i1",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "06:45",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9kyw707w2",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:45",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc93mjnwfff",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "18:15",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc91tscaz2z",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:30",
+        "location": "Corporate Center",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9f5uq7qkb",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "08:00",
+        "location": "Corporate Center",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc96nxylouz",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "19:15",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc930tdjafi",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "06:15",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9x9yn9jhu",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "07:15",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9z24s5sfs",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "19:20",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Colina",
+        "classes": 10,
+        "value": 470000
+      },
+      {
+        "location": "Connecta 26",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Corporate Center",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Pepe Sierra",
+        "classes": 8,
+        "value": 360000
+      }
+    ],
+    "total_classes": 26,
+    "total": 1190000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "Miércoles 23 de septiembre cubrí la clase de Beats 6:30 pm, Sábado 26 de septiembre activación sede Atlantis 10:30 am Beats ",
+    "admin_note": "",
+    "submitted_at": "2026-09-23T14:00:44.128Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-23T14:00:44.128Z",
+    "updated_at": "2026-09-23T14:00:44.128Z"
   }
 ]
