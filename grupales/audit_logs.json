@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muebe79pw0id43r0",
+    "at": "2026-09-23T16:25:45.037Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "CARLOS JOSE TORRES VALERO JUEVES 17:30 BEATS"
+  },
+  {
     "id": "a_muebddfrks71ofsi",
     "at": "2026-09-23T16:25:06.375Z",
     "actor": "laura.gomez@actionblack.co",
