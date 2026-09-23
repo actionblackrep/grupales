@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muellyovunsh783u",
+    "at": "2026-09-23T21:11:43.327Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc8oeycv0eb JUAN DAVID GÓMEZ ACOSTA SABADO 09:15"
+  },
+  {
     "id": "a_muelloitwfk5uicx",
     "at": "2026-09-23T21:11:30.149Z",
     "actor": "laura.gomez@actionblack.co",
