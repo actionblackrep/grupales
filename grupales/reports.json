@@ -7814,5 +7814,96 @@
     "reviewed_at": null,
     "created_at": "2026-09-23T12:34:36.836Z",
     "updated_at": "2026-09-23T12:34:36.836Z"
+  },
+  {
+    "id": "r_mue40rymycl37r9c",
+    "period": "2026-09-2",
+    "employee_id": "1126909976",
+    "employee_name": "ANGELICA MARIA CEPEDA BUELVAS",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8y1ebgh3k",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "18:15",
+        "location": "Atlantis",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8at8p1ohu",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "Atlantis",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8xmml85rf",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8cxdn4y1s",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "19:45",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Atlantis",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Pepe Sierra",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 8,
+    "total": 360000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-23T12:59:21.358Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-23T12:59:21.358Z",
+    "updated_at": "2026-09-23T12:59:21.358Z"
   }
 ]
