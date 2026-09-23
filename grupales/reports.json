@@ -9429,5 +9429,87 @@
     "reviewed_at": null,
     "created_at": "2026-09-23T21:53:26.259Z",
     "updated_at": "2026-09-23T21:53:26.259Z"
+  },
+  {
+    "id": "r_muen8179n7e02vr2",
+    "period": "2026-09-2",
+    "employee_id": "1045759211",
+    "employee_name": "MARIELA CAROLINA ECHEVERRÍA MACHADO",
+    "rows": [
+      {
+        "schedule_id": "s_mubblyvi4lu91bjy",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "06:15",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mubbmkpcb3lh2yqu",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "18:30",
+        "location": "Plaza Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubbn2k5x9q2enyg",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Altos Del Prado",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "Plaza Campestre",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Viva Barranquilla",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 7,
+    "total": 315000,
+    "status": "DRAFT",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-23T21:56:52.629Z",
+    "updated_at": "2026-09-23T21:56:52.629Z"
   }
 ]
