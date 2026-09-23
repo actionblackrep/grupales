@@ -7352,5 +7352,280 @@
     "reviewed_at": null,
     "created_at": "2026-09-23T00:39:47.318Z",
     "updated_at": "2026-09-23T00:39:47.318Z"
+  },
+  {
+    "id": "r_mudmfzsgtb11eg67",
+    "period": "2026-09-2",
+    "employee_id": "1020793228",
+    "employee_name": "LUISA FERNANDA RAMOS SANCHEZ",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc9ip4qt5xq",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "Atlantis",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9ul0i5igt",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "Atlantis",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9gur8jyj4",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "18:15",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9ygy98tum",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9gpma6tvs",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "07:30",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc91b7sx1l1",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "09:00",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc96x35pe07",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "06:15",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9qub3l85h",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "07:30",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8yimxgyfm",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "07:00",
+        "location": "Santafé Bogotá",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9vaq0yweu",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "08:15",
+        "location": "Santafé Bogotá",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8t4yo8d17",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "06:45",
+        "location": "Santafé Bogotá",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8lkntgs4c",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "08:00",
+        "location": "Santafé Bogotá",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8xgrsqi5l",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Santafé Bogotá",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8llpf5c3p",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:45",
+        "location": "Santafé Bogotá",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc93sq0ln2q",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "18:15",
+        "location": "Santafé Bogotá",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Atlantis",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Colina",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Connecta 26",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Pepe Sierra",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Santafé Bogotá",
+        "classes": 16,
+        "value": 720000
+      }
+    ],
+    "total_classes": 34,
+    "total": 1530000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-23T04:47:18.255Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-23T04:47:18.255Z",
+    "updated_at": "2026-09-23T04:47:18.255Z"
   }
 ]
