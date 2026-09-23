@@ -908,15 +908,15 @@
     ],
     "total_classes": 14,
     "total": 630000,
-    "status": "SUBMITTED",
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "",
     "submitted_at": "2026-09-22T18:41:35.803Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-09-23T21:22:00.019Z",
     "created_at": "2026-09-22T18:41:35.803Z",
-    "updated_at": "2026-09-22T18:41:35.803Z"
+    "updated_at": "2026-09-23T21:22:00.019Z"
   },
   {
     "id": "r_mud12npoui75crnb",
