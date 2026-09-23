@@ -8763,5 +8763,219 @@
     "reviewed_at": null,
     "created_at": "2026-09-23T16:53:27.626Z",
     "updated_at": "2026-09-23T16:53:27.626Z"
+  },
+  {
+    "id": "r_muei8j2bt5ufd1yg",
+    "period": "2026-09-2",
+    "employee_id": "1136886696",
+    "employee_name": "LINA MARIA PARRA MARTINEZ",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc9vgwo7h0j",
+        "class_name": "TIBET",
+        "day": "MARTES",
+        "time": "06:15",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9lwxspthj",
+        "class_name": "TIBET",
+        "day": "MARTES",
+        "time": "07:15",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9h33cqw8y",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "19:00",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9baak131k",
+        "class_name": "TIBET",
+        "day": "SABADO",
+        "time": "09:00",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc97bfjxvsq",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "07:50",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9u1twpx40",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "09:20",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9cad55g1s",
+        "class_name": "TIBET",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc90hi2ih1d",
+        "class_name": "TIBET",
+        "day": "LUNES",
+        "time": "19:45",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc946rxxao7",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "06:30",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9s2pcylg4",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "08:00",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9jyv69roq",
+        "class_name": "TIBET",
+        "day": "VIERNES",
+        "time": "16:30",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc97vgz8uk8",
+        "class_name": "TIBET",
+        "day": "VIERNES",
+        "time": "17:45",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Connecta 26",
+        "classes": 9,
+        "value": 405000
+      },
+      {
+        "location": "Pepe Sierra",
+        "classes": 18,
+        "value": 810000
+      }
+    ],
+    "total_classes": 27,
+    "total": 1215000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-23T19:37:17.699Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-23T19:37:17.699Z",
+    "updated_at": "2026-09-23T19:37:17.699Z"
   }
 ]
