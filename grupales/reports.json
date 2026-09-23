@@ -9511,5 +9511,168 @@
     "reviewed_at": null,
     "created_at": "2026-09-23T21:56:52.629Z",
     "updated_at": "2026-09-23T21:56:52.629Z"
+  },
+  {
+    "id": "r_muencm6j7ebdhh7w",
+    "period": "2026-09-2",
+    "employee_id": "1000660555",
+    "employee_name": "HEIDY YULIET SANCHEZ MAYA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8edl6eljj",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "18:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc82ht4j1ih",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "06:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc801dzoovb",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "08:00",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8kkf08c6a",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8y7idgy1s",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "08:00",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc84oo2nbuj",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc84kzcc8a1",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc86cde00sb",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "La 33",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Laureles",
+        "classes": 10,
+        "value": 450000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Niquia",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 18,
+    "total": 810000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "ya tengo clase en palmas, he dado dos clases que en total suman 106 mil pesos me imagino que la gerente ya la pasa. ",
+    "admin_note": "",
+    "submitted_at": "2026-09-23T22:00:26.443Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-23T22:00:26.443Z",
+    "updated_at": "2026-09-23T22:00:26.443Z"
   }
 ]
