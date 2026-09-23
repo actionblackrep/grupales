@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muebzjc3beuimkte",
+    "at": "2026-09-23T16:42:20.451Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA LAURA GÓMEZ GARCIA 2026-09-21 alerts=1"
+  },
+  {
     "id": "a_muebuecbwlhsk68u",
     "at": "2026-09-23T16:38:20.699Z",
     "actor": "laura.gomez@actionblack.co",
