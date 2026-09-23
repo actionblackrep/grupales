@@ -1790,14 +1790,14 @@
     "employee_name": "JUAN DAVID GÓMEZ ACOSTA",
     "class_name": "GIRO",
     "day": "LUNES",
-    "time": "19:30",
+    "time": "19:15",
     "location": "Oviedo",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-03T16:54:13.686Z"
+    "updated_at": "2026-09-23T21:10:14.845Z"
   },
   {
     "id": "s_mtlrlsc7g90h5izr",
