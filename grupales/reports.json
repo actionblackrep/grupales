@@ -10826,5 +10826,92 @@
     "reviewed_at": "2026-09-24T15:53:03.742Z",
     "created_at": "2026-09-24T15:50:50.309Z",
     "updated_at": "2026-09-24T15:53:03.742Z"
+  },
+  {
+    "id": "r_mufsc61sbeeeio3u",
+    "period": "2026-09-2",
+    "employee_id": "1130613052",
+    "employee_name": "JOSE ARMANDO VALENCIA CANO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc9nnt6qkgm",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "10:00",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc92f4zbpsg",
+        "class_name": "TIBET",
+        "day": "MARTES",
+        "time": "17:00",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9n8n8wtdc",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "10:00",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9hcs8cv4x",
+        "class_name": "TIBET",
+        "day": "VIERNES",
+        "time": "09:30",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Unicentro",
+        "classes": 9,
+        "value": 405000
+      }
+    ],
+    "total_classes": 9,
+    "total": 405000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-24T17:07:49.792Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-24T17:07:49.792Z",
+    "updated_at": "2026-09-24T17:07:49.792Z"
   }
 ]
