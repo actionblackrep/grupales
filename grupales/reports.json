@@ -12023,5 +12023,193 @@
     "reviewed_at": null,
     "created_at": "2026-09-24T20:46:18.582Z",
     "updated_at": "2026-09-24T20:46:18.582Z"
+  },
+  {
+    "id": "r_mug669e5pbu9qm1q",
+    "period": "2026-09-2",
+    "employee_id": "1004352490",
+    "employee_name": "CAMILO ANDRES OROZCO BLANCO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8fovjykof",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "09:15",
+        "location": "Aves María",
+        "modality": "Dominical",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc898eh5lrb",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:15",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8mfb5skzk",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc88e16dovs",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "18:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8e2dzi8bx",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "06:45",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8tj8ku6ux",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc80bxqqajk",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "19:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8m65mvanu",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "08:30",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8adhell1u",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:45",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 2,
+        "value": 100000
+      },
+      {
+        "location": "CC Florida",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "City Plaza",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Laureles",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "San Lucas",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 20,
+    "total": 910000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-24T23:35:08.813Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-24T23:35:08.813Z",
+    "updated_at": "2026-09-24T23:35:08.813Z"
   }
 ]
