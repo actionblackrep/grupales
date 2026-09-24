@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mufpku1ozg55gdev",
+    "at": "2026-09-24T15:50:35.292Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mueqqs01pc11qmpj MIGUEL ANGEL CHACON HINCAPIE 2026-09-2 -> CONFIRMED $1170000"
+  },
+  {
     "id": "a_mufpjzohfmkq74ek",
     "at": "2026-09-24T15:49:55.937Z",
     "actor": "laura.gomez@actionblack.co",
