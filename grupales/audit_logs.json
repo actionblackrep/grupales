@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mufpkw45432w3ozp",
+    "at": "2026-09-24T15:50:37.973Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "MARLON ALBERTO DE LA CRUZ LUNES 08:00 BEATS"
+  },
+  {
     "id": "a_mufpku1ozg55gdev",
     "at": "2026-09-24T15:50:35.292Z",
     "actor": "laura.gomez@actionblack.co",
