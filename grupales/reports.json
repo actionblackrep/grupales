@@ -11011,15 +11011,15 @@
     ],
     "total_classes": 11,
     "total": 495000,
-    "status": "SUBMITTED",
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "",
     "submitted_at": "2026-09-24T17:25:10.331Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-09-24T20:14:34.478Z",
     "created_at": "2026-09-24T17:25:10.331Z",
-    "updated_at": "2026-09-24T17:25:10.331Z"
+    "updated_at": "2026-09-24T20:14:34.478Z"
   },
   {
     "id": "r_mufya8dtld07sqyi",
