@@ -11,10 +11,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1017207973",
@@ -28,14 +28,14 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes",
-    "reporto_ss_by": null
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1020408588",
@@ -49,10 +49,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1128476063",
@@ -66,10 +66,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "98761840",
@@ -83,10 +83,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1040738085",
@@ -100,10 +100,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -121,10 +121,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -142,10 +142,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1152444479",
@@ -159,10 +159,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1004870281",
@@ -176,10 +176,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "43755824",
@@ -193,10 +193,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "71770170",
@@ -210,10 +210,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -231,10 +231,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1152714302",
@@ -248,10 +248,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "8177932",
@@ -265,10 +265,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "94151582",
@@ -282,10 +282,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -303,10 +303,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "71783686",
@@ -320,10 +320,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -341,10 +341,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1129536451",
@@ -358,10 +358,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1128470143",
@@ -375,10 +375,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1014258965",
@@ -392,10 +392,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1001773177",
@@ -409,10 +409,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1020486300",
@@ -426,10 +426,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -447,10 +447,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -468,10 +468,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1017153274",
@@ -485,10 +485,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1022432732",
@@ -502,10 +502,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1020793228",
@@ -519,10 +519,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1126909976",
@@ -536,10 +536,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -557,10 +557,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -578,10 +578,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1000640712",
@@ -595,10 +595,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-21T17:36:11.690Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -616,10 +616,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1000757514",
@@ -633,10 +633,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1004352490",
@@ -650,10 +650,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1020110626",
@@ -667,10 +667,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -688,10 +688,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1128441629",
@@ -705,10 +705,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1090150571",
@@ -722,10 +722,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "3414488",
@@ -739,10 +739,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "94060794",
@@ -756,10 +756,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1144070150",
@@ -773,10 +773,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "10308847",
@@ -790,10 +790,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "30402457",
@@ -807,10 +807,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1128050157",
@@ -824,10 +824,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1006015196",
@@ -841,10 +841,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1128462182",
@@ -858,10 +858,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1020482523",
@@ -875,10 +875,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1002210492",
@@ -892,10 +892,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1037592493",
@@ -909,10 +909,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1007583409",
@@ -926,10 +926,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "71270555",
@@ -943,10 +943,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1136886696",
@@ -960,10 +960,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1045759736",
@@ -977,10 +977,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1053830325",
@@ -994,10 +994,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1130613052",
@@ -1011,10 +1011,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1044423458",
@@ -1028,10 +1028,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1000570970",
@@ -1045,10 +1045,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1128421974",
@@ -1062,10 +1062,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "6427561",
@@ -1079,10 +1079,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1032485975",
@@ -1096,10 +1096,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1033180085",
@@ -1113,10 +1113,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -1134,10 +1134,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1088260299",
@@ -1151,10 +1151,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1045759211",
@@ -1168,10 +1168,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1019028020",
@@ -1185,10 +1185,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1020459136",
@@ -1202,10 +1202,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1143850762",
@@ -1219,10 +1219,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -1240,10 +1240,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1025881200",
@@ -1257,10 +1257,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
     "cedula": "1152449486",
@@ -1274,10 +1274,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
@@ -1294,11 +1294,11 @@
     "referencia": "octuno",
     "notas": "",
     "in_workforce": true,
-    "reporto_ss": false,
-    "reporto_ss_at": null,
+    "reporto_ss": true,
+    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
     "created_at": "2026-09-16T16:06:48.577Z",
-    "updated_at": "2026-09-23T16:21:46.440Z",
-    "reporto_ss_by": null,
+    "updated_at": "2026-09-24T02:30:51.774Z",
+    "reporto_ss_by": "laura.gomez@actionblack.co",
     "ultimo_pago_at": "2026-09-23T17:06:49.562Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
