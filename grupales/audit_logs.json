@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mufpzgoefwoxqu81",
+    "at": "2026-09-24T16:01:57.806Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "CESAR IVAN ARANGO MARTES 18:30 GIRO"
+  },
+  {
     "id": "a_mufpyhpc53gxen2p",
     "at": "2026-09-24T16:01:12.480Z",
     "actor": "laura.gomez@actionblack.co",
