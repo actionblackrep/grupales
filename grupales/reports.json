@@ -10332,5 +10332,295 @@
     "reviewed_at": null,
     "created_at": "2026-09-24T15:29:45.673Z",
     "updated_at": "2026-09-24T15:30:15.945Z"
+  },
+  {
+    "id": "r_mufp1zwziiwsi8ul",
+    "period": "2026-09-2",
+    "employee_id": "1007173953",
+    "employee_name": "MARLON ALBERTO DE LA CRUZ",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc9pk65nepv",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "18:30",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9xc6llkw9",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "19:45",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9vb29esbe",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9nplmrc1w",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "06:15",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc92hesz4qo",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc907lgdffp",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "06:45",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc95659ngv6",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "18:45",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9ee2qxtc2",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:15",
+        "location": "Plaza Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc99jm9oewj",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:00",
+        "location": "Plaza Campestre",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9yi07c07k",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "07:00",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9thmzx2g6",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "08:00",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 0
+      },
+      {
+        "schedule_id": "s_mu8ykresmdilvevg",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "20:00",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9310eo4pl",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "07:45",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9anxf9zlz",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "20:00",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9i0bi8o6v",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "06:30",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9ann3cpyt",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9bu2zcbp2",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "19:45",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Altos Del Prado",
+        "classes": 13,
+        "value": 585000
+      },
+      {
+        "location": "Plaza Campestre",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Viva Barranquilla",
+        "classes": 17,
+        "value": 765000
+      }
+    ],
+    "total_classes": 34,
+    "total": 1530000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-24T15:35:56.435Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-24T15:35:56.435Z",
+    "updated_at": "2026-09-24T15:35:56.435Z"
   }
 ]
