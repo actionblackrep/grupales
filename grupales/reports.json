@@ -10622,5 +10622,127 @@
     "reviewed_at": null,
     "created_at": "2026-09-24T15:35:56.435Z",
     "updated_at": "2026-09-24T15:35:56.435Z"
+  },
+  {
+    "id": "r_mufpifm114nds1zl",
+    "period": "2026-09-2",
+    "employee_id": "10308847",
+    "employee_name": "PABLO HERNAN ALVEAR NARVAEZ",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc9dvesy70v",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:00",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9acegsd0e",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "20:00",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9ny2uw2j0",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "06:00",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc90dp22zmx",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "22:15",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9n5x9c5xo",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9dkr8y8gq",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "18:00",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Campanella Plaza",
+        "classes": 9,
+        "value": 405000
+      },
+      {
+        "location": "Unicentro",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 13,
+    "total": 585000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-24T15:48:43.273Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-24T15:48:43.273Z",
+    "updated_at": "2026-09-24T15:48:43.273Z"
   }
 ]
