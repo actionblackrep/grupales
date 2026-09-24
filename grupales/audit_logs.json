@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mufq2cct7e6ny884",
+    "at": "2026-09-24T16:04:12.173Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "CESAR IVAN ARANGO MIERCOLES 18:30 BEATS"
+  },
+  {
     "id": "a_mufq13we88qm1aet",
     "at": "2026-09-24T16:03:14.558Z",
     "actor": "laura.gomez@actionblack.co",
