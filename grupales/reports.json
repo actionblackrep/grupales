@@ -9737,5 +9737,85 @@
     "reviewed_at": null,
     "created_at": "2026-09-23T23:35:26.016Z",
     "updated_at": "2026-09-23T23:35:26.016Z"
+  },
+  {
+    "id": "r_muevpawaks4npjla",
+    "period": "2026-09-2",
+    "employee_id": "71270555",
+    "employee_name": "LEONARDO ANTONIO ISAZA RESTREPO",
+    "rows": [
+      {
+        "schedule_id": "s_mubx9koqdzzughp6",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8ts3lx7mq",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8supw3ir1",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 1,
+        "value": 45000
+      },
+      {
+        "location": "La 33",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Outlet",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 5,
+    "total": 225000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-24T01:54:15.274Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-24T01:54:15.274Z",
+    "updated_at": "2026-09-24T01:54:15.274Z"
   }
 ]
