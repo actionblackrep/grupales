@@ -10173,5 +10173,164 @@
     "reviewed_at": null,
     "created_at": "2026-09-24T14:05:08.280Z",
     "updated_at": "2026-09-24T14:05:08.280Z"
+  },
+  {
+    "id": "r_mufou1u130rkdpnk",
+    "period": "2026-09-2",
+    "employee_id": "1128421974",
+    "employee_name": "KATHERINE QUINTERO HENAO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc7gpo4q0ob",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Éxito Poblado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7pqusgijl",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "18:00",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7ygdbyj7w",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:00",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7nxgfl8la",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "20:00",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7wwuu7flw",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "18:15",
+        "location": "Parque Fabricato",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7f2l5pcn1",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:15",
+        "location": "Parque Fabricato",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7gh51p670",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "06:30",
+        "location": "Parque Fabricato",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7khwro93b",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "07:30",
+        "location": "Parque Fabricato",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Éxito Poblado",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 9,
+        "value": 405000
+      },
+      {
+        "location": "Parque Fabricato",
+        "classes": 8,
+        "value": 360000
+      }
+    ],
+    "total_classes": 19,
+    "total": 855000,
+    "status": "DRAFT",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-24T15:29:45.673Z",
+    "updated_at": "2026-09-24T15:29:45.673Z"
   }
 ]
