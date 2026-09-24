@@ -1282,10 +1282,10 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-24T11:47:10.369Z",
-    "reporto_ss": true,
-    "reporto_ss_at": "2026-09-24T02:30:51.774Z",
-    "reporto_ss_by": "laura.gomez@actionblack.co"
+    "updated_at": "2026-09-24T11:52:01.366Z",
+    "reporto_ss": false,
+    "reporto_ss_at": null,
+    "reporto_ss_by": null
   },
   {
     "cedula": "1143850762",
