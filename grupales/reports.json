@@ -9728,15 +9728,15 @@
     ],
     "total_classes": 26,
     "total": 1170000,
-    "status": "SUBMITTED",
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "Esta perfecto",
     "admin_note": "",
     "submitted_at": "2026-09-23T23:35:26.016Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-09-24T15:50:35.292Z",
     "created_at": "2026-09-23T23:35:26.016Z",
-    "updated_at": "2026-09-23T23:35:26.016Z"
+    "updated_at": "2026-09-24T15:50:35.292Z"
   },
   {
     "id": "r_muevpawaks4npjla",
