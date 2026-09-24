@@ -11338,5 +11338,20 @@
     "source": "manual",
     "created_at": "2026-09-24T16:02:59.490Z",
     "updated_at": "2026-09-24T16:02:59.490Z"
+  },
+  {
+    "id": "s_mufq2cct9gypvcip",
+    "employee_id": "94060794",
+    "employee_name": "CESAR IVAN ARANGO",
+    "class_name": "BEATS",
+    "day": "MIERCOLES",
+    "time": "18:30",
+    "location": "Campanella Plaza",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-24T16:04:12.173Z",
+    "updated_at": "2026-09-24T16:04:12.173Z"
   }
 ]
