@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mufq0s9va02mjjwc",
+    "at": "2026-09-24T16:02:59.491Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "CESAR IVAN ARANGO JUEVES 08:00 BEATS"
+  },
+  {
     "id": "a_mufpzgoefwoxqu81",
     "at": "2026-09-24T16:01:57.806Z",
     "actor": "laura.gomez@actionblack.co",
