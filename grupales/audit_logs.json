@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mufq13we88qm1aet",
+    "at": "2026-09-24T16:03:14.558Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mufpzgoenlacqtmn CESAR IVAN ARANGO MARTES 18:30"
+  },
+  {
     "id": "a_mufq0s9va02mjjwc",
     "at": "2026-09-24T16:02:59.491Z",
     "actor": "laura.gomez@actionblack.co",
