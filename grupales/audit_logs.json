@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mufz1qlzko2xint1",
+    "at": "2026-09-24T20:15:40.535Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mufsc61sbeeeio3u JOSE ARMANDO VALENCIA CANO 2026-09-2 -> CONFIRMED $405000"
+  },
+  {
     "id": "a_mufz19bk2a0tn8rr",
     "at": "2026-09-24T20:15:18.128Z",
     "actor": "laura.gomez@actionblack.co",
