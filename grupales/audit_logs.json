@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mufz1zfisnv45ul9",
+    "at": "2026-09-24T20:15:51.966Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mufya8dtld07sqyi ORLANDO JOSÉ BERMÚDEZ TOVAR 2026-09-2 -> CONFIRMED $1710000"
+  },
+  {
     "id": "a_mufz1qlzko2xint1",
     "at": "2026-09-24T20:15:40.535Z",
     "actor": "laura.gomez@actionblack.co",
