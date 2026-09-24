@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muex10b32c2v8u9l",
+    "at": "2026-09-24T02:31:21.039Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=73 rejected=0"
+  },
+  {
     "id": "a_muex0dqaky257u6j",
     "at": "2026-09-24T02:30:51.778Z",
     "actor": "laura.gomez@actionblack.co",
