@@ -1,5 +1,19 @@
 [
   {
+    "id": "a_mufh21cphhbzxm2y",
+    "at": "2026-09-24T11:52:01.369Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=1 rejected=0"
+  },
+  {
+    "id": "a_mufh21cpvdge60ce",
+    "at": "2026-09-24T11:52:01.369Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1020459136 ALAN DAVID MOSQUERA CARO"
+  },
+  {
     "id": "a_mufgvsth9uq53tzd",
     "at": "2026-09-24T11:47:10.373Z",
     "actor": "katherine.zapata@actionblack.co",
