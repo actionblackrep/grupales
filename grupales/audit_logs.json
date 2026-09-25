@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muh3a7gq0emmq25r",
+    "at": "2026-09-25T15:02:00.266Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "CRISTIAN ARLEY MARTÍNEZ PINEDA JUEVES 06:30 BEATS"
+  },
+  {
     "id": "a_muh39wzonq1bte73",
     "at": "2026-09-25T15:01:46.692Z",
     "actor": "laura.gomez@actionblack.co",
