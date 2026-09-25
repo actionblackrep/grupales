@@ -11518,5 +11518,20 @@
     "source": "manual",
     "created_at": "2026-09-25T18:29:21.959Z",
     "updated_at": "2026-09-25T18:29:21.959Z"
+  },
+  {
+    "id": "s_muhbagmnn9c36yvx",
+    "employee_id": "1001545742",
+    "employee_name": "LIZARDO DE JESÚS MEJÍA ARREDONDO",
+    "class_name": "TIBET",
+    "day": "MARTES",
+    "time": "18:30",
+    "location": "La 33",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-25T18:46:09.071Z",
+    "updated_at": "2026-09-25T18:46:09.071Z"
   }
 ]
