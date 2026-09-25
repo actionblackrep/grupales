@@ -14010,5 +14010,102 @@
     "reviewed_at": null,
     "created_at": "2026-09-25T17:49:02.432Z",
     "updated_at": "2026-09-25T17:49:02.432Z"
+  },
+  {
+    "id": "r_muh9zkaasmz3hjti",
+    "period": "2026-09-2",
+    "employee_id": "1020459136",
+    "employee_name": "ALAN DAVID MOSQUERA CARO",
+    "rows": [
+      {
+        "schedule_id": "s_muby2zl65to6jq8y",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby20vd9dmhihsi",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby2hyop2yv2spk",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_muby1dnp5r9ecf45",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:45",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Outlet",
+        "classes": 5,
+        "value": 225000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 9,
+    "total": 405000,
+    "status": "DRAFT",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-25T18:09:40.978Z",
+    "updated_at": "2026-09-25T18:09:40.978Z"
   }
 ]
