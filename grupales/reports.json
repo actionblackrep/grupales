@@ -13082,5 +13082,121 @@
     "reviewed_at": null,
     "created_at": "2026-09-25T13:15:49.533Z",
     "updated_at": "2026-09-25T13:15:49.533Z"
+  },
+  {
+    "id": "r_mugzqqfkm537zgf2",
+    "period": "2026-09-2",
+    "employee_id": "1088260299",
+    "employee_name": "AMNER SERNA",
+    "rows": [
+      {
+        "schedule_id": "s_mugze7rqhliwgdx3",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "19:20",
+        "location": "Parque Arboleda",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mugzbry4y6lyo2aw",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:15",
+        "location": "Parque Arboleda",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mugzdei6dbfcsa5z",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "Parque Arboleda",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mugzh2cq7vl9od0q",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "08:00",
+        "location": "Parque Arboleda",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mugzfxn7cjzxax64",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "07:00",
+        "location": "Parque Arboleda",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mugzgfsxm2nade3h",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "18:00",
+        "location": "Parque Arboleda",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Parque Arboleda",
+        "classes": 12,
+        "value": 540000
+      }
+    ],
+    "total_classes": 12,
+    "total": 540000,
+    "status": "DRAFT",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-25T13:22:52.880Z",
+    "updated_at": "2026-09-25T13:22:52.880Z"
   }
 ]
