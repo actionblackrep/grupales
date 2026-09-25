@@ -12467,5 +12467,213 @@
     "reviewed_at": null,
     "created_at": "2026-09-25T03:56:33.762Z",
     "updated_at": "2026-09-25T03:56:33.762Z"
+  },
+  {
+    "id": "r_mugfkby10thipnwn",
+    "period": "2026-09-2",
+    "employee_id": "1007583409",
+    "employee_name": "KEVIN ALVAREZ DORIA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc82qzxa1bh",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "06:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc83b3mbnzi",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc84p6c1xpl",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "18:30",
+        "location": "Las Palmas Bio 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8kw9e3qtn",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8mov15uxt",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8py20lgwv",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "06:30",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8i88kv698",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "06:15",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8byczwv76",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:15",
+        "location": "Parque Fabricato",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8vz5iokvx",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:30",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8kiqs69cm",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "Belen",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "Las Palmas Bio 26",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Parque Fabricato",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "San Lucas",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 22,
+    "total": 990000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-25T03:58:01.849Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-25T03:58:01.849Z",
+    "updated_at": "2026-09-25T03:58:01.849Z"
   }
 ]
