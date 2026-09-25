@@ -12812,5 +12812,153 @@
     "reviewed_at": null,
     "created_at": "2026-09-25T10:30:24.083Z",
     "updated_at": "2026-09-25T10:30:24.083Z"
+  },
+  {
+    "id": "r_mugxi7rdhmu46pya",
+    "period": "2026-09-2",
+    "employee_id": "1017153274",
+    "employee_name": "JENNY MARCELA BARRETO GARCIA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8yvg9fk21",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "06:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc87yr0d6r1",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "08:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8lraheral",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "09:30",
+        "location": "Laureles",
+        "modality": "Dominical",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8c0vtywud",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:15",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8yh65bj54",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "06:30",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8qpwvdcdl",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8rciuja1e",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "19:30",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23",
+          "2026-09-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "City Plaza",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Laureles",
+        "classes": 4,
+        "value": 190000
+      },
+      {
+        "location": "Niquia",
+        "classes": 8,
+        "value": 360000
+      }
+    ],
+    "total_classes": 16,
+    "total": 730000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-09-25T12:20:16.201Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-25T12:20:16.201Z",
+    "updated_at": "2026-09-25T12:20:16.201Z"
   }
 ]
