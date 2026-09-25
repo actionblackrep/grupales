@@ -11458,5 +11458,20 @@
     "source": "manual",
     "created_at": "2026-09-25T18:27:26.378Z",
     "updated_at": "2026-09-25T18:27:26.378Z"
+  },
+  {
+    "id": "s_muhamondl7d8i06f",
+    "employee_id": "1007285865",
+    "employee_name": "SANTIAGO GALLEGO HERRERA",
+    "class_name": "GIRO",
+    "day": "LUNES",
+    "time": "19:15",
+    "location": "Plaza Rio Grande",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-25T18:27:39.721Z",
+    "updated_at": "2026-09-25T18:27:39.721Z"
   }
 ]
