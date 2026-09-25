@@ -13847,5 +13847,168 @@
     "reviewed_at": null,
     "created_at": "2026-09-25T16:15:31.650Z",
     "updated_at": "2026-09-25T16:15:31.650Z"
+  },
+  {
+    "id": "r_muh990m8ni4o33fn",
+    "period": "2026-09-2",
+    "employee_id": "1002210492",
+    "employee_name": "NATALIA SARAY  BAUTISTA OSPINA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc86lktaopw",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "19:15",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8jgy1vcpl",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc81whspztu",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "06:30",
+        "location": "CC Arkadia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-19",
+          "2026-09-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc85le1fr67",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "06:15",
+        "location": "Las Palmas Bio 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc84itmcf61",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "18:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubx4ufqmrz5dwbt",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8j49f2rsa",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:00",
+        "location": "Parque Fabricato",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubx3p4me01qa5br",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "19:00",
+        "location": "Parque Fabricato",
+        "modality": "Normal",
+        "dates": [],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 0
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "CC Arkadia",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Las Palmas Bio 26",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Outlet",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Parque Fabricato",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 14,
+    "total": 630000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "CLASE ESPECIAL 29 DE SEP FABRICATO ",
+    "admin_note": "",
+    "submitted_at": "2026-09-25T17:49:02.432Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-25T17:49:02.432Z",
+    "updated_at": "2026-09-25T17:49:02.432Z"
   }
 ]
