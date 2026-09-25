@@ -14240,5 +14240,301 @@
     "reviewed_at": null,
     "created_at": "2026-09-25T18:46:47.613Z",
     "updated_at": "2026-09-25T18:46:47.613Z"
+  },
+  {
+    "id": "r_muhbn20g7vyt0sar",
+    "period": "2026-09-2",
+    "employee_id": "1001773177",
+    "employee_name": "SANTIAGO MEDINA OSORIO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc7s35qvy1s",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "05:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 0
+      },
+      {
+        "schedule_id": "s_mtlrlsc8qjbk8fi9",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "06:45",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 0
+      },
+      {
+        "schedule_id": "s_mtlrlsc740zht6g2",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "18:00",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc78rav0s6q",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "19:00",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7ymacvp5c",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "20:00",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc73o6z6plx",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "Intermedia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7wvchdq6u",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "Intermedia",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc86crhr0b6",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "Las Palmas Bio 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8zbuuh33c",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:15",
+        "location": "Las Palmas Bio 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-16",
+          "2026-09-23"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8g8ua8a2m",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "08:00",
+        "location": "Sabaneta",
+        "modality": "Normal",
+        "dates": [],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 0
+      },
+      {
+        "schedule_id": "s_mtlrlsc8p2m0js0j",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "09:00",
+        "location": "Sabaneta",
+        "modality": "Normal",
+        "dates": [],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 0
+      },
+      {
+        "schedule_id": "s_mtlrlsc8o9vfu4f6",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "10:00",
+        "location": "Sabaneta",
+        "modality": "Normal",
+        "dates": [],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 0
+      },
+      {
+        "schedule_id": "s_mtlrlsc8ev5gjd8u",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "18:15",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8mbcqenpp",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-17",
+          "2026-09-24"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8d6qlz3t7",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "06:00",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-18",
+          "2026-09-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc761xc1fn2",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "05:30",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7tvia3xos",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "06:45",
+        "location": "Viva Envigado",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 0,
+        "value": 0
+      },
+      {
+        "location": "City Plaza",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Intermedia",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Las Palmas Bio 26",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Sabaneta",
+        "classes": 0,
+        "value": 0
+      },
+      {
+        "location": "San Bernardo",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Viva Envigado",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 24,
+    "total": 1080000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "6 clases sin firmar de sanbernando de la quincena pasada 270",
+    "admin_note": "",
+    "submitted_at": "2026-09-25T18:55:56.656Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-25T18:55:56.656Z",
+    "updated_at": "2026-09-25T18:55:56.656Z"
   }
 ]
