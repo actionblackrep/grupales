@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muhamecrp6hzrt4w",
+    "at": "2026-09-25T18:27:26.379Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "SANTIAGO GALLEGO HERRERA LUNES 18:15 GIRO"
+  },
+  {
     "id": "a_muha3sc2qxnxqqmu",
     "at": "2026-09-25T18:12:58.034Z",
     "actor": "katherine.zapata@actionblack.co",
