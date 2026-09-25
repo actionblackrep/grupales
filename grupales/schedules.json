@@ -11428,5 +11428,20 @@
     "source": "manual",
     "created_at": "2026-09-25T13:14:29.011Z",
     "updated_at": "2026-09-25T13:14:29.011Z"
+  },
+  {
+    "id": "s_mugzgfsxm2nade3h",
+    "employee_id": "1088260299",
+    "employee_name": "AMNER SERNA",
+    "class_name": "BEATS",
+    "day": "VIERNES",
+    "time": "18:00",
+    "location": "Parque Arboleda",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-09-25T13:14:52.545Z",
+    "updated_at": "2026-09-25T13:14:52.545Z"
   }
 ]
