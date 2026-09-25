@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mugzfxn7tuiz054v",
+    "at": "2026-09-25T13:14:29.011Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "AMNER SERNA VIERNES 07:00 BEATS"
+  },
+  {
     "id": "a_mugze7rr4w6y8c6h",
     "at": "2026-09-25T13:13:08.823Z",
     "actor": "laura.gomez@actionblack.co",
