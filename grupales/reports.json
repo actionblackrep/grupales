@@ -12202,15 +12202,15 @@
     ],
     "total_classes": 20,
     "total": 910000,
-    "status": "SUBMITTED",
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "",
     "submitted_at": "2026-09-24T23:35:08.813Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-09-25T15:02:44.475Z",
     "created_at": "2026-09-24T23:35:08.813Z",
-    "updated_at": "2026-09-24T23:35:08.813Z"
+    "updated_at": "2026-09-25T15:02:44.475Z"
   },
   {
     "id": "r_mugdpy3qmbzkiq32",
