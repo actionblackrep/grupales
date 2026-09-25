@@ -12211,5 +12211,113 @@
     "reviewed_at": null,
     "created_at": "2026-09-24T23:35:08.813Z",
     "updated_at": "2026-09-24T23:35:08.813Z"
+  },
+  {
+    "id": "r_mugdpy3qmbzkiq32",
+    "period": "2026-09-2",
+    "employee_id": "1152200378",
+    "employee_name": "CRISTIAN ARLEY MARTÍNEZ PINEDA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8meozzeh1",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "10:00",
+        "location": "La 33",
+        "modality": "Dominical",
+        "dates": [
+          "2026-09-20",
+          "2026-09-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc87tbrtolf",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8o40n8n0t",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-21",
+          "2026-09-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc86uk4yoyt",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-09-22",
+          "2026-09-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8nrbaubkf",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:30",
+        "location": "Sabaneta",
+        "modality": "Normal",
+        "dates": [],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 0
+      }
+    ],
+    "by_location": [
+      {
+        "location": "La 33",
+        "classes": 6,
+        "value": 280000
+      },
+      {
+        "location": "Laureles",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Sabaneta",
+        "classes": 0,
+        "value": 0
+      }
+    ],
+    "total_classes": 8,
+    "total": 370000,
+    "status": "DRAFT",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": null,
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-09-25T03:06:24.614Z",
+    "updated_at": "2026-09-25T03:06:24.614Z"
   }
 ]
