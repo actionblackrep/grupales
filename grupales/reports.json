@@ -14527,15 +14527,15 @@
     ],
     "total_classes": 24,
     "total": 1080000,
-    "status": "SUBMITTED",
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "6 clases sin firmar de sanbernando de la quincena pasada 270",
     "admin_note": "",
     "submitted_at": "2026-09-25T18:55:56.656Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-09-25T19:36:03.721Z",
     "created_at": "2026-09-25T18:55:56.656Z",
-    "updated_at": "2026-09-25T18:55:56.656Z"
+    "updated_at": "2026-09-25T19:36:03.721Z"
   },
   {
     "id": "r_muhcbzlpxs0vgu2g",
