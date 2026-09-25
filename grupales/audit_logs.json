@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muhd3dlt3c92o9kw",
+    "at": "2026-09-25T19:36:37.793Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "SANTIAGO MEDINA OSORIO SABADO 09:00 GIRO"
+  },
+  {
     "id": "a_muhd3ajewii4k1ub",
     "at": "2026-09-25T19:36:33.818Z",
     "actor": "laura.gomez@actionblack.co",
