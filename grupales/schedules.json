@@ -11458,20 +11458,5 @@
     "source": "manual",
     "created_at": "2026-09-25T18:46:09.071Z",
     "updated_at": "2026-09-25T18:46:09.071Z"
-  },
-  {
-    "id": "s_muimvts1xpmaqrct",
-    "employee_id": "1000640712",
-    "employee_name": "MARIANA VELEZ ARANGO",
-    "class_name": "TIBET",
-    "day": "LUNES",
-    "time": "05:15",
-    "location": "La 33",
-    "modality": "Aguadas Tibet",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "manual",
-    "created_at": "2026-09-26T16:58:27.841Z",
-    "updated_at": "2026-09-26T16:58:27.841Z"
   }
 ]
