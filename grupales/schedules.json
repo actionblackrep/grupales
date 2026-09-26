@@ -6529,15 +6529,15 @@
     "employee_id": "1053830325",
     "employee_name": "ANGIE NATALIA SEPULVEDA",
     "class_name": "TIBET",
-    "day": "SABADO",
+    "day": "MIERCOLES",
     "time": "18:30",
     "location": "Mall La Reserva",
-    "modality": "Aguadas Tibet",
+    "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "import",
     "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-26T17:04:15.620Z"
+    "updated_at": "2026-09-26T17:10:37.302Z"
   },
   {
     "id": "s_mtlrlsc8sw7wcigk",
