@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muin46dfc0m0f2ix",
+    "at": "2026-09-26T17:04:57.411Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "CARLOS MARIO GARCIA RODAS JUEVES 17:30 BEATS"
+  },
+  {
     "id": "a_muin42jjdwh3pw9h",
     "at": "2026-09-26T17:04:52.447Z",
     "actor": "laura.gomez@actionblack.co",
