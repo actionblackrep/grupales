@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muinoxtu2lw4zaa2",
+    "at": "2026-09-26T17:21:06.114Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_CREATE_ADMIN",
+    "detail": "CARLOS JOSE TORRES VALERO 2026-09-2"
+  },
+  {
     "id": "a_muinfuldql6nfgc4",
     "at": "2026-09-26T17:14:02.017Z",
     "actor": "laura.gomez@actionblack.co",
