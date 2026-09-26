@@ -5,7 +5,9 @@
       "normal": 45000,
       "dominical": 50000,
       "orienteNormal": 53000,
-      "orienteDominical": 58000
+      "orienteDominical": 58000,
+      "aguadasBeats": 60000,
+      "aguadasTibet": 60000
     },
     "orienteSedes": [
       "Alto de palmas",
@@ -19,6 +21,6 @@
     "lockedMessage": "",
     "lockedReportes": true,
     "lockedNovedades": true,
-    "updated_at": "2026-09-26T00:34:15.529Z"
+    "updated_at": "2026-09-26T17:03:25.624Z"
   }
 ]
