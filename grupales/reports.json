@@ -14695,47 +14695,5 @@
     "reviewed_at": "2026-09-25T19:38:28.175Z",
     "created_at": "2026-09-25T19:23:32.474Z",
     "updated_at": "2026-09-25T19:38:28.175Z"
-  },
-  {
-    "id": "r_muinclwqybljxppl",
-    "period": "2026-09-2",
-    "employee_id": "1053830325",
-    "employee_name": "ANGIE NATALIA SEPULVEDA",
-    "rows": [
-      {
-        "schedule_id": "s_mtlrlsc8vgtqyah9",
-        "class_name": "TIBET",
-        "day": "MIERCOLES",
-        "time": "18:30",
-        "location": "Mall La Reserva",
-        "modality": "Normal",
-        "dates": [
-          "2026-09-16",
-          "2026-09-23",
-          "2026-09-30"
-        ],
-        "confirmed_dates": null,
-        "tarifa": 45000,
-        "subtotal": 135000
-      }
-    ],
-    "by_location": [
-      {
-        "location": "Mall La Reserva",
-        "classes": 3,
-        "value": 135000
-      }
-    ],
-    "total_classes": 3,
-    "total": 135000,
-    "status": "REJECTED",
-    "alerts": [],
-    "instructor_note": "",
-    "admin_note": "Creado por laura.gomez@actionblack.co",
-    "submitted_at": "2026-09-26T17:11:30.794Z",
-    "reviewed_by": "laura.gomez@actionblack.co",
-    "reviewed_at": "2026-09-26T17:11:59.236Z",
-    "created_at": "2026-09-26T17:11:30.794Z",
-    "updated_at": "2026-09-26T17:11:59.236Z"
   }
 ]
