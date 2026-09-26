@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muin2kmhqmmtjqfy",
+    "at": "2026-09-26T17:03:42.569Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_muebddfr4qlhzljh CARLOS JOSE TORRES VALERO MARTES 19:00"
+  },
+  {
     "id": "a_muin27jx2d8rwfjs",
     "at": "2026-09-26T17:03:25.629Z",
     "actor": "laura.gomez@actionblack.co",
