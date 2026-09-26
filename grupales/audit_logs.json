@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muinpt0ib5w0br3b",
+    "at": "2026-09-26T17:21:46.530Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_muinoxtu0ivgxskc CARLOS JOSE TORRES VALERO 2026-09-2 -> CONFIRMED $195000"
+  },
+  {
     "id": "a_muinoxtu2lw4zaa2",
     "at": "2026-09-26T17:21:06.114Z",
     "actor": "laura.gomez@actionblack.co",
