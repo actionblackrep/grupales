@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muimvts2t21xnane",
+    "at": "2026-09-26T16:58:27.842Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "MARIANA VELEZ ARANGO LUNES 05:15 TIBET"
+  },
+  {
     "id": "a_muhnq4q19xbvjael",
     "at": "2026-09-26T00:34:15.529Z",
     "actor": "katherine.zapata@actionblack.co",
