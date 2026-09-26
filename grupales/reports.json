@@ -14755,9 +14755,11 @@
           "2026-09-17",
           "2026-09-24"
         ],
-        "confirmed_dates": null,
+        "confirmed_dates": [
+          "2026-09-17"
+        ],
         "tarifa": 65000,
-        "subtotal": 130000
+        "subtotal": 65000
       },
       {
         "schedule_id": "s_muebddfr4qlhzljh",
@@ -14778,20 +14780,20 @@
     "by_location": [
       {
         "location": "Mall La Reserva",
-        "classes": 4,
-        "value": 260000
+        "classes": 3,
+        "value": 195000
       }
     ],
-    "total_classes": 4,
-    "total": 260000,
-    "status": "SUBMITTED",
+    "total_classes": 3,
+    "total": 195000,
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "Creado por laura.gomez@actionblack.co",
     "submitted_at": "2026-09-26T17:21:06.114Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-09-26T17:21:46.530Z",
     "created_at": "2026-09-26T17:21:06.114Z",
-    "updated_at": "2026-09-26T17:21:06.114Z"
+    "updated_at": "2026-09-26T17:21:46.530Z"
   }
 ]
