@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muind7utqtl5wzuk",
+    "at": "2026-09-26T17:11:59.237Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_muinclwqybljxppl ANGIE NATALIA SEPULVEDA 2026-09-2 -> REJECTED $135000"
+  },
+  {
     "id": "a_muinclwr800ddm69",
     "at": "2026-09-26T17:11:30.795Z",
     "actor": "laura.gomez@actionblack.co",
