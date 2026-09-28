@@ -1026,23 +1026,6 @@
     "reporto_ss_by": "laura.gomez@actionblack.co"
   },
   {
-    "cedula": "1037592493",
-    "nombre": "CARLOS MARIO GARCIA RODAS",
-    "ss": false,
-    "tipo_documento": "1",
-    "tipo_transaccion": "37",
-    "codigo_banco": "1051",
-    "no_cuenta": "550488456519583",
-    "referencia": "octuno",
-    "notas": "",
-    "in_workforce": false,
-    "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-28T17:39:00.920Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null
-  },
-  {
     "cedula": "1007583409",
     "nombre": "KEVIN ALVAREZ DORIA",
     "ss": false,
