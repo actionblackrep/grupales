@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mumtoqgh65klsja0",
+    "at": "2026-09-29T15:19:58.961Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "APP_UNLOCK",
+    "detail": "reportes"
+  },
+  {
     "id": "a_mulklr6hgqnrgdee",
     "at": "2026-09-28T18:17:57.209Z",
     "actor": "katherine.zapata@actionblack.co",
