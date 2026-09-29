@@ -1347,7 +1347,7 @@
   {
     "cedula": "1019028020",
     "nombre": "MIGUEL ANGEL CHACON HINCAPIE",
-    "ss": false,
+    "ss": true,
     "tipo_documento": "1",
     "tipo_transaccion": "37",
     "codigo_banco": "1051",
@@ -1356,7 +1356,7 @@
     "notas": "",
     "in_workforce": true,
     "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-09-24T11:47:10.369Z",
+    "updated_at": "2026-09-29T16:42:01.160Z",
     "reporto_ss": true,
     "reporto_ss_at": "2026-09-24T02:30:51.774Z",
     "reporto_ss_by": "laura.gomez@actionblack.co",
