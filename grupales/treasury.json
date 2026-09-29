@@ -435,10 +435,10 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-25T18:12:58.031Z",
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
-    "ultimo_pago_grupo": "ss"
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "1014258965",
@@ -476,7 +476,11 @@
     "updated_at": "2026-09-28T17:39:00.920Z",
     "reporto_ss": false,
     "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "reporto_ss_by": null,
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_by": "katherine.zapata@actionblack.co",
+    "ultimo_pago_period": "2026-09-2",
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "1020486300",
@@ -515,10 +519,10 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-25T18:12:58.031Z",
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
-    "ultimo_pago_grupo": "ss"
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "1000660555",
@@ -641,10 +645,10 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-25T18:12:58.031Z",
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
-    "ultimo_pago_grupo": "ss"
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "1152458920",
@@ -662,10 +666,10 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-25T18:12:58.031Z",
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
-    "ultimo_pago_grupo": "ss"
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "1000640712",
@@ -893,10 +897,10 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-25T18:12:58.031Z",
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
-    "ultimo_pago_grupo": "ss"
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "10308847",
@@ -972,7 +976,11 @@
     "updated_at": "2026-09-28T17:39:00.920Z",
     "reporto_ss": false,
     "reporto_ss_at": null,
-    "reporto_ss_by": null
+    "reporto_ss_by": null,
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_by": "katherine.zapata@actionblack.co",
+    "ultimo_pago_period": "2026-09-2",
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "1128462182",
@@ -1213,10 +1221,10 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-25T18:12:58.031Z",
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
-    "ultimo_pago_grupo": "ss"
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "6427561",
@@ -1255,10 +1263,10 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-25T18:12:58.031Z",
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
-    "ultimo_pago_grupo": "ss"
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "1033180085",
@@ -1394,10 +1402,10 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-25T18:12:58.031Z",
+    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
-    "ultimo_pago_grupo": "ss"
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "1024514574",
