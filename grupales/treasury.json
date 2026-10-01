@@ -435,7 +435,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -477,7 +477,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -519,7 +519,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -645,7 +645,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -666,7 +666,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -897,7 +897,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -977,7 +977,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -1221,7 +1221,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -1263,7 +1263,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -1402,7 +1402,7 @@
     "reporto_ss": false,
     "reporto_ss_at": null,
     "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-09-29T16:18:19.565Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-09-2",
     "ultimo_pago_grupo": "pendientes"
@@ -1506,7 +1506,11 @@
     "reporto_ss_at": null,
     "reporto_ss_by": null,
     "created_at": "2026-09-29T21:00:00.000Z",
-    "updated_at": "2026-09-29T21:00:00.000Z"
+    "updated_at": "2026-09-29T21:00:00.000Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
+    "ultimo_pago_by": "katherine.zapata@actionblack.co",
+    "ultimo_pago_period": "2026-09-2",
+    "ultimo_pago_grupo": "pendientes"
   },
   {
     "cedula": "1007285865",
@@ -1523,6 +1527,10 @@
     "reporto_ss_at": null,
     "reporto_ss_by": null,
     "created_at": "2026-09-29T21:00:00.000Z",
-    "updated_at": "2026-09-29T21:00:00.000Z"
+    "updated_at": "2026-09-29T21:00:00.000Z",
+    "ultimo_pago_at": "2026-10-01T20:35:52.892Z",
+    "ultimo_pago_by": "katherine.zapata@actionblack.co",
+    "ultimo_pago_period": "2026-09-2",
+    "ultimo_pago_grupo": "pendientes"
   }
 ]
