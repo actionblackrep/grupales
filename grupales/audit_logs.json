@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_murfmbijd2fnku2u",
+    "at": "2026-10-02T20:45:02.539Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc9y12xvewu MIGUEL DEL VALLE PAREJO SABADO 07:20"
+  },
+  {
     "id": "a_murflvqk0to0x23l",
     "at": "2026-10-02T20:44:42.092Z",
     "actor": "katherine.zapata@actionblack.co",
