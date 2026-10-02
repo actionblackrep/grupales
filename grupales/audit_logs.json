@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_murddz8qsp3wfldp",
+    "at": "2026-10-02T19:42:34.154Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "DANIELA GIL CANO MARTES 12:30 GIRO"
+  },
+  {
     "id": "a_murdd9gl27d3iswd",
     "at": "2026-10-02T19:42:00.741Z",
     "actor": "laura.gomez@actionblack.co",
