@@ -11428,5 +11428,20 @@
     "source": "manual",
     "created_at": "2026-10-02T13:31:48.086Z",
     "updated_at": "2026-10-02T13:31:48.086Z"
+  },
+  {
+    "id": "s_murdd9gkelp55vbp",
+    "employee_id": "1020486300",
+    "employee_name": "DANIELA GIL CANO",
+    "class_name": "GIRO",
+    "day": "MARTES",
+    "time": "11:30",
+    "location": "Viva Envigado",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-10-02T19:42:00.740Z",
+    "updated_at": "2026-10-02T19:42:00.740Z"
   }
 ]
