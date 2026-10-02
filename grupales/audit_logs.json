@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mureom4aflb0be5t",
+    "at": "2026-10-02T20:18:49.978Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "ANDREA DEL PILAR SALAZAR PARRADO MARTES 19:30 BEATS"
+  },
+  {
     "id": "a_mureo3whsh5pi9mo",
     "at": "2026-10-02T20:18:26.369Z",
     "actor": "laura.gomez@actionblack.co",
