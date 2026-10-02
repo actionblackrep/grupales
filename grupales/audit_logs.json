@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_murfoqfyocuuay3y",
+    "at": "2026-10-02T20:46:55.198Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc9h33cqw8y LINA MARIA PARRA MARTINEZ MIERCOLES 18:50"
+  },
+  {
     "id": "a_murfnipmponqpxsw",
     "at": "2026-10-02T20:45:58.522Z",
     "actor": "laura.gomez@actionblack.co",
