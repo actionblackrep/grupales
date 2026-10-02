@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mur51rgtooa5g4lz",
+    "at": "2026-10-02T15:49:07.277Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc8xwfe8oi5 CHRISTIAN FERNANDEZ IBARRA SABADO 10:15"
+  },
+  {
     "id": "a_mur51g1z3kqyfwt1",
     "at": "2026-10-02T15:48:52.487Z",
     "actor": "laura.gomez@actionblack.co",
