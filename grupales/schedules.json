@@ -11458,5 +11458,20 @@
     "source": "manual",
     "created_at": "2026-10-02T19:42:34.154Z",
     "updated_at": "2026-10-02T19:42:34.154Z"
+  },
+  {
+    "id": "s_mureo3wgtg1zwjj9",
+    "employee_id": "52452277",
+    "employee_name": "ANDREA DEL PILAR SALAZAR PARRADO",
+    "class_name": "BEATS",
+    "day": "MARTES",
+    "time": "19:15",
+    "location": "Aves María",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-10-02T20:18:26.368Z",
+    "updated_at": "2026-10-02T20:18:26.368Z"
   }
 ]
