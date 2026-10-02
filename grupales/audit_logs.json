@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mur0562f62p5c4gh",
+    "at": "2026-10-02T13:31:48.087Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "HEIDY YULIET SANCHEZ MAYA LUNES 18:30 BEATS"
+  },
+  {
     "id": "a_mupzuoqoprjfgpk2",
     "at": "2026-10-01T20:35:52.896Z",
     "actor": "katherine.zapata@actionblack.co",
