@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_murfnipmponqpxsw",
+    "at": "2026-10-02T20:45:58.522Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "MIGUEL DEL VALLE PAREJO SABADO 10:20 GIRO"
+  },
+  {
     "id": "a_murfmxinu54ah2m4",
     "at": "2026-10-02T20:45:31.055Z",
     "actor": "laura.gomez@actionblack.co",
