@@ -31,5 +31,16 @@
     "note": "Sede Niquía, no asiste a la clase de 6:30 pm y manifiesta que se debe a problemas de transporte por cierre en la operación del metro. ",
     "reported_by": "gerente",
     "created_at": "2026-10-05T17:04:20.636Z"
+  },
+  {
+    "id": "n_muvl438u5yyfcwvq",
+    "employee_id": "1000757514",
+    "employee_name": "JUAN ALEJANDRO GÓMEZ RESTREPO",
+    "date": "2026-10-01",
+    "schedule_id": null,
+    "tipo": "OTRA",
+    "note": "Se fue la luz en la sede no se pudo brindar la experiencia ",
+    "reported_by": "gerente",
+    "created_at": "2026-10-05T18:29:54.414Z"
   }
 ]
