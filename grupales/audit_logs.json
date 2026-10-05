@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muvj47tjgz3d03f8",
+    "at": "2026-10-05T17:34:01.111Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc88e16dovs LUIGI PAOLO RUSSI CARDENAS VIERNES 18:30"
+  },
+  {
     "id": "a_muvi21zwahtpgxgy",
     "at": "2026-10-05T17:04:20.636Z",
     "actor": "manager:gerente",
