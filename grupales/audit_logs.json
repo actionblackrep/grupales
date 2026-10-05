@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muvh7fmvtmygmyez",
+    "at": "2026-10-05T16:40:31.975Z",
+    "actor": "instructor:1017207973",
+    "action": "REPORT_SUBMIT",
+    "detail": "2026-10-1 3 clases $210000 (especiales: 1 $120000)"
+  },
+  {
     "id": "a_muvh4k2k2z6ctfrv",
     "at": "2026-10-05T16:38:17.756Z",
     "actor": "katherine.zapata@actionblack.co",
