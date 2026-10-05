@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muvnfsxigd3nhtom",
+    "at": "2026-10-05T19:35:00.150Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA HEIDY YULIET SANCHEZ MAYA 2026-09-30 alerts=1"
+  },
+  {
     "id": "a_muvmu6jcg4nh140k",
     "at": "2026-10-05T19:18:11.352Z",
     "actor": "laura.gomez@actionblack.co",
