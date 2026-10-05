@@ -1,5 +1,26 @@
 [
   {
+    "id": "a_muvh1pvhnibd1nhe",
+    "at": "2026-10-05T16:36:05.309Z",
+    "actor": "sync:workforce",
+    "action": "NOMINA_AUTO_ADD",
+    "detail": "9 GRUPALES nuevos desde workforce: ANA RODRIGUEZ OSSA (1001415375); ANDREA DEL VALLE LEDESMA (1017234434); DIEGO GARCIA DEL RIO (1042439721); EDITH NATHALIA JARAMILLO ECHEVERRI (43152419); FELIPE GOMEZ BERNAL (1018419770); JHONATAN ALEXIS RESTREPO ALVAREZ (1152192329); LUIS DANIEL VIZCAÍNO GARCÍA (1001782573); LUISA MANUELA RINCON RENDON (1152687389); WALTER ANTONIO BETIN (1049025139)"
+  },
+  {
+    "id": "a_muvh1pvh6jorb8u7",
+    "at": "2026-10-05T16:36:05.309Z",
+    "actor": "sync:workforce",
+    "action": "NOMINA_CEDULA_RELINK",
+    "detail": "HENDER JOSE VALLES URDANETA: 600680499 -> 6000680499 (cedula corregida en workforce)"
+  },
+  {
+    "id": "a_muvh1pvh9wfdkx9n",
+    "at": "2026-10-05T16:36:05.309Z",
+    "actor": "sync:workforce",
+    "action": "NOMINA_CEDULA_RELINK",
+    "detail": "CARLOS JOSE TORRES VALERO: 6427561 -> 6006427561 (cedula corregida en workforce)"
+  },
+  {
     "id": "a_muvgzdpjo1ppkup1",
     "at": "2026-10-05T16:34:16.231Z",
     "actor": "katherine.zapata@actionblack.co",
