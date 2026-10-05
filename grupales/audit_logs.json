@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muvh85u7f9wrofgi",
+    "at": "2026-10-05T16:41:05.935Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_DELETE",
+    "detail": "LAURA GÓMEZ GARCIA 2026-10-1"
+  },
+  {
     "id": "a_muvh7fmvtmygmyez",
     "at": "2026-10-05T16:40:31.975Z",
     "actor": "instructor:1017207973",
