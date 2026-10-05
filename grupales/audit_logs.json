@@ -1,5 +1,75 @@
 [
   {
+    "id": "a_muvh4k2k2z6ctfrv",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=9 rejected=0"
+  },
+  {
+    "id": "a_muvh4k2ks2bhijvb",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1049025139 WALTER ANTONIO BETIN"
+  },
+  {
+    "id": "a_muvh4k2k2x09buny",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1152687389 LUISA MANUELA RINCON RENDON"
+  },
+  {
+    "id": "a_muvh4k2kc8lcsjgl",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1001782573 LUIS DANIEL VIZCAÍNO GARCÍA"
+  },
+  {
+    "id": "a_muvh4k2kf784seb2",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1152192329 JHONATAN ALEXIS RESTREPO ALVAREZ"
+  },
+  {
+    "id": "a_muvh4k2kwomz9jt8",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1018419770 FELIPE GOMEZ BERNAL"
+  },
+  {
+    "id": "a_muvh4k2ky7n1irne",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "43152419 EDITH NATHALIA JARAMILLO ECHEVERRI"
+  },
+  {
+    "id": "a_muvh4k2knul52qpf",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1042439721 DIEGO GARCIA DEL RIO"
+  },
+  {
+    "id": "a_muvh4k2knj81bymq",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1017234434 ANDREA DEL VALLE LEDESMA"
+  },
+  {
+    "id": "a_muvh4k2ka921q63x",
+    "at": "2026-10-05T16:38:17.756Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS",
+    "detail": "1001415375 ANA RODRIGUEZ OSSA"
+  },
+  {
     "id": "a_muvh1pvhnibd1nhe",
     "at": "2026-10-05T16:36:05.309Z",
     "actor": "sync:workforce",
