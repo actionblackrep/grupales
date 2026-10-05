@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muvgmub23gueoni8",
+    "at": "2026-10-05T16:24:31.214Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "LUZ MARÍA MEJIA JARAMILLO LUNES 06:00 GIRO"
+  },
+  {
     "id": "a_muvgl77emdqkim82",
     "at": "2026-10-05T16:23:14.618Z",
     "actor": "laura.gomez@actionblack.co",
