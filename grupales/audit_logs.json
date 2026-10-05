@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muvggd2upvv1i8qg",
+    "at": "2026-10-05T16:19:28.950Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_CREATE_ADMIN",
+    "detail": "DAVID ENRIQUE ECHEVERRIA MACHADO 2026-09-2"
+  },
+  {
     "id": "a_muvgbp4jmuhvlvst",
     "at": "2026-10-05T16:15:51.283Z",
     "actor": "katherine.zapata@actionblack.co",
