@@ -9,5 +9,16 @@
     "note": "No asistió",
     "reported_by": "gerente",
     "created_at": "2026-10-05T16:41:16.850Z"
+  },
+  {
+    "id": "n_muvhto91v7znwf3b",
+    "employee_id": "1007583409",
+    "employee_name": "KEVIN ALVAREZ DORIA",
+    "date": "2026-10-01",
+    "schedule_id": "s_mtlrlsc8vz5iokvx",
+    "tipo": "AUSENCIA",
+    "note": "No asistió a la clase, no reporto ni envió remplazo, por lo tanto la clase no se brindo. ",
+    "reported_by": "gerente",
+    "created_at": "2026-10-05T16:57:49.573Z"
   }
 ]
