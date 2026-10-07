@@ -1,16 +1,5 @@
 [
   {
-    "id": "n_muvh8e9ev8d1s0ia",
-    "employee_id": "1002210492",
-    "employee_name": "NATALIA SARAY  BAUTISTA OSPINA",
-    "date": "2026-10-01",
-    "schedule_id": null,
-    "tipo": "AUSENCIA",
-    "note": "No asistió",
-    "reported_by": "gerente",
-    "created_at": "2026-10-05T16:41:16.850Z"
-  },
-  {
     "id": "n_muvhto91v7znwf3b",
     "employee_id": "1007583409",
     "employee_name": "KEVIN ALVAREZ DORIA",
