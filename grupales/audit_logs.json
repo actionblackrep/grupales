@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv018a32yr9mcnue",
+    "at": "2026-10-08T21:12:08.462Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=74 rejected=0"
+  },
+  {
     "id": "a_mv001a8zak9g6qso",
     "at": "2026-10-08T20:38:42.467Z",
     "actor": "manager:gerente",
