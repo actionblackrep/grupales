@@ -42,5 +42,16 @@
     "note": "Coach manifiesta haber amanecido indispuesta presuntamente por lo que le queda imposible dirigirse a brindar la experiencia del miercoles 6:30 Am",
     "reported_by": "gerente",
     "created_at": "2026-10-05T19:35:00.150Z"
+  },
+  {
+    "id": "n_muzuckcr65z66cqj",
+    "employee_id": "1002210492",
+    "employee_name": "NATALIA SARAY  BAUTISTA OSPINA",
+    "date": "2026-10-01",
+    "schedule_id": null,
+    "tipo": "AUSENCIA",
+    "note": "La coach presenta una novedad en su otro lugar de trabajo y no asiste.",
+    "reported_by": "gerente",
+    "created_at": "2026-10-08T17:59:31.083Z"
   }
 ]
