@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv000v8oyrytq6fk",
+    "at": "2026-10-08T20:38:23.016Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "REEMPLAZO JUAN CAMILO MORA BARAJAS 2026-09-30 alerts=0"
+  },
+  {
     "id": "a_mv0008m9ryn8pp4h",
     "at": "2026-10-08T20:37:53.697Z",
     "actor": "manager:gerente",
