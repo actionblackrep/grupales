@@ -163,5 +163,16 @@
     "note": "No asiste y no envía reemplazo",
     "reported_by": "gerente",
     "created_at": "2026-10-08T22:04:51.857Z"
+  },
+  {
+    "id": "n_mv034dkc1pwjtnhb",
+    "employee_id": "1014258965",
+    "employee_name": "JUAN CAMILO MORA BARAJAS",
+    "date": "2026-10-14",
+    "schedule_id": "s_mtlrlsc9ontxb67l",
+    "tipo": "AUSENCIA",
+    "note": "No asiste y no envía reemplazo",
+    "reported_by": "gerente",
+    "created_at": "2026-10-08T22:05:05.580Z"
   }
 ]
