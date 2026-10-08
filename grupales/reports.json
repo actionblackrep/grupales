@@ -7022,7 +7022,8 @@
     "total": 1010000,
     "status": "CONFIRMED",
     "alerts": [
-      "Novedad AUSENCIA 2026-09-26 (BEATS 08:00 Pepe Sierra) reportada por gerente despues del envio"
+      "Novedad AUSENCIA 2026-09-26 (BEATS 08:00 Pepe Sierra) reportada por gerente despues del envio",
+      "Novedad AUSENCIA 2026-09-26 (BEATS 09:00 Pepe Sierra) reportada por gerente despues del envio"
     ],
     "instructor_note": "",
     "admin_note": "",
@@ -7030,7 +7031,7 @@
     "reviewed_by": "laura.gomez@actionblack.co",
     "reviewed_at": "2026-09-23T16:05:22.171Z",
     "created_at": "2026-09-23T00:39:47.318Z",
-    "updated_at": "2026-10-08T22:03:07.888Z"
+    "updated_at": "2026-10-08T22:03:33.803Z"
   },
   {
     "id": "r_mudmfzsgtb11eg67",
