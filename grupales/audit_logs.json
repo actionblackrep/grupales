@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv01cixda56unyah",
+    "at": "2026-10-08T21:15:26.545Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_DELETE",
+    "detail": "1042439721 DIEGO GARCIA DEL RIO"
+  },
+  {
     "id": "a_mv01cbx22fk7geiv",
     "at": "2026-10-08T21:15:17.462Z",
     "actor": "katherine.zapata@actionblack.co",
