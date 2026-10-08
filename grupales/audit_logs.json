@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv034dkcpw1ttwe1",
+    "at": "2026-10-08T22:05:05.580Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA JUAN CAMILO MORA BARAJAS 2026-10-14 alerts=0"
+  },
+  {
     "id": "a_mv0342z5e7g3can8",
     "at": "2026-10-08T22:04:51.857Z",
     "actor": "manager:gerente",
