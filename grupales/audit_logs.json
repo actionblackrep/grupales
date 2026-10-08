@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv031ur4u3ejb8kw",
+    "at": "2026-10-08T22:03:07.888Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA JERSSON FAVIAN ANGEL HERNANDEZ 2026-09-26 alerts=1"
+  },
+  {
     "id": "a_mv02v63vkwpu88bp",
     "at": "2026-10-08T21:57:56.011Z",
     "actor": "manager:gerente",
