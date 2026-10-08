@@ -1,10 +1,17 @@
 [
   {
-    "id": "a_mv01cshr1xj9ia0g",
-    "at": "2026-10-08T21:15:38.943Z",
+    "id": "a_mv01cyh4l7z8t4vt",
+    "at": "2026-10-08T21:15:46.696Z",
     "actor": "katherine.zapata@actionblack.co",
     "action": "NOMINA_DELETE",
-    "detail": "1018419770 FELIPE GOMEZ BERNAL"
+    "detail": "1152192329 JHONATAN ALEXIS RESTREPO ALVAREZ"
+  },
+  {
+    "id": "a_mv01cntc0k9f5fge",
+    "at": "2026-10-08T21:15:32.880Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_DELETE",
+    "detail": "43152419 EDITH NATHALIA JARAMILLO ECHEVERRI"
   },
   {
     "id": "a_mv01cixda56unyah",
