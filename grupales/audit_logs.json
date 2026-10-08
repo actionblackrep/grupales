@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv01cbx22fk7geiv",
+    "at": "2026-10-08T21:15:17.462Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_DELETE",
+    "detail": "1017234434 ANDREA DEL VALLE LEDESMA"
+  },
+  {
     "id": "a_mv01bwq0myyl4776",
     "at": "2026-10-08T21:14:57.768Z",
     "actor": "katherine.zapata@actionblack.co",
