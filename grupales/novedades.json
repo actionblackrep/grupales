@@ -141,5 +141,16 @@
     "note": "No asistió y no envía reemplazo",
     "reported_by": "gerente",
     "created_at": "2026-10-08T22:03:07.887Z"
+  },
+  {
+    "id": "n_mv032eqzehvayuhd",
+    "employee_id": "1031136942",
+    "employee_name": "JERSSON FAVIAN ANGEL HERNANDEZ",
+    "date": "2026-09-26",
+    "schedule_id": "s_mtlrlsc9jyouto0b",
+    "tipo": "AUSENCIA",
+    "note": "No asisti+o y no envía reemplazo",
+    "reported_by": "gerente",
+    "created_at": "2026-10-08T22:03:33.803Z"
   }
 ]
