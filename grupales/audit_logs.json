@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv01fkmlv00bf71c",
+    "at": "2026-10-08T21:17:48.717Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_DELETE",
+    "detail": "1018419770 FELIPE GOMEZ BERNAL"
+  },
+  {
     "id": "a_mv01emjxjeaeqyii",
     "at": "2026-10-08T21:17:04.557Z",
     "actor": "katherine.zapata@actionblack.co",
