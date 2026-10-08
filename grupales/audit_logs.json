@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muzuckcr5f5bo2lr",
+    "at": "2026-10-08T17:59:31.083Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA NATALIA SARAY  BAUTISTA OSPINA 2026-10-01 alerts=0"
+  },
+  {
     "id": "a_muydahxvexm8m8yh",
     "at": "2026-10-07T17:14:14.995Z",
     "actor": "laura.gomez@actionblack.co",
