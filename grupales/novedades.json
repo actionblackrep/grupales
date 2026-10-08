@@ -97,5 +97,16 @@
     "note": "No asiste por desmayo al dirigirse a la sede",
     "reported_by": "gerente",
     "created_at": "2026-10-08T20:37:53.697Z"
+  },
+  {
+    "id": "n_mv000v8o499mx4y7",
+    "employee_id": "1014258965",
+    "employee_name": "JUAN CAMILO MORA BARAJAS",
+    "date": "2026-09-30",
+    "schedule_id": "s_mtlrlsc9zgfb3pf8",
+    "tipo": "REEMPLAZO",
+    "note": "Coach envia reemplazo a su modalidad",
+    "reported_by": "gerente",
+    "created_at": "2026-10-08T20:38:23.016Z"
   }
 ]
