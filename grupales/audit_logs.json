@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_muzuv05pd62myc9e",
+    "at": "2026-10-08T18:13:51.373Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA DANIELA GARCIA FRANCO 2026-10-01 alerts=0"
+  },
+  {
     "id": "a_muzutw0w37b567x5",
     "at": "2026-10-08T18:12:59.360Z",
     "actor": "laura.gomez@actionblack.co",
