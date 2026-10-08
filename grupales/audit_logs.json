@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv02v63vkwpu88bp",
+    "at": "2026-10-08T21:57:56.011Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA JERSSON FAVIAN ANGEL HERNANDEZ 2026-10-07 alerts=0"
+  },
+  {
     "id": "a_mv01fkmlv00bf71c",
     "at": "2026-10-08T21:17:48.717Z",
     "actor": "katherine.zapata@actionblack.co",
