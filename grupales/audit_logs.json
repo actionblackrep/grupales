@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv0008m9ryn8pp4h",
+    "at": "2026-10-08T20:37:53.697Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA LUISA FERNANDA RAMOS SANCHEZ 2026-09-28 alerts=2"
+  },
+  {
     "id": "a_muzzwmk8m4ifpebt",
     "at": "2026-10-08T20:35:05.144Z",
     "actor": "manager:gerente",
