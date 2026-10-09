@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv14wv6kn4qxu14e",
+    "at": "2026-10-09T15:43:00.572Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "PENDIENTE_PAGO SANTIAGO MEDINA OSORIO 2026-10-09 alerts=0"
+  },
+  {
     "id": "a_mv14oystvqchz9mt",
     "at": "2026-10-09T15:36:52.013Z",
     "actor": "instructor:1024514574",
