@@ -229,5 +229,16 @@
     "note": "No asistió a la primera experiencia, envió reemplazo a las otras dos ",
     "reported_by": "gerente",
     "created_at": "2026-10-09T15:11:46.240Z"
+  },
+  {
+    "id": "n_mv14wv6ko9fdtj7v",
+    "employee_id": "1001773177",
+    "employee_name": "SANTIAGO MEDINA OSORIO",
+    "date": "2026-10-09",
+    "schedule_id": "s_mtlrlsc8d6qlz3t7",
+    "tipo": "PENDIENTE_PAGO",
+    "note": "Se deben 2 clases de los dias 4 y 11 de septiembre.",
+    "reported_by": "gerente",
+    "created_at": "2026-10-09T15:43:00.572Z"
   }
 ]
