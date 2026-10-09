@@ -20166,5 +20166,102 @@
         "observacion": "CLASS GIRO CORPORATIVA SEDE PEPE SIERRA VIERN 09-10-26"
       }
     ]
+  },
+  {
+    "id": "r_mv15vdml0r71g5bk",
+    "period": "2026-10-1",
+    "employee_id": "1020459136",
+    "employee_name": "ALAN DAVID MOSQUERA CARO",
+    "rows": [
+      {
+        "schedule_id": "s_muby2zl65to6jq8y",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-01",
+          "2026-10-08",
+          "2026-10-15"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_muby20vd9dmhihsi",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-06",
+          "2026-10-13"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby2hyop2yv2spk",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby1dnp5r9ecf45",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:45",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "Outlet",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 1,
+        "value": 45000
+      }
+    ],
+    "total_classes": 8,
+    "total": 360000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-09T16:09:50.781Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-09T16:09:50.781Z",
+    "updated_at": "2026-10-09T16:09:50.781Z",
+    "especiales": []
   }
 ]
