@@ -6,8 +6,8 @@
       "dominical": 50000,
       "orienteNormal": 53000,
       "orienteDominical": 58000,
-      "aguadasBeats": 65000,
-      "aguadasTibet": 75000
+      "aguadasBeats": 60000,
+      "aguadasTibet": 60000
     },
     "orienteSedes": [
       "Alto de palmas",
@@ -24,6 +24,6 @@
     "festivosExtra": [],
     "festivosExcluidos": [],
     "festivosDesde": "2026-10-01",
-    "updated_at": "2026-10-09T13:22:36.460Z"
+    "updated_at": "2026-10-09T19:40:30.083Z"
   }
 ]
