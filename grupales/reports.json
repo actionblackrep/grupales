@@ -16771,5 +16771,46 @@
     "created_at": "2026-10-09T13:34:13.962Z",
     "updated_at": "2026-10-09T13:34:13.962Z",
     "especiales": []
+  },
+  {
+    "id": "r_mv10cuam96hvn9yo",
+    "period": "2026-10-1",
+    "employee_id": "1017207973",
+    "employee_name": "LAURA GÓMEZ GARCIA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8rnghr640",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:00",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "City Plaza",
+        "classes": 1,
+        "value": 45000
+      }
+    ],
+    "total_classes": 1,
+    "total": 45000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-09T13:35:27.838Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-09T13:35:27.838Z",
+    "updated_at": "2026-10-09T13:35:27.838Z",
+    "especiales": []
   }
 ]
