@@ -17674,5 +17674,119 @@
     "created_at": "2026-10-09T13:42:11.508Z",
     "updated_at": "2026-10-09T13:42:11.508Z",
     "especiales": []
+  },
+  {
+    "id": "r_mv10oxx56j2vbot0",
+    "period": "2026-10-1",
+    "employee_id": "1032485975",
+    "employee_name": "JHON ALEXANDER CALDERÓN BARRERA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8vfijz2h9",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "07:00",
+        "location": "Atlantis",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8nojtepvo",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "05:30",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mucptcjikl2n0ky5",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "18:15",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mucpuemxsyzwmwvr",
+        "class_name": "GIRO",
+        "day": "LUNES",
+        "time": "19:30",
+        "location": "Connecta 26",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8i5zgcvt6",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "19:00",
+        "location": "Corporate Center",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Atlantis",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Colina",
+        "classes": 1,
+        "value": 45000
+      },
+      {
+        "location": "Connecta 26",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Corporate Center",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 7,
+    "total": 315000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-09T13:44:52.409Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-09T13:44:52.409Z",
+    "updated_at": "2026-10-09T13:44:52.409Z",
+    "especiales": []
   }
 ]
