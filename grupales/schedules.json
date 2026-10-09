@@ -11458,5 +11458,20 @@
     "source": "manual",
     "created_at": "2026-10-09T17:31:56.400Z",
     "updated_at": "2026-10-09T17:36:19.763Z"
+  },
+  {
+    "id": "s_mv1di13t7l5yhwfe",
+    "employee_id": "1053830325",
+    "employee_name": "ANGIE NATALIA SEPULVEDA",
+    "class_name": "TIBET",
+    "day": "VIERNES",
+    "time": "18:30",
+    "location": "Mall La Reserva",
+    "modality": "Aguadas Tibet",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-10-09T19:43:24.953Z",
+    "updated_at": "2026-10-09T19:43:24.953Z"
   }
 ]
