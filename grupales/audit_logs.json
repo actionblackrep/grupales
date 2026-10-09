@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv13soxsy3ztgs2b",
+    "at": "2026-10-09T15:11:46.240Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "OTRA JUAN ALEJANDRO GÓMEZ RESTREPO 2026-09-30 alerts=0"
+  },
+  {
     "id": "a_mv13pw7rg2mm32c0",
     "at": "2026-10-09T15:09:35.703Z",
     "actor": "instructor:71783686",
