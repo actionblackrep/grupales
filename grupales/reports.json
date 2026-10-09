@@ -21459,5 +21459,95 @@
     "created_at": "2026-10-09T17:15:48.378Z",
     "updated_at": "2026-10-09T17:15:48.378Z",
     "especiales": []
+  },
+  {
+    "id": "r_mv190jkpqdv5qsos",
+    "period": "2026-10-1",
+    "employee_id": "6781449",
+    "employee_name": "LUIS FERNANDO LABASTIDAS CASTILLO",
+    "rows": [
+      {
+        "schedule_id": "s_mubbhx9a8p5ih4f3",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:45",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mubbj7fyslsvwb50",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:45",
+        "location": "Altos Del Prado",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mv18sy9cx9rxijsb",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mubbk3rb9rfznpqp",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:15",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-03",
+          "2026-10-10"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Altos Del Prado",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "Viva Barranquilla",
+        "classes": 3,
+        "value": 135000
+      }
+    ],
+    "total_classes": 6,
+    "total": 270000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-09T17:37:50.617Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-09T17:37:50.617Z",
+    "updated_at": "2026-10-09T17:37:50.617Z",
+    "especiales": []
   }
 ]
