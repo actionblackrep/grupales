@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv1di13u6ay4e2wp",
+    "at": "2026-10-09T19:43:24.954Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "ANGIE NATALIA SEPULVEDA VIERNES 18:30 TIBET"
+  },
+  {
     "id": "a_mv1dea6gzptzvtrz",
     "at": "2026-10-09T19:40:30.088Z",
     "actor": "laura.gomez@actionblack.co",
