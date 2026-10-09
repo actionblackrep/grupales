@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv18ylgzs36r2max",
+    "at": "2026-10-09T17:36:19.763Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mv18sy9cx9rxijsb LUIS FERNANDO LABASTIDAS CASTILLO LUNES 18:30"
+  },
+  {
     "id": "a_mv18sy9dx8cktzem",
     "at": "2026-10-09T17:31:56.401Z",
     "actor": "laura.gomez@actionblack.co",
