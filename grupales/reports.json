@@ -22473,5 +22473,167 @@
     "created_at": "2026-10-09T18:13:22.036Z",
     "updated_at": "2026-10-09T18:13:22.036Z",
     "especiales": []
+  },
+  {
+    "id": "r_mv1bcum4jp8ai6ng",
+    "period": "2026-10-1",
+    "employee_id": "8177932",
+    "employee_name": "LUIS FELIPE MARIN HINESTROZA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8vxn0vk1z",
+        "class_name": "TIBET",
+        "day": "LUNES",
+        "time": "06:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8jzuhjjm4",
+        "class_name": "TIBET",
+        "day": "VIERNES",
+        "time": "06:00",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-02",
+          "2026-10-09"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muem17k70qwdqni2",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "18:30",
+        "location": "Éxito Av Colombia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-01",
+          "2026-10-08",
+          "2026-10-15"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_muem0p2wz558i4ej",
+        "class_name": "TIBET",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "Éxito Av Colombia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc89pgfi4tm",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "06:15",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-01",
+          "2026-10-08",
+          "2026-10-15"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8v41inszg",
+        "class_name": "TIBET",
+        "day": "MARTES",
+        "time": "06:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-06",
+          "2026-10-13"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8tjwp1i5m",
+        "class_name": "TIBET",
+        "day": "SABADO",
+        "time": "07:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-03",
+          "2026-10-10"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc82x65fbxu",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "06:45",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "City Plaza",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "Éxito Av Colombia",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Laureles",
+        "classes": 7,
+        "value": 315000
+      },
+      {
+        "location": "Niquia",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 16,
+    "total": 720000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-09T18:43:24.028Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-09T18:43:24.028Z",
+    "updated_at": "2026-10-09T18:43:24.028Z",
+    "especiales": []
   }
 ]
