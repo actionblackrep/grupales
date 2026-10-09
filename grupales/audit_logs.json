@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv12yktqujhnjtor",
+    "at": "2026-10-09T14:48:21.230Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "REEMPLAZO YIDAR ENRIQUE BERRÍO VELASQUEZ 2026-10-08 alerts=0"
+  },
+  {
     "id": "a_mv12kuao1r1rhsi8",
     "at": "2026-10-09T14:37:40.320Z",
     "actor": "instructor:1136886696",
