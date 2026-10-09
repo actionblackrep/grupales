@@ -218,5 +218,16 @@
     "note": "No asistió/envía reemplazo",
     "reported_by": "gerente",
     "created_at": "2026-10-09T14:48:30.203Z"
+  },
+  {
+    "id": "n_mv13soxsuotki0j7",
+    "employee_id": "1000757514",
+    "employee_name": "JUAN ALEJANDRO GÓMEZ RESTREPO",
+    "date": "2026-09-30",
+    "schedule_id": "s_mtlrlsc8gh6i9k2y",
+    "tipo": "OTRA",
+    "note": "No asistió a la primera experiencia, envió reemplazo a las otras dos ",
+    "reported_by": "gerente",
+    "created_at": "2026-10-09T15:11:46.240Z"
   }
 ]
