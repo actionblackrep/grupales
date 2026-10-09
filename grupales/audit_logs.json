@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv1jxtd552qh9cai",
+    "at": "2026-10-09T22:43:39.113Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA LINA MARIA PARRA MARTINEZ 2026-10-10 alerts=0"
+  },
+  {
     "id": "a_mv1jtudc3acvxxyz",
     "at": "2026-10-09T22:40:33.792Z",
     "actor": "instructor:1025881200",
