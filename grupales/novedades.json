@@ -240,5 +240,16 @@
     "note": "Se deben 2 clases de los dias 4 y 11 de septiembre.",
     "reported_by": "gerente",
     "created_at": "2026-10-09T15:43:00.572Z"
+  },
+  {
+    "id": "n_mv1b4u9xk89jihj8",
+    "employee_id": "1000660555",
+    "employee_name": "HEIDY YULIET SANCHEZ MAYA",
+    "date": "2026-09-28",
+    "schedule_id": "s_mtlrlsc84kzcc8a1",
+    "tipo": "AUSENCIA",
+    "note": "No asistio y no envio reemplazo, fue el 28 de septiembre lo cual ya se habia pasado la nomina anterior y se le pago con normalidad.",
+    "reported_by": "gerente",
+    "created_at": "2026-10-09T18:37:10.341Z"
   }
 ]
