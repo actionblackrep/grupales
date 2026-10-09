@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv0zwb3ggyp87xab",
+    "at": "2026-10-09T13:22:36.460Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "APP_UNLOCK",
+    "detail": "reportes"
+  },
+  {
     "id": "a_mv0353ddxootttwl",
     "at": "2026-10-08T22:05:39.025Z",
     "actor": "manager:gerente",
