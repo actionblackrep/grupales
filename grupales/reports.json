@@ -27471,5 +27471,173 @@
     "created_at": "2026-10-10T19:39:32.388Z",
     "updated_at": "2026-10-10T19:39:32.388Z",
     "especiales": []
+  },
+  {
+    "id": "r_mv2t93vpnvnu7ii0",
+    "period": "2026-10-1",
+    "employee_id": "1004352490",
+    "employee_name": "CAMILO ANDRES OROZCO BLANCO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8fovjykof",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "09:15",
+        "location": "Aves María",
+        "modality": "Dominical",
+        "dates": [
+          "2026-10-04",
+          "2026-10-11"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc898eh5lrb",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:15",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-01",
+          "2026-10-08",
+          "2026-10-15"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8mfb5skzk",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:15",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-06",
+          "2026-10-13"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8e2dzi8bx",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "06:45",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-02",
+          "2026-10-09"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8tj8ku6ux",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc80bxqqajk",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "19:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8m65mvanu",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "08:30",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-03",
+          "2026-10-10"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8adhell1u",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:45",
+        "location": "San Lucas",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-03",
+          "2026-10-10"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 2,
+        "value": 100000
+      },
+      {
+        "location": "CC Florida",
+        "classes": 5,
+        "value": 225000
+      },
+      {
+        "location": "Laureles",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "San Lucas",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 17,
+    "total": 775000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-10T19:52:08.677Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-10T19:52:08.677Z",
+    "updated_at": "2026-10-10T19:52:08.677Z",
+    "especiales": []
   }
 ]
