@@ -19,11 +19,11 @@
     "bonoSS": 50000,
     "locked": false,
     "lockedMessage": "",
-    "lockedReportes": false,
+    "lockedReportes": true,
     "lockedNovedades": true,
     "festivosExtra": [],
     "festivosExcluidos": [],
     "festivosDesde": "2026-10-01",
-    "updated_at": "2026-10-10T12:51:16.796Z"
+    "updated_at": "2026-10-10T23:50:43.901Z"
   }
 ]
