@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv31rxkusikzoin5",
+    "at": "2026-10-10T23:50:43.902Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "APP_LOCK",
+    "detail": "reportes"
+  },
+  {
     "id": "a_mv2yze2ojo9x9x4c",
     "at": "2026-10-10T22:32:33.024Z",
     "actor": "instructor:1001773177",
