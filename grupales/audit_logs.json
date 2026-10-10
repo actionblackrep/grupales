@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv2y54402z7uqu7k",
+    "at": "2026-10-10T22:09:00.432Z",
+    "actor": "instructor:1152714302",
+    "action": "REPORT_SUBMIT",
+    "detail": "2026-10-1 15 clases $675000"
+  },
+  {
     "id": "a_mv2xuto612w0yh1b",
     "at": "2026-10-10T22:01:00.342Z",
     "actor": "instructor:1001545742",
