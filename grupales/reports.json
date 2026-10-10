@@ -26705,5 +26705,218 @@
     "created_at": "2026-10-10T18:47:41.955Z",
     "updated_at": "2026-10-10T18:47:41.955Z",
     "especiales": []
+  },
+  {
+    "id": "r_mv2rxihmr1hdfmnh",
+    "period": "2026-10-1",
+    "employee_id": "1031136942",
+    "employee_name": "JERSSON FAVIAN ANGEL HERNANDEZ",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc9xplr5z5x",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "18:45",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-01",
+          "2026-10-08",
+          "2026-10-15"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9ds15uxr6",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:45",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9lnm4o65t",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "19:45",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9hm8b8deu",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "06:30",
+        "location": "Colina",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9tkh8enit",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Corporate Center",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9ia1y9yto",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "08:00",
+        "location": "Pepe Sierra",
+        "modality": "Dominical",
+        "dates": [
+          "2026-10-04",
+          "2026-10-11"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9lsamg0v1",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "09:00",
+        "location": "Pepe Sierra",
+        "modality": "Dominical",
+        "dates": [
+          "2026-10-04",
+          "2026-10-11"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9bac7o0ff",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "05:15",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9uwhrsmom",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:30",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-05"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9j2lcq89c",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-06",
+          "2026-10-13"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc91s2cojdm",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "08:00",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-03",
+          "2026-10-10"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9jyouto0b",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:00",
+        "location": "Pepe Sierra",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-03",
+          "2026-10-10"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Colina",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Corporate Center",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Pepe Sierra",
+        "classes": 12,
+        "value": 560000
+      }
+    ],
+    "total_classes": 20,
+    "total": 920000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-10T19:15:08.122Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-10T19:15:08.122Z",
+    "updated_at": "2026-10-10T19:15:08.122Z",
+    "especiales": []
   }
 ]
