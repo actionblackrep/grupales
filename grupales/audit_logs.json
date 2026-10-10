@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv2e7vek126l4c66",
+    "at": "2026-10-10T12:51:16.796Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "APP_LOCK",
+    "detail": "novedades"
+  },
+  {
     "id": "a_mv2azdam5wa8yujy",
     "at": "2026-10-10T11:20:41.230Z",
     "actor": "instructor:1128470143",
