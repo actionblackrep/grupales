@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv6pieatnz0w0hpy",
+    "at": "2026-10-13T13:18:28.325Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mv104je2wy1ecft3 ISAAC ARANGO GARCÍA 2026-10-1 -> CONFIRMED $1619000"
+  },
+  {
     "id": "a_mv6phxpzv9f70046",
     "at": "2026-10-13T13:18:06.839Z",
     "actor": "laura.gomez@actionblack.co",
