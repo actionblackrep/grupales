@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv6pp2l0n0exo4r3",
+    "at": "2026-10-13T13:23:39.732Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mv1f4tv5ha6ws04j JULIAN DAVID GARCIA GUERRERO 2026-10-1 -> CONFIRMED $1170000"
+  },
+  {
     "id": "a_mv6posaietjjf9su",
     "at": "2026-10-13T13:23:26.394Z",
     "actor": "laura.gomez@actionblack.co",
