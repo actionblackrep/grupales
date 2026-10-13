@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv73hpxju386y9n3",
+    "at": "2026-10-13T19:49:51.367Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc8lev20cp7 MARIANA VELEZ ARANGO SABADO 09:10"
+  },
+  {
     "id": "a_mv724ezq6org9w63",
     "at": "2026-10-13T19:11:31.046Z",
     "actor": "katherine.zapata@actionblack.co",
