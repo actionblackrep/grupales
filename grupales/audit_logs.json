@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv6p1d0871erfnct",
+    "at": "2026-10-13T13:05:13.496Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mv1jip9hz4ulehan ANDRES FELIPE TELLO 2026-10-1 -> CONFIRMED $675000"
+  },
+  {
     "id": "a_mv6p12q5p4hkwmzi",
     "at": "2026-10-13T13:05:00.173Z",
     "actor": "laura.gomez@actionblack.co",
