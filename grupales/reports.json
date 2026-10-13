@@ -28653,9 +28653,12 @@
         "dates": [
           "2026-10-02"
         ],
-        "confirmed_dates": null,
+        "confirmed_dates": [
+          "2026-10-02",
+          "2026-10-09"
+        ],
         "tarifa": 45000,
-        "subtotal": 45000
+        "subtotal": 90000
       },
       {
         "schedule_id": "s_mtlrlsc761xc1fn2",
@@ -28695,6 +28698,11 @@
         "value": 135000
       },
       {
+        "location": "Clases especiales",
+        "classes": 1,
+        "value": 90000
+      },
+      {
         "location": "Intermedia",
         "classes": 4,
         "value": 180000
@@ -28706,8 +28714,8 @@
       },
       {
         "location": "San Bernardo",
-        "classes": 7,
-        "value": 315000
+        "classes": 8,
+        "value": 360000
       },
       {
         "location": "Viva Envigado",
@@ -28715,17 +28723,23 @@
         "value": 180000
       }
     ],
-    "total_classes": 22,
-    "total": 990000,
-    "status": "SUBMITTED",
+    "total_classes": 24,
+    "total": 1125000,
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "Falta 1 del viernes en san bernando (2 quincenales) viernes san bernando 45.000  ,2 clases de Q1 san bernando 90.000, 2 clases Q2 septiempre (3 miercoles solo pagaron 2 )90.000= total :1.215.000",
     "admin_note": "",
     "submitted_at": "2026-10-10T22:32:33.024Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-10-13T20:08:43.744Z",
     "created_at": "2026-10-10T22:32:33.024Z",
-    "updated_at": "2026-10-10T22:32:33.024Z",
-    "especiales": []
+    "updated_at": "2026-10-13T20:08:43.744Z",
+    "especiales": [
+      {
+        "concepto": "clases que se le deben de otra 15na",
+        "valor": 90000,
+        "observacion": "sede san bernardo"
+      }
+    ]
   }
 ]
