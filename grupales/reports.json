@@ -17928,7 +17928,10 @@
           "2026-10-08",
           "2026-10-15"
         ],
-        "confirmed_dates": null,
+        "confirmed_dates": [
+          "2026-10-01",
+          "2026-10-08"
+        ],
         "tarifa": 45000,
         "subtotal": 90000
       },
@@ -17986,15 +17989,15 @@
     ],
     "total_classes": 20,
     "total": 900000,
-    "status": "SUBMITTED",
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "",
     "submitted_at": "2026-10-09T13:52:02.048Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-10-13T13:25:20.654Z",
     "created_at": "2026-10-09T13:52:02.048Z",
-    "updated_at": "2026-10-09T13:52:02.048Z",
+    "updated_at": "2026-10-13T13:25:20.654Z",
     "especiales": []
   },
   {
