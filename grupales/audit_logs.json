@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv6pthhxosefx3zu",
+    "at": "2026-10-13T13:27:05.685Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mv14oyssrtvyg4vc LUIGI PAOLO RUSSI CARDENAS 2026-10-1 -> CONFIRMED $635000"
+  },
+  {
     "id": "a_mv6psye5mqcydx32",
     "at": "2026-10-13T13:26:40.925Z",
     "actor": "laura.gomez@actionblack.co",
