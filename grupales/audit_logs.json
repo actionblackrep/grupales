@@ -1,5 +1,61 @@
 [
   {
+    "id": "a_mv724ezq6org9w63",
+    "at": "2026-10-13T19:11:31.046Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=7 rejected=0"
+  },
+  {
+    "id": "a_mv724ezq8fxwmy0i",
+    "at": "2026-10-13T19:11:31.046Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1152458920 VALENTINA CALAD OSPINA"
+  },
+  {
+    "id": "a_mv724ezqnub1pkpf",
+    "at": "2026-10-13T19:11:31.046Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1001773177 SANTIAGO MEDINA OSORIO"
+  },
+  {
+    "id": "a_mv724ezqd4pjctxm",
+    "at": "2026-10-13T19:11:31.046Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1045759211 MARIELA CAROLINA ECHEVERRÍA MACHADO"
+  },
+  {
+    "id": "a_mv724ezqjfwuboyq",
+    "at": "2026-10-13T19:11:31.046Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1128421974 KATHERINE QUINTERO HENAO"
+  },
+  {
+    "id": "a_mv724ezq8gxelc6h",
+    "at": "2026-10-13T19:11:31.046Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1020408588 JULIÁN DAVID MONTOYA SÁNCHEZ"
+  },
+  {
+    "id": "a_mv724ezqi6ga0j51",
+    "at": "2026-10-13T19:11:31.046Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1031136942 JERSSON FAVIAN ANGEL HERNANDEZ"
+  },
+  {
+    "id": "a_mv724ezqwl4953l6",
+    "at": "2026-10-13T19:11:31.046Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "6006427561 CARLOS JOSE TORRES VALERO"
+  },
+  {
     "id": "a_mv6q4myckdkhwxfs",
     "at": "2026-10-13T13:35:45.972Z",
     "actor": "laura.gomez@actionblack.co",
