@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv6pq53m6z2z4gf9",
+    "at": "2026-10-13T13:24:29.650Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mv13c73bnp99y4z9 KATHERINE QUINTERO HENAO 2026-10-1 -> CONFIRMED $720000"
+  },
+  {
     "id": "a_mv6ppy15cxcgmo1b",
     "at": "2026-10-13T13:24:20.489Z",
     "actor": "laura.gomez@actionblack.co",
