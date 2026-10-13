@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv6p7kg4ojwl8uml",
+    "at": "2026-10-13T13:10:03.076Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mv10lhrolgyaqcmp DAVID VEGA ACOSTA 2026-10-1 -> CONFIRMED $720000"
+  },
+  {
     "id": "a_mv6p7bss6l3hfv2y",
     "at": "2026-10-13T13:09:51.868Z",
     "actor": "laura.gomez@actionblack.co",
