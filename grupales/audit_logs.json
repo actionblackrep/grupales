@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mv9qzspyoyhlp5tt",
+    "at": "2026-10-15T16:23:18.310Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_muby20vd9dmhihsi LUIGI PAOLO RUSSI CARDENAS MARTES 18:30"
+  },
+  {
     "id": "a_mv745zohyxkqyzvw",
     "at": "2026-10-13T20:08:43.745Z",
     "actor": "laura.gomez@actionblack.co",
