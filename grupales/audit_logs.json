@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvb9hypifiwyz3hn",
+    "at": "2026-10-16T17:49:05.142Z",
+    "actor": "instructor:1004870281",
+    "action": "REPORT_SUBMIT",
+    "detail": "2026-10-1 46 clases $2100000"
+  },
+  {
     "id": "a_mvb8crfo4303ok4z",
     "at": "2026-10-16T17:17:02.820Z",
     "actor": "laura.gomez@actionblack.co",
