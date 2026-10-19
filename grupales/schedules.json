@@ -11481,12 +11481,12 @@
     "class_name": "GIRO",
     "day": "VIERNES",
     "time": "05:45",
-    "location": null,
+    "location": "Colina",
     "modality": "Normal",
     "classes_count": 1,
     "status": "ACTIVE",
     "source": "manual",
     "created_at": "2026-10-19T17:11:18.094Z",
-    "updated_at": "2026-10-19T17:11:18.094Z"
+    "updated_at": "2026-10-19T17:12:10.920Z"
   }
 ]
