@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvfiilb5jsbjjd68",
+    "at": "2026-10-19T17:12:35.681Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "LUISA FERNANDA RAMOS SANCHEZ VIERNES 07:10 GIRO"
+  },
+  {
     "id": "a_mvfii27ci9qdmz7l",
     "at": "2026-10-19T17:12:10.920Z",
     "actor": "laura.gomez@actionblack.co",
