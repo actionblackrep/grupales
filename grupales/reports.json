@@ -29548,14 +29548,15 @@
     ],
     "total_classes": 5,
     "total": 300000,
-    "status": "SUBMITTED",
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "Creado por laura.gomez@actionblack.co",
     "submitted_at": "2026-10-19T14:45:31.072Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-10-19T14:46:30.321Z",
     "created_at": "2026-10-19T14:45:31.072Z",
-    "updated_at": "2026-10-19T14:45:31.072Z"
+    "updated_at": "2026-10-19T14:46:30.321Z",
+    "especiales": []
   }
 ]
