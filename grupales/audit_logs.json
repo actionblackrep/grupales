@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvffgwo74hcsxk78",
+    "at": "2026-10-19T15:47:18.247Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc84oo2nbuj LUIGI PAOLO RUSSI CARDENAS JUEVES 06:15"
+  },
+  {
     "id": "a_mvfdapwxemifcwyl",
     "at": "2026-10-19T14:46:30.321Z",
     "actor": "laura.gomez@actionblack.co",
