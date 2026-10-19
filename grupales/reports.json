@@ -29280,5 +29280,213 @@
     "created_at": "2026-10-16T19:10:08.646Z",
     "updated_at": "2026-10-16T19:10:08.646Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvfcdb0w8x60klvt",
+    "period": "2026-10-1",
+    "employee_id": "1020408588",
+    "employee_name": "JULIÁN DAVID MONTOYA SÁNCHEZ",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc7impayanj",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "06:00",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-02",
+          "2026-10-09"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8u6emool3",
+        "class_name": "GIRO",
+        "day": "VIERNES",
+        "time": "07:15",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-02",
+          "2026-10-09"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7rbh2i1sb",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "05:15",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-01",
+          "2026-10-08",
+          "2026-10-15"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc75920wqhd",
+        "class_name": "GIRO",
+        "day": "JUEVES",
+        "time": "06:15",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-01",
+          "2026-10-08",
+          "2026-10-15"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc71rng493v",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "05:45",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7qpy3o3mn",
+        "class_name": "GIRO",
+        "day": "MIERCOLES",
+        "time": "07:00",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-07",
+          "2026-10-14"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7svobpvp3",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "07:15",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-03",
+          "2026-10-10"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7hr5z4arv",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "08:15",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-03",
+          "2026-10-10"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mu5wf8t94aiep2pe",
+        "class_name": "GIRO",
+        "day": "SABADO",
+        "time": "09:15",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-03",
+          "2026-10-10"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc7lqm9ibej",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "05:30",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-06",
+          "2026-10-13"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc75luzdo97",
+        "class_name": "GIRO",
+        "day": "MARTES",
+        "time": "06:45",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-06",
+          "2026-10-13"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "La 33",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Laureles",
+        "classes": 6,
+        "value": 270000
+      },
+      {
+        "location": "Niquia",
+        "classes": 10,
+        "value": 450000
+      },
+      {
+        "location": "San Bernardo",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 24,
+    "total": 1080000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "Creado por laura.gomez@actionblack.co",
+    "submitted_at": "2026-10-19T14:20:31.376Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-19T14:20:31.376Z",
+    "updated_at": "2026-10-19T14:20:31.376Z"
   }
 ]
