@@ -20,10 +20,10 @@
     "locked": false,
     "lockedMessage": "",
     "lockedReportes": true,
-    "lockedNovedades": true,
+    "lockedNovedades": false,
     "festivosExtra": [],
     "festivosExcluidos": [],
     "festivosDesde": "2026-10-01",
-    "updated_at": "2026-10-19T14:43:22.753Z"
+    "updated_at": "2026-10-19T18:49:57.200Z"
   }
 ]
