@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvfcdb0wg2rf6qnf",
+    "at": "2026-10-19T14:20:31.376Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_CREATE_ADMIN",
+    "detail": "JULIÁN DAVID MONTOYA SÁNCHEZ 2026-10-1"
+  },
+  {
     "id": "a_mvfc8p2zpokopj28",
     "at": "2026-10-19T14:16:56.315Z",
     "actor": "laura.gomez@actionblack.co",
