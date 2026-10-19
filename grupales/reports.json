@@ -29457,6 +29457,11 @@
     ],
     "by_location": [
       {
+        "location": "Clases especiales",
+        "classes": 1,
+        "value": 45000
+      },
+      {
         "location": "La 33",
         "classes": 4,
         "value": 180000
@@ -29477,16 +29482,23 @@
         "value": 180000
       }
     ],
-    "total_classes": 24,
-    "total": 1080000,
-    "status": "SUBMITTED",
+    "total_classes": 25,
+    "total": 1125000,
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "Creado por laura.gomez@actionblack.co",
     "submitted_at": "2026-10-19T14:20:31.376Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-10-19T14:23:48.421Z",
     "created_at": "2026-10-19T14:20:31.376Z",
-    "updated_at": "2026-10-19T14:20:31.376Z"
+    "updated_at": "2026-10-19T14:23:48.421Z",
+    "especiales": [
+      {
+        "concepto": "clase especial la 33",
+        "valor": 45000,
+        "observacion": ""
+      }
+    ]
   }
 ]
