@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvfii27ci9qdmz7l",
+    "at": "2026-10-19T17:12:10.920Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mvfigxfyhhfvth3c LUISA FERNANDA RAMOS SANCHEZ VIERNES 05:45"
+  },
+  {
     "id": "a_mvfigxfyyvu5htag",
     "at": "2026-10-19T17:11:18.094Z",
     "actor": "laura.gomez@actionblack.co",
