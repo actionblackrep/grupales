@@ -11458,5 +11458,20 @@
     "source": "manual",
     "created_at": "2026-10-19T17:10:14.144Z",
     "updated_at": "2026-10-19T17:10:14.144Z"
+  },
+  {
+    "id": "s_mvfig67j9c6gkdxm",
+    "employee_id": "1020793228",
+    "employee_name": "LUISA FERNANDA RAMOS SANCHEZ",
+    "class_name": "GIRO",
+    "day": "MARTES",
+    "time": "07:30",
+    "location": "Éxito Chapinero",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-10-19T17:10:42.799Z",
+    "updated_at": "2026-10-19T17:10:42.799Z"
   }
 ]
