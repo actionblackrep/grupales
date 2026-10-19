@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvffvm5uf779akds",
+    "at": "2026-10-19T15:58:44.466Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc84kzcc8a1 JENNY MARCELA BARRETO GARCIA LUNES 06:15"
+  },
+  {
     "id": "a_mvffgwo74hcsxk78",
     "at": "2026-10-19T15:47:18.247Z",
     "actor": "laura.gomez@actionblack.co",
