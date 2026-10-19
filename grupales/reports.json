@@ -29500,5 +29500,62 @@
         "observacion": ""
       }
     ]
+  },
+  {
+    "id": "r_mvfd9g74i4m0sbo9",
+    "period": "2026-10-1",
+    "employee_id": "6006427561",
+    "employee_name": "CARLOS JOSE TORRES VALERO",
+    "rows": [
+      {
+        "schedule_id": "s_muebe79p81bymts5",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "17:30",
+        "location": "Mall La Reserva",
+        "modality": "Aguadas Beats",
+        "dates": [
+          "2026-10-01",
+          "2026-10-08",
+          "2026-10-15"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 60000,
+        "subtotal": 180000
+      },
+      {
+        "schedule_id": "s_muebddfr4qlhzljh",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "19:00",
+        "location": "Mall La Reserva",
+        "modality": "Aguadas Beats",
+        "dates": [
+          "2026-10-06",
+          "2026-10-13"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 60000,
+        "subtotal": 120000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Mall La Reserva",
+        "classes": 5,
+        "value": 300000
+      }
+    ],
+    "total_classes": 5,
+    "total": 300000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "Creado por laura.gomez@actionblack.co",
+    "submitted_at": "2026-10-19T14:45:31.072Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-19T14:45:31.072Z",
+    "updated_at": "2026-10-19T14:45:31.072Z"
   }
 ]
