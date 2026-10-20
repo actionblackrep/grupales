@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvgy7xybphins3ll",
+    "at": "2026-10-20T17:19:58.883Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mtlrlsc9zgfb3pf8 JUAN CAMILO MORA BARAJAS MIERCOLES 06:15"
+  },
+  {
     "id": "a_mvgy4lx4kzmppw1e",
     "at": "2026-10-20T17:17:23.320Z",
     "actor": "laura.gomez@actionblack.co",
