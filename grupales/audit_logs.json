@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvh7h2991aip1kqm",
+    "at": "2026-10-20T21:39:00.909Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "REEMPLAZO MIGUEL DEL VALLE PAREJO 2026-10-20 alerts=0"
+  },
+  {
     "id": "a_mvgy8c0s4abs16lr",
     "at": "2026-10-20T17:20:17.116Z",
     "actor": "laura.gomez@actionblack.co",
