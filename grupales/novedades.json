@@ -240,5 +240,16 @@
     "note": "se cancela la case, lina no logra conseguir un remplazo ",
     "reported_by": "gerente",
     "created_at": "2026-10-09T22:43:39.113Z"
+  },
+  {
+    "id": "n_mvh7h2993by9ayju",
+    "employee_id": "1022432732",
+    "employee_name": "MIGUEL DEL VALLE PAREJO",
+    "date": "2026-10-20",
+    "schedule_id": null,
+    "tipo": "REEMPLAZO",
+    "note": "No asistió, lo reemplaza Juan Camilo Mora",
+    "reported_by": "gerente",
+    "created_at": "2026-10-20T21:39:00.909Z"
   }
 ]
