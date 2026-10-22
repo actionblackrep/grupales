@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvjtdtze9uwv26y3",
+    "at": "2026-10-22T17:27:54.122Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "PAULA ALEJANDRA ROJAS SALAMANCA MIERCOLES 07:45 GIRO"
+  },
+  {
     "id": "a_mvjtdekztr63gcuf",
     "at": "2026-10-22T17:27:34.163Z",
     "actor": "laura.gomez@actionblack.co",
