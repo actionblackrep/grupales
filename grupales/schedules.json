@@ -11653,5 +11653,20 @@
     "source": "manual",
     "created_at": "2026-10-22T17:36:49.107Z",
     "updated_at": "2026-10-22T17:36:49.107Z"
+  },
+  {
+    "id": "s_mvjtq6oonkvokwyt",
+    "employee_id": "1000580543",
+    "employee_name": "PAULA ALEJANDRA ROJAS SALAMANCA",
+    "class_name": "BEATS",
+    "day": "JUEVES",
+    "time": "05:45",
+    "location": "Connecta 26",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-10-22T17:37:30.456Z",
+    "updated_at": "2026-10-22T17:37:30.456Z"
   }
 ]
