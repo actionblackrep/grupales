@@ -11698,5 +11698,20 @@
     "source": "manual",
     "created_at": "2026-10-22T17:38:35.234Z",
     "updated_at": "2026-10-22T17:38:58.199Z"
+  },
+  {
+    "id": "s_mvjtt4wu92l3rijs",
+    "employee_id": "1000580543",
+    "employee_name": "PAULA ALEJANDRA ROJAS SALAMANCA",
+    "class_name": "GIRO",
+    "day": "JUEVES",
+    "time": "19:15",
+    "location": "Éxito Chapinero",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-10-22T17:39:48.126Z",
+    "updated_at": "2026-10-22T17:39:48.126Z"
   }
 ]
