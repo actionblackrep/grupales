@@ -11518,5 +11518,20 @@
     "source": "manual",
     "created_at": "2026-10-22T17:26:31.539Z",
     "updated_at": "2026-10-22T17:26:31.539Z"
+  },
+  {
+    "id": "s_mvjtcl4cgobfm2pl",
+    "employee_id": "1000580543",
+    "employee_name": "PAULA ALEJANDRA ROJAS SALAMANCA",
+    "class_name": "GIRO",
+    "day": "LUNES",
+    "time": "07:00",
+    "location": "Pepe Sierra",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-10-22T17:26:55.980Z",
+    "updated_at": "2026-10-22T17:26:55.980Z"
   }
 ]
