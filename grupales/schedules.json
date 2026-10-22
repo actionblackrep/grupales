@@ -11593,5 +11593,20 @@
     "source": "manual",
     "created_at": "2026-10-22T17:32:41.994Z",
     "updated_at": "2026-10-22T17:32:41.994Z"
+  },
+  {
+    "id": "s_mvjtl27s4zkym3ow",
+    "employee_id": "1000580543",
+    "employee_name": "PAULA ALEJANDRA ROJAS SALAMANCA",
+    "class_name": "BEATS",
+    "day": "MARTES",
+    "time": "06:00",
+    "location": "Corporate Center",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-10-22T17:33:31.384Z",
+    "updated_at": "2026-10-22T17:33:31.384Z"
   }
 ]
