@@ -251,5 +251,16 @@
     "note": "No asistió, lo reemplaza Juan Camilo Mora",
     "reported_by": "gerente",
     "created_at": "2026-10-20T21:39:00.909Z"
+  },
+  {
+    "id": "n_mvl05pq3qozbyzr8",
+    "employee_id": "1006015196",
+    "employee_name": "NATALIA RIVERA CIFUENTE",
+    "date": "2026-10-16",
+    "schedule_id": null,
+    "tipo": "AUSENCIA",
+    "note": "Coach no asiste debido a que se había realizado un procedimiento facial y no podía realizar ejercicio ni recibir sol, por ende pide cancelar experiencia del 16/10/2026",
+    "reported_by": "gerente",
+    "created_at": "2026-10-23T13:25:18.843Z"
   }
 ]
