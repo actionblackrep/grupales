@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvl05pq4qp7b80hc",
+    "at": "2026-10-23T13:25:18.844Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA NATALIA RIVERA CIFUENTE 2026-10-16 alerts=0"
+  },
+  {
     "id": "a_mvjubox3nvfzl2q5",
     "at": "2026-10-22T17:54:13.863Z",
     "actor": "laura.gomez@actionblack.co",
