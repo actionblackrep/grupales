@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvlg5p4oztdc8ns2",
+    "at": "2026-10-23T20:53:11.928Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "REEMPLAZO JUAN DAVID GÓMEZ ACOSTA 2026-10-22 alerts=0"
+  },
+  {
     "id": "a_mvl5mk4rq7zq5492",
     "at": "2026-10-23T15:58:22.827Z",
     "actor": "laura.gomez@actionblack.co",
