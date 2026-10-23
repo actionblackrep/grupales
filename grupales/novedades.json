@@ -273,5 +273,16 @@
     "note": "No asiste a clase y no avisa el motivo de que pasó",
     "reported_by": "gerente",
     "created_at": "2026-10-23T14:30:17.332Z"
+  },
+  {
+    "id": "n_mvlg5p4obi26ygfq",
+    "employee_id": "1004870281",
+    "employee_name": "JUAN DAVID GÓMEZ ACOSTA",
+    "date": "2026-10-22",
+    "schedule_id": null,
+    "tipo": "REEMPLAZO",
+    "note": "Colaborador envia reemplazo por que saco unos días libres para un viaje ",
+    "reported_by": "gerente",
+    "created_at": "2026-10-23T20:53:11.928Z"
   }
 ]
