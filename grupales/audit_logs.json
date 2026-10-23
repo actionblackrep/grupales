@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvlh9wmd1xnxvqjk",
+    "at": "2026-10-23T21:24:27.877Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_CREATE",
+    "detail": "DANIELA GARCIA FRANCO JUEVES 06:30 BEATS"
+  },
+  {
     "id": "a_mvlg5p4oztdc8ns2",
     "at": "2026-10-23T20:53:11.928Z",
     "actor": "manager:gerente",
