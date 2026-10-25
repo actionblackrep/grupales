@@ -33275,5 +33275,119 @@
     "created_at": "2026-10-25T16:51:44.322Z",
     "updated_at": "2026-10-25T16:51:44.322Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvo2jdpftxymo47w",
+    "period": "2026-10-2",
+    "employee_id": "1044423458",
+    "employee_name": "CAMILA ANDREA ARIZA NAVARRO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc9u6hu8fvo",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "07:30",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9ikf50k1n",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "19:15",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9dkaom0tt",
+        "class_name": "TIBET",
+        "day": "LUNES",
+        "time": "08:30",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9x3ldjkbv",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "05:30",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9vud1vl0f",
+        "class_name": "TIBET",
+        "day": "SABADO",
+        "time": "19:10",
+        "location": "Viva Barranquilla",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Clases especiales",
+        "classes": 1,
+        "value": 45000
+      },
+      {
+        "location": "Viva Barranquilla",
+        "classes": 11,
+        "value": 495000
+      }
+    ],
+    "total_classes": 12,
+    "total": 540000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-25T16:55:14.211Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-25T16:55:14.211Z",
+    "updated_at": "2026-10-25T16:55:14.211Z",
+    "especiales": [
+      {
+        "concepto": "Jornada de salud",
+        "valor": 45000,
+        "observacion": "en viva barranquilla"
+      }
+    ]
   }
 ]
