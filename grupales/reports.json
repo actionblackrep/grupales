@@ -33817,5 +33817,154 @@
     "created_at": "2026-10-25T17:02:39.705Z",
     "updated_at": "2026-10-25T17:02:58.369Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvo37155mj0djx5b",
+    "period": "2026-10-2",
+    "employee_id": "1000660555",
+    "employee_name": "HEIDY YULIET SANCHEZ MAYA",
+    "rows": [
+      {
+        "schedule_id": "s_mur0562eabrfdi3e",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "Alto de palmas",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 53000,
+        "subtotal": 106000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8edl6eljj",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "18:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc82ht4j1ih",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "06:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc801dzoovb",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "08:00",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8kkf08c6a",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8y7idgy1s",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "08:00",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-16",
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc86cde00sb",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Alto de palmas",
+        "classes": 2,
+        "value": 106000
+      },
+      {
+        "location": "La 33",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Laureles",
+        "classes": 10,
+        "value": 450000
+      },
+      {
+        "location": "Niquia",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 16,
+    "total": 736000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-25T17:13:37.673Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-25T17:13:37.673Z",
+    "updated_at": "2026-10-25T17:13:37.673Z",
+    "especiales": []
   }
 ]
