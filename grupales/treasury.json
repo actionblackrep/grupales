@@ -1552,5 +1552,22 @@
     "ultimo_pago_by": "katherine.zapata@actionblack.co",
     "ultimo_pago_period": "2026-10-1",
     "ultimo_pago_grupo": "ss"
+  },
+  {
+    "cedula": "1000580543",
+    "nombre": "PAULA ALEJANDRA ROJAS SALAMANCA",
+    "ss": false,
+    "tipo_documento": "1",
+    "tipo_transaccion": "37",
+    "codigo_banco": "",
+    "no_cuenta": "",
+    "referencia": "octuno",
+    "notas": "",
+    "in_workforce": true,
+    "reporto_ss": false,
+    "reporto_ss_at": null,
+    "reporto_ss_by": null,
+    "created_at": "2026-10-25T16:11:36.299Z",
+    "updated_at": "2026-10-25T16:11:36.299Z"
   }
 ]
