@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvo0z9pnlo302kyz",
+    "at": "2026-10-25T16:11:36.299Z",
+    "actor": "sync:workforce",
+    "action": "NOMINA_AUTO_ADD",
+    "detail": "1 GRUPALES nuevos desde workforce: PAULA ALEJANDRA ROJAS SALAMANCA (1000580543)"
+  },
+  {
     "id": "a_mvo0x86sgny8mop1",
     "at": "2026-10-25T16:10:01.013Z",
     "actor": "laura.gomez@actionblack.co",
