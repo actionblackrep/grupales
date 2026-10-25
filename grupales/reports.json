@@ -33966,5 +33966,237 @@
     "created_at": "2026-10-25T17:13:37.673Z",
     "updated_at": "2026-10-25T17:13:37.673Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvo38wcaicgslu2b",
+    "period": "2026-10-2",
+    "employee_id": "1024514574",
+    "employee_name": "LUIGI PAOLO RUSSI CARDENAS",
+    "rows": [
+      {
+        "schedule_id": "s_mva04i75v8ecjo7a",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "18:30",
+        "location": "CC Arkadia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubwevt7qg46gkcz",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "07:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubwfscdthvkpmi6",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubwgd4ps6gu7jdc",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "07:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-16",
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc88e16dovs",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "18:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-16",
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mubwixai3npniowx",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:30",
+        "location": "Éxito Av Colombia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc84oo2nbuj",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubwicpe14ou94jt",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "08:00",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_muby20vd9dmhihsi",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubwh1o5v3ib7x8t",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "06:30",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "CC Arkadia",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "City Plaza",
+        "classes": 10,
+        "value": 450000
+      },
+      {
+        "location": "Clases especiales",
+        "classes": 4,
+        "value": 200000
+      },
+      {
+        "location": "Éxito Av Colombia",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 5,
+        "value": 225000
+      },
+      {
+        "location": "Outlet",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 28,
+    "total": 1280000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-25T17:15:04.762Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-25T17:15:04.762Z",
+    "updated_at": "2026-10-25T17:15:04.762Z",
+    "especiales": [
+      {
+        "concepto": "Clase Especial CC Los Molinos",
+        "valor": 50000,
+        "observacion": "Martes 20 de Oct."
+      },
+      {
+        "concepto": "Activación Corporativa Comedal",
+        "valor": 50000,
+        "observacion": "Miercoles 21 de Oct."
+      },
+      {
+        "concepto": "Activación Corporativa FEINFA",
+        "valor": 50000,
+        "observacion": "Jueves 22 de Oct."
+      },
+      {
+        "concepto": "Activación Corporativa PROVANA",
+        "valor": 50000,
+        "observacion": "Viernes 23 de Oct."
+      }
+    ]
   }
 ]
