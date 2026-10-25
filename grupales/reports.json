@@ -35869,5 +35869,139 @@
     "created_at": "2026-10-25T20:11:23.233Z",
     "updated_at": "2026-10-25T20:11:23.233Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvo9u171evhbex8z",
+    "period": "2026-10-2",
+    "employee_id": "1020110626",
+    "employee_name": "OSCAR ANDRES GOMEZ CASTRILLON",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc85ssmnbei",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "10:00",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8e7bs7r93",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc80togrrvw",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8ei58ptx7",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc83srkiixq",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "19:30",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8tzg15uqj",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "18:30",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-16",
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Belen",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "La 33",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Laureles",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 7,
+        "value": 315000
+      }
+    ],
+    "total_classes": 14,
+    "total": 630000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-25T20:19:28.525Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-25T20:19:28.525Z",
+    "updated_at": "2026-10-25T20:19:28.525Z",
+    "especiales": []
   }
 ]
