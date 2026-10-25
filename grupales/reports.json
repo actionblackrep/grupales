@@ -31849,5 +31849,113 @@
     "created_at": "2026-10-25T16:26:39.195Z",
     "updated_at": "2026-10-25T16:26:39.195Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvo1jlekm5us19m7",
+    "period": "2026-10-2",
+    "employee_id": "94060794",
+    "employee_name": "CESAR IVAN ARANGO",
+    "rows": [
+      {
+        "schedule_id": "s_mufq2cct9gypvcip",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mufq35e0jniedw88",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:15",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mufq0s9u54noibta",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "08:00",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mufpwrgmywc571xn",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "09:15",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mufpzgoenlacqtmn",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Campanella Plaza",
+        "classes": 5,
+        "value": 225000
+      },
+      {
+        "location": "Unicentro",
+        "classes": 6,
+        "value": 270000
+      }
+    ],
+    "total_classes": 11,
+    "total": 495000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-25T16:27:24.572Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-25T16:27:24.572Z",
+    "updated_at": "2026-10-25T16:27:24.572Z",
+    "especiales": []
   }
 ]
