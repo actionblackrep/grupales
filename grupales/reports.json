@@ -35787,5 +35787,87 @@
     "created_at": "2026-10-25T19:42:03.616Z",
     "updated_at": "2026-10-25T19:42:03.616Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvo9jmqp34uu7x7z",
+    "period": "2026-10-2",
+    "employee_id": "1020459136",
+    "employee_name": "ALAN DAVID MOSQUERA CARO",
+    "rows": [
+      {
+        "schedule_id": "s_muby2zl65to6jq8y",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "19:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby2hyop2yv2spk",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Outlet",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_muby1dnp5r9ecf45",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:45",
+        "location": "Oviedo",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Outlet",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Oviedo",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 6,
+    "total": 270000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-25T20:11:23.233Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-25T20:11:23.233Z",
+    "updated_at": "2026-10-25T20:11:23.233Z",
+    "especiales": []
   }
 ]
