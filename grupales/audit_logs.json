@@ -1,10 +1,10 @@
 [
   {
-    "id": "a_mvo1pzg6ookdey05",
-    "at": "2026-10-25T16:32:22.710Z",
-    "actor": "instructor:1144070150",
-    "action": "REPORT_SUBMIT",
-    "detail": "2026-10-2 16 clases $720000"
+    "id": "a_mvo1q1srz9z3m1wz",
+    "at": "2026-10-25T16:32:25.755Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mvjtpas339l4d3ni PAULA ALEJANDRA ROJAS SALAMANCA MARTES 19:45"
   },
   {
     "id": "a_mvo1nlkg2yo2m6n3",
