@@ -30201,5 +30201,103 @@
     "created_at": "2026-10-25T16:16:13.690Z",
     "updated_at": "2026-10-25T16:16:13.690Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvo15k66jnkn8x26",
+    "period": "2026-10-2",
+    "employee_id": "94151582",
+    "employee_name": "FELIPE ANDRES MOLINA LOPEZ",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc86z685ej6",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8mnplkq0d",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "19:30",
+        "location": "Belen",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc84h3mo9kv",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "18:30",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-16",
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8nayz1o7o",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "San Bernardo",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Belen",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "CC Florida",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "San Bernardo",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 9,
+    "total": 405000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-25T16:16:29.790Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-25T16:16:29.790Z",
+    "updated_at": "2026-10-25T16:16:29.790Z",
+    "especiales": []
   }
 ]
