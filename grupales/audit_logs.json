@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvo1qp4h6002xvu6",
+    "at": "2026-10-25T16:32:55.985Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mvjtpas339l4d3ni PAULA ALEJANDRA ROJAS SALAMANCA MARTES 19:45"
+  },
+  {
     "id": "a_mvo1qhaucyjpj6ag",
     "at": "2026-10-25T16:32:45.846Z",
     "actor": "instructor:1002210492",
