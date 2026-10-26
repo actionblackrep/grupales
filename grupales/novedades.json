@@ -383,5 +383,16 @@
     "note": "El profesor ya se había comprometido con otro reemplazo y no pudo coger las clases al 100% desde este día.",
     "reported_by": "gerente",
     "created_at": "2026-10-26T23:41:44.873Z"
+  },
+  {
+    "id": "n_mvpx140tji1fydma",
+    "employee_id": "71270555",
+    "employee_name": "LEONARDO ANTONIO ISAZA RESTREPO",
+    "date": "2026-10-24",
+    "schedule_id": "s_mtlrlsc8supw3ir1",
+    "tipo": "AUSENCIA",
+    "note": "El profesor nos comunica que no continuará dictando las clases de los sábados y no logró conseguir reemplazo.",
+    "reported_by": "gerente",
+    "created_at": "2026-10-26T23:56:36.125Z"
   }
 ]
