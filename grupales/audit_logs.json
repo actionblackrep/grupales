@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpwzan887djji06",
+    "at": "2026-10-26T23:55:11.396Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_DELETE",
+    "detail": "LEONARDO ANTONIO ISAZA RESTREPO JUEVES 06:30 BEATS"
+  },
+  {
     "id": "a_mvpwz4lhdjvifktn",
     "at": "2026-10-26T23:55:03.557Z",
     "actor": "laura.gomez@actionblack.co",
