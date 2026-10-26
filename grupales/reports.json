@@ -39374,5 +39374,143 @@
     "created_at": "2026-10-26T11:50:21.465Z",
     "updated_at": "2026-10-26T11:50:21.465Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvp7nralaz14dl6w",
+    "period": "2026-10-2",
+    "employee_id": "1006015196",
+    "employee_name": "NATALIA RIVERA CIFUENTE",
+    "rows": [
+      {
+        "schedule_id": "s_mu8z642kr2rk197z",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "08:35",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9rivii1j3",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:30",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mu8z5f8hlhqaiqy6",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "08:30",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9l2jso6su",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "19:00",
+        "location": "Campanella Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9g1ae3cp4",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:00",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc9a5yzzowg",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "10:30",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc918d37sdm",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "07:00",
+        "location": "Unicentro",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Campanella Plaza",
+        "classes": 8,
+        "value": 360000
+      },
+      {
+        "location": "Unicentro",
+        "classes": 7,
+        "value": 315000
+      }
+    ],
+    "total_classes": 15,
+    "total": 675000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-26T12:06:22.701Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-26T12:06:22.701Z",
+    "updated_at": "2026-10-26T12:06:22.701Z",
+    "especiales": []
   }
 ]
