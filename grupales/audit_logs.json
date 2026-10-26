@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpl5bf5rpadq93o",
+    "at": "2026-10-26T18:23:56.945Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA DANIELA GARCIA FRANCO 2026-10-22 alerts=1"
+  },
+  {
     "id": "a_mvpiojz7xw2izisj",
     "at": "2026-10-26T17:14:55.651Z",
     "actor": "manager:gerente",
