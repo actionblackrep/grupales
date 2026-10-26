@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpifyd0nrk4akv5",
+    "at": "2026-10-26T17:08:14.388Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "OTRA LINA MARIA QUIROZ SAÑUDO 2026-10-19 alerts=0"
+  },
+  {
     "id": "a_mvphpbqmwdsdk41r",
     "at": "2026-10-26T16:47:32.014Z",
     "actor": "instructor:52452277",
