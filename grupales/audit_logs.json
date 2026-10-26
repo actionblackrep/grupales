@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvp8mxw5vmz7obk3",
+    "at": "2026-10-26T12:33:44.213Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "OTRA JOSE ARMANDO VALENCIA CANO 2026-10-30 alerts=0"
+  },
+  {
     "id": "a_mvp8ik0h3z9dqbvp",
     "at": "2026-10-26T12:30:19.601Z",
     "actor": "instructor:1017153274",
