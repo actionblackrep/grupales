@@ -350,5 +350,16 @@
     "note": "Esta clase le correspondía a Leonardo pero renunció y toma la clase Daniela, por lo cual se le descuenta a ella la clase",
     "reported_by": "gerente",
     "created_at": "2026-10-26T18:23:56.945Z"
+  },
+  {
+    "id": "n_mvpt58z9lmahre3h",
+    "employee_id": "1020793228",
+    "employee_name": "LUISA FERNANDA RAMOS SANCHEZ",
+    "date": "2026-10-23",
+    "schedule_id": "s_mtlrlsc93sq0ln2q",
+    "tipo": "REEMPLAZO",
+    "note": "Envio coach de reemplazo",
+    "reported_by": "gerente",
+    "created_at": "2026-10-26T22:07:50.709Z"
   }
 ]
