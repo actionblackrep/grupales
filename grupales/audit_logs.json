@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpwi0bta8y29sn2",
+    "at": "2026-10-26T23:41:44.873Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA LUIGI PAOLO RUSSI CARDENAS 2026-10-20 alerts=1"
+  },
+  {
     "id": "a_mvpuu6pvvuxygwr0",
     "at": "2026-10-26T22:55:13.795Z",
     "actor": "instructor:1025881200",
