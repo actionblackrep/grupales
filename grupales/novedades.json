@@ -317,5 +317,16 @@
     "note": "Había enviado reemplazo, el reemplazo le cancelo y ella no alcanzo a llegar ",
     "reported_by": "gerente",
     "created_at": "2026-10-26T17:08:14.388Z"
+  },
+  {
+    "id": "n_mvpils69m7bpdjae",
+    "employee_id": "1128476063",
+    "employee_name": "LEIDY KATHERIN OSPINA RUIZ",
+    "date": "2026-10-26",
+    "schedule_id": null,
+    "tipo": "AUSENCIA",
+    "note": "No asistió indicando estar enferma y no hubo reemplazo",
+    "reported_by": "gerente",
+    "created_at": "2026-10-26T17:12:46.305Z"
   }
 ]
