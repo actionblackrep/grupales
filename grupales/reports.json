@@ -39225,5 +39225,154 @@
     "created_at": "2026-10-26T11:20:42.486Z",
     "updated_at": "2026-10-26T11:20:42.486Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvp735llt1xzdsp7",
+    "period": "2026-10-2",
+    "employee_id": "1152714302",
+    "employee_name": "KELLY JHOJANA URREGO GIRALDO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8n7ekvss8",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "18:00",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubylm4mi4r3oqql",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "19:15",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc83m1urrb6",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "18:00",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubyka1pgua9dmv1",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "19:15",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8z0ol9lbs",
+        "class_name": "TIBET",
+        "day": "VIERNES",
+        "time": "06:15",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-16",
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8auy4pai9",
+        "class_name": "TIBET",
+        "day": "LUNES",
+        "time": "19:25",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubymo3nju36r3kx",
+        "class_name": "TIBET",
+        "day": "VIERNES",
+        "time": "07:30",
+        "location": "Resett La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-16",
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "CC Florida",
+        "classes": 8,
+        "value": 360000
+      },
+      {
+        "location": "La 33",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "Laureles",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Resett La 33",
+        "classes": 3,
+        "value": 135000
+      }
+    ],
+    "total_classes": 16,
+    "total": 720000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-26T11:50:21.465Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-26T11:50:21.465Z",
+    "updated_at": "2026-10-26T11:50:21.465Z",
+    "especiales": []
   }
 ]
