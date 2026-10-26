@@ -40665,5 +40665,83 @@
     "created_at": "2026-10-26T14:46:18.336Z",
     "updated_at": "2026-10-26T14:46:18.336Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvpdntft6udd3xj5",
+    "period": "2026-10-2",
+    "employee_id": "1001545742",
+    "employee_name": "LIZARDO DE JESÚS MEJÍA ARREDONDO",
+    "rows": [
+      {
+        "schedule_id": "s_muhbagmnn9c36yvx",
+        "class_name": "TIBET",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc87re6jw7z",
+        "class_name": "TIBET",
+        "day": "SABADO",
+        "time": "07:15",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_muhaovjbi6kbc4k1",
+        "class_name": "TIBET",
+        "day": "JUEVES",
+        "time": "07:15",
+        "location": "Parque Fabricato",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "La 33",
+        "classes": 5,
+        "value": 225000
+      },
+      {
+        "location": "Parque Fabricato",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 7,
+    "total": 315000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "Remplazo profe Lina sábado 17 de oct/26 ",
+    "admin_note": "",
+    "submitted_at": "2026-10-26T14:54:23.177Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-26T14:54:23.177Z",
+    "updated_at": "2026-10-26T14:54:23.177Z",
+    "especiales": []
   }
 ]
