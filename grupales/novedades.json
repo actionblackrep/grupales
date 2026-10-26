@@ -361,5 +361,16 @@
     "note": "Envio coach de reemplazo",
     "reported_by": "gerente",
     "created_at": "2026-10-26T22:07:50.709Z"
+  },
+  {
+    "id": "n_mvpusm3tgbuaf6i8",
+    "employee_id": "94151582",
+    "employee_name": "FELIPE ANDRES MOLINA LOPEZ",
+    "date": "2026-10-26",
+    "schedule_id": "s_mtlrlsc86z685ej6",
+    "tipo": "AUSENCIA",
+    "note": "tuvo una novedad que no le prendio el carro y no pudo conseguir reemplazo para la clase de las 6:30, se procede a cancelar la experiencia.  la coach jenny hara el reemplazo de la experiencia de las 7:30pm",
+    "reported_by": "gerente",
+    "created_at": "2026-10-26T22:54:00.425Z"
   }
 ]
