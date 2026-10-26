@@ -42387,5 +42387,167 @@
     "created_at": "2026-10-26T16:39:38.601Z",
     "updated_at": "2026-10-26T16:39:38.601Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvphpbqmeru5efmi",
+    "period": "2026-10-2",
+    "employee_id": "52452277",
+    "employee_name": "ANDREA DEL PILAR SALAZAR PARRADO",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8jybdhsi8",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "10:00",
+        "location": "Aves María",
+        "modality": "Dominical",
+        "dates": [
+          "2026-10-18",
+          "2026-10-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mureo3wgtg1zwjj9",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "19:15",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mureom4alaf7esto",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "19:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8m15oan0b",
+        "class_name": "TIBET",
+        "day": "DOMINGO",
+        "time": "08:15",
+        "location": "City Plaza",
+        "modality": "Dominical",
+        "dates": [
+          "2026-10-18",
+          "2026-10-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8idymp0ff",
+        "class_name": "TIBET",
+        "day": "LUNES",
+        "time": "05:15",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8yvvrfk30",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "09:15",
+        "location": "La 33",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8uffqwdtp",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc80aag2mbs",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "19:30",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 6,
+        "value": 280000
+      },
+      {
+        "location": "City Plaza",
+        "classes": 2,
+        "value": 100000
+      },
+      {
+        "location": "La 33",
+        "classes": 4,
+        "value": 180000
+      },
+      {
+        "location": "Laureles",
+        "classes": 4,
+        "value": 180000
+      }
+    ],
+    "total_classes": 16,
+    "total": 740000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-26T16:47:32.014Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-26T16:47:32.014Z",
+    "updated_at": "2026-10-26T16:47:32.014Z",
+    "especiales": []
   }
 ]
