@@ -6090,21 +6090,6 @@
     "updated_at": "2026-09-04T15:29:28.043Z"
   },
   {
-    "id": "s_mtlrlsc8ts3lx7mq",
-    "employee_id": "71270555",
-    "employee_name": "LEONARDO ANTONIO ISAZA RESTREPO",
-    "class_name": "BEATS",
-    "day": "JUEVES",
-    "time": "06:30",
-    "location": "La 33",
-    "modality": "Normal",
-    "classes_count": 1,
-    "status": "ACTIVE",
-    "source": "import",
-    "created_at": "2026-09-03T16:54:13.686Z",
-    "updated_at": "2026-09-04T15:29:28.043Z"
-  },
-  {
     "id": "s_mtlrlsc84p6c1xpl",
     "employee_id": "1007583409",
     "employee_name": "KEVIN ALVAREZ DORIA",
