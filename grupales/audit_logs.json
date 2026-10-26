@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpils6awutc4cwc",
+    "at": "2026-10-26T17:12:46.306Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA LEIDY KATHERIN OSPINA RUIZ 2026-10-26 alerts=4"
+  },
+  {
     "id": "a_mvpifyd0nrk4akv5",
     "at": "2026-10-26T17:08:14.388Z",
     "actor": "manager:gerente",
