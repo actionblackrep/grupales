@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpx140uv1c0q1by",
+    "at": "2026-10-26T23:56:36.126Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA LEONARDO ANTONIO ISAZA RESTREPO 2026-10-24 alerts=0"
+  },
+  {
     "id": "a_mvpwzan887djji06",
     "at": "2026-10-26T23:55:11.396Z",
     "actor": "laura.gomez@actionblack.co",
