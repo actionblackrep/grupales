@@ -372,5 +372,16 @@
     "note": "tuvo una novedad que no le prendio el carro y no pudo conseguir reemplazo para la clase de las 6:30, se procede a cancelar la experiencia.  la coach jenny hara el reemplazo de la experiencia de las 7:30pm",
     "reported_by": "gerente",
     "created_at": "2026-10-26T22:54:00.425Z"
+  },
+  {
+    "id": "n_mvpwi0btgqnyledk",
+    "employee_id": "1024514574",
+    "employee_name": "LUIGI PAOLO RUSSI CARDENAS",
+    "date": "2026-10-20",
+    "schedule_id": "s_muby20vd9dmhihsi",
+    "tipo": "AUSENCIA",
+    "note": "El profesor ya se había comprometido con otro reemplazo y no pudo coger las clases al 100% desde este día.",
+    "reported_by": "gerente",
+    "created_at": "2026-10-26T23:41:44.873Z"
   }
 ]
