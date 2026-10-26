@@ -39748,5 +39748,173 @@
         "observacion": ""
       }
     ]
+  },
+  {
+    "id": "r_mvp8ik0e9uzns9ol",
+    "period": "2026-10-2",
+    "employee_id": "1017153274",
+    "employee_name": "JENNY MARCELA BARRETO GARCIA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8yvg9fk21",
+        "class_name": "BEATS",
+        "day": "VIERNES",
+        "time": "06:30",
+        "location": "Aves María",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-16",
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc87yr0d6r1",
+        "class_name": "BEATS",
+        "day": "SABADO",
+        "time": "08:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-17",
+          "2026-10-24",
+          "2026-10-31"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 135000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8lraheral",
+        "class_name": "BEATS",
+        "day": "DOMINGO",
+        "time": "09:30",
+        "location": "Laureles",
+        "modality": "Dominical",
+        "dates": [
+          "2026-10-18",
+          "2026-10-25"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 50000,
+        "subtotal": 100000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8c0vtywud",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "18:15",
+        "location": "Laureles",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc84kzcc8a1",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:15",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 45000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8yh65bj54",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "06:30",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8qpwvdcdl",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:15",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mtlrlsc8rciuja1e",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "19:30",
+        "location": "Niquia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Aves María",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "City Plaza",
+        "classes": 3,
+        "value": 135000
+      },
+      {
+        "location": "Laureles",
+        "classes": 4,
+        "value": 190000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 1,
+        "value": 45000
+      },
+      {
+        "location": "Niquia",
+        "classes": 6,
+        "value": 270000
+      }
+    ],
+    "total_classes": 17,
+    "total": 775000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-26T12:30:19.598Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-26T12:30:19.598Z",
+    "updated_at": "2026-10-26T12:30:19.598Z",
+    "especiales": []
   }
 ]
