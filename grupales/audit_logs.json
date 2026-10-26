@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpe9k0vvmc5p9wp",
+    "at": "2026-10-26T15:11:17.407Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "OTRA CARLOS ANDRES SANTANA MURIEL 2026-10-23 alerts=0"
+  },
+  {
     "id": "a_mvpe3ppujyesaw0p",
     "at": "2026-10-26T15:06:44.850Z",
     "actor": "instructor:1014258965",
