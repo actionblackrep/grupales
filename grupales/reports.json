@@ -43222,5 +43222,63 @@
     "created_at": "2026-10-26T21:36:03.524Z",
     "updated_at": "2026-10-26T21:36:03.524Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvpshyu53q5astg6",
+    "period": "2026-10-2",
+    "employee_id": "1053830325",
+    "employee_name": "ANGIE NATALIA SEPULVEDA",
+    "rows": [
+      {
+        "schedule_id": "s_mtlrlsc8vgtqyah9",
+        "class_name": "TIBET",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Mall La Reserva",
+        "modality": "Aguadas Tibet",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 60000,
+        "subtotal": 120000
+      },
+      {
+        "schedule_id": "s_mv1di13t7l5yhwfe",
+        "class_name": "TIBET",
+        "day": "VIERNES",
+        "time": "18:30",
+        "location": "Mall La Reserva",
+        "modality": "Aguadas Tibet",
+        "dates": [
+          "2026-10-16",
+          "2026-10-23",
+          "2026-10-30"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 60000,
+        "subtotal": 180000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "Mall La Reserva",
+        "classes": 5,
+        "value": 300000
+      }
+    ],
+    "total_classes": 5,
+    "total": 300000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-26T21:49:44.477Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-26T21:49:44.477Z",
+    "updated_at": "2026-10-26T21:49:44.477Z",
+    "especiales": []
   }
 ]
