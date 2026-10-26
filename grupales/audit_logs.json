@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpt58z9b916sbd9",
+    "at": "2026-10-26T22:07:50.709Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "REEMPLAZO LUISA FERNANDA RAMOS SANCHEZ 2026-10-23 alerts=0"
+  },
+  {
     "id": "a_mvpshyu55go1dg1b",
     "at": "2026-10-26T21:49:44.477Z",
     "actor": "instructor:1053830325",
