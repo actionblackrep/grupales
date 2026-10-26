@@ -36318,14 +36318,19 @@
     "total_classes": 38,
     "total": 1710000,
     "status": "SUBMITTED",
-    "alerts": [],
+    "alerts": [
+      "Novedad AUSENCIA 2026-10-26 (GIRO 18:15 San Lucas) reportada por gerente despues del envio",
+      "Novedad AUSENCIA 2026-10-26 (GIRO 19:30 San Lucas) reportada por gerente despues del envio",
+      "Novedad AUSENCIA 2026-10-26 (GIRO 05:30 Viva Envigado) reportada por gerente despues del envio",
+      "Novedad AUSENCIA 2026-10-26 (GIRO 06:45 Viva Envigado) reportada por gerente despues del envio"
+    ],
     "instructor_note": "",
     "admin_note": "",
     "submitted_at": "2026-10-25T20:45:54.624Z",
     "reviewed_by": null,
     "reviewed_at": null,
     "created_at": "2026-10-25T20:45:54.624Z",
-    "updated_at": "2026-10-25T20:45:54.624Z",
+    "updated_at": "2026-10-26T17:12:46.306Z",
     "especiales": []
   },
   {
