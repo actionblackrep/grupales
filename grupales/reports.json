@@ -43790,5 +43790,127 @@
     "created_at": "2026-10-26T22:34:08.317Z",
     "updated_at": "2026-10-26T22:34:08.317Z",
     "especiales": []
+  },
+  {
+    "id": "r_mvpuu6puuvqim7bo",
+    "period": "2026-10-2",
+    "employee_id": "1025881200",
+    "employee_name": "ISABELLA ROMERO DE LEÓN",
+    "rows": [
+      {
+        "schedule_id": "s_mubxd1nz1x0i9cq4",
+        "class_name": "BEATS",
+        "day": "JUEVES",
+        "time": "06:30",
+        "location": "CC Arkadia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-22",
+          "2026-10-29"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubxas7yzmwna78o",
+        "class_name": "BEATS",
+        "day": "LUNES",
+        "time": "06:15",
+        "location": "CC Florida",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-19",
+          "2026-10-26"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubxbx60mch5raa3",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "18:30",
+        "location": "City Plaza",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubxcg4ykx1h7yjy",
+        "class_name": "BEATS",
+        "day": "MIERCOLES",
+        "time": "18:30",
+        "location": "Éxito Av Colombia",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-21",
+          "2026-10-28"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      },
+      {
+        "schedule_id": "s_mubxbdmaj32481vk",
+        "class_name": "BEATS",
+        "day": "MARTES",
+        "time": "06:30",
+        "location": "Los Colores",
+        "modality": "Normal",
+        "dates": [
+          "2026-10-20",
+          "2026-10-27"
+        ],
+        "confirmed_dates": null,
+        "tarifa": 45000,
+        "subtotal": 90000
+      }
+    ],
+    "by_location": [
+      {
+        "location": "CC Arkadia",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "CC Florida",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "City Plaza",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Éxito Av Colombia",
+        "classes": 2,
+        "value": 90000
+      },
+      {
+        "location": "Los Colores",
+        "classes": 2,
+        "value": 90000
+      }
+    ],
+    "total_classes": 10,
+    "total": 450000,
+    "status": "SUBMITTED",
+    "alerts": [],
+    "instructor_note": "",
+    "admin_note": "",
+    "submitted_at": "2026-10-26T22:55:13.794Z",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "created_at": "2026-10-26T22:55:13.794Z",
+    "updated_at": "2026-10-26T22:55:13.794Z",
+    "especiales": []
   }
 ]
