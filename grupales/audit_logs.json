@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpusm3t2v2ffo71",
+    "at": "2026-10-26T22:54:00.425Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA FELIPE ANDRES MOLINA LOPEZ 2026-10-26 alerts=1"
+  },
+  {
     "id": "a_mvpu329pip8vloyf",
     "at": "2026-10-26T22:34:08.317Z",
     "actor": "instructor:1143850762",
