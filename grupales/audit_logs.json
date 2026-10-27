@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvq0pa1rybycn0k5",
+    "at": "2026-10-27T01:39:22.527Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_DELETE",
+    "detail": "CARLOS ANDRES SANTANA MURIEL 2026-10-2"
+  },
+  {
     "id": "a_mvq0ng4qcuued148",
     "at": "2026-10-27T01:37:57.098Z",
     "actor": "instructor:1007285865",
