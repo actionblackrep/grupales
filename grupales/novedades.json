@@ -372,5 +372,16 @@
     "note": "No asistio, 14 octubre 2026",
     "reported_by": "gerente",
     "created_at": "2026-10-27T00:50:46.941Z"
+  },
+  {
+    "id": "n_mvpz4u0tzudhqx0a",
+    "employee_id": "1007583409",
+    "employee_name": "KEVIN ALVAREZ DORIA",
+    "date": "2026-10-21",
+    "schedule_id": "s_mtlrlsc82qzxa1bh",
+    "tipo": "AUSENCIA",
+    "note": "No asistió - 21 octubre 2026",
+    "reported_by": "gerente",
+    "created_at": "2026-10-27T00:55:29.022Z"
   }
 ]
