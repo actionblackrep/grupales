@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvqzx1tre21qblgr",
+    "at": "2026-10-27T18:05:11.679Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvpfi1l8cl136bqz CRISTIAN ARLEY MARTÍNEZ PINEDA 2026-10-2 -> CONFIRMED $370000"
+  },
+  {
     "id": "a_mvqzwrcqxa6w1gyy",
     "at": "2026-10-27T18:04:58.106Z",
     "actor": "laura.gomez@actionblack.co",
