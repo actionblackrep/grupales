@@ -383,5 +383,16 @@
     "note": "No asistió - 21 octubre 2026",
     "reported_by": "gerente",
     "created_at": "2026-10-27T00:55:29.022Z"
+  },
+  {
+    "id": "n_mvpzzexxk40csun3",
+    "employee_id": "1128476063",
+    "employee_name": "LEIDY KATHERIN OSPINA RUIZ",
+    "date": "2026-10-26",
+    "schedule_id": "s_mtlrlsc7ykkcjscz",
+    "tipo": "AUSENCIA",
+    "note": "No asistió indicando estar enferma y no hubo reemplazo",
+    "reported_by": "gerente",
+    "created_at": "2026-10-27T01:19:15.813Z"
   }
 ]
