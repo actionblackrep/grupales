@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvqzczdlimek0so3",
+    "at": "2026-10-27T17:49:35.385Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvq18gsuuxun7t2g CARLOS ANDRES SANTANA MURIEL 2026-10-2 -> CONFIRMED $1035000"
+  },
+  {
     "id": "a_mvqzcrojafkorljg",
     "at": "2026-10-27T17:49:25.411Z",
     "actor": "laura.gomez@actionblack.co",
