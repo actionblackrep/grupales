@@ -34116,9 +34116,11 @@
           "2026-10-20",
           "2026-10-27"
         ],
-        "confirmed_dates": null,
+        "confirmed_dates": [
+          "2026-10-20"
+        ],
         "tarifa": 45000,
-        "subtotal": 90000
+        "subtotal": 45000
       },
       {
         "schedule_id": "s_mubwh1o5v3ib7x8t",
@@ -34164,8 +34166,8 @@
       },
       {
         "location": "Outlet",
-        "classes": 2,
-        "value": 90000
+        "classes": 1,
+        "value": 45000
       },
       {
         "location": "Oviedo",
@@ -34173,19 +34175,19 @@
         "value": 90000
       }
     ],
-    "total_classes": 28,
-    "total": 1280000,
-    "status": "SUBMITTED",
+    "total_classes": 27,
+    "total": 1235000,
+    "status": "CONFIRMED",
     "alerts": [
       "Novedad AUSENCIA 2026-10-20 (BEATS 18:30 Outlet) reportada por gerente despues del envio"
     ],
     "instructor_note": "",
     "admin_note": "",
     "submitted_at": "2026-10-25T17:15:04.762Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-10-27T17:23:35.164Z",
     "created_at": "2026-10-25T17:15:04.762Z",
-    "updated_at": "2026-10-26T23:41:44.873Z",
+    "updated_at": "2026-10-27T17:23:35.164Z",
     "especiales": [
       {
         "concepto": "Clase Especial CC Los Molinos",
