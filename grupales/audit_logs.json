@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvpz4u0ubxq09gv3",
+    "at": "2026-10-27T00:55:29.022Z",
+    "actor": "manager:gerente",
+    "action": "NOVEDAD_CREATE",
+    "detail": "AUSENCIA KEVIN ALVAREZ DORIA 2026-10-21 alerts=1"
+  },
+  {
     "id": "a_mvpyysd9pbdabjmy",
     "at": "2026-10-27T00:50:46.941Z",
     "actor": "manager:gerente",
