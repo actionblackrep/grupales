@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvqyfulfumcr7a2z",
+    "at": "2026-10-27T17:23:49.539Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvoas11cadp01rrk LEIDY KATHERIN OSPINA RUIZ 2026-10-2 -> CONFIRMED $1710000"
+  },
+  {
     "id": "a_mvqyfji5kzxdbtwc",
     "at": "2026-10-27T17:23:35.165Z",
     "actor": "laura.gomez@actionblack.co",
