@@ -1,5 +1,54 @@
 [
   {
+    "id": "a_mvsbq6ezfkz59fqz",
+    "at": "2026-10-28T16:23:32.603Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=7 rejected=0"
+  },
+  {
+    "id": "a_mvsbq6ezc1a3m80k",
+    "at": "2026-10-28T16:23:32.603Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1017153274 JENNY MARCELA BARRETO GARCIA"
+  },
+  {
+    "id": "a_mvsbq6ezfdk5ibun",
+    "at": "2026-10-28T16:23:32.603Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "6000680499 HENDER JOSE VALLES URDANETA"
+  },
+  {
+    "id": "a_mvsbq6ezcy6r3n18",
+    "at": "2026-10-28T16:23:32.603Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1128462182 ESTIBEN AREIZA CARDONA"
+  },
+  {
+    "id": "a_mvsbq6ezyrizxspv",
+    "at": "2026-10-28T16:23:32.603Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1017190525 DIEGO MAURICIO YEPES CAMACHO"
+  },
+  {
+    "id": "a_mvsbq6ezwa7rukj3",
+    "at": "2026-10-28T16:23:32.603Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1045759736 DAVID ENRIQUE ECHEVERRIA MACHADO"
+  },
+  {
+    "id": "a_mvsbq6ezo42z7j48",
+    "at": "2026-10-28T16:23:32.603Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1044423458 CAMILA ANDREA ARIZA NAVARRO"
+  },
+  {
     "id": "a_mvs95gpl2atqb5hx",
     "at": "2026-10-28T15:11:26.937Z",
     "actor": "laura.gomez@actionblack.co",
