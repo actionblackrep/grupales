@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvsdijzw6r7rr1do",
+    "at": "2026-10-28T17:13:36.188Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvoc99nvnwd02r9c LUIS FELIPE MARIN HINESTROZA 2026-10-2 -> CONFIRMED $810000"
+  },
+  {
     "id": "a_mvsdi9wihx44w8il",
     "at": "2026-10-28T17:13:23.106Z",
     "actor": "laura.gomez@actionblack.co",
