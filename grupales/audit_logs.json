@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvrduegmhfa3dp5p",
+    "at": "2026-10-28T00:35:02.710Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "APP_LOCK",
+    "detail": "novedades"
+  },
+  {
     "id": "a_mvr13q52o7pqqptv",
     "at": "2026-10-27T18:38:22.742Z",
     "actor": "laura.gomez@actionblack.co",
