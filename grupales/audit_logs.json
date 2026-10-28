@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvsdla87rfm4itfs",
+    "at": "2026-10-28T17:15:43.495Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvp4b6ubuxacqeb2 MARLON ALBERTO DE LA CRUZ 2026-10-2 -> CONFIRMED $1575000"
+  },
+  {
     "id": "a_mvsdktz4c7emdfuf",
     "at": "2026-10-28T17:15:22.432Z",
     "actor": "laura.gomez@actionblack.co",
