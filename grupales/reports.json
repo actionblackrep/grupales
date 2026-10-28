@@ -44216,28 +44216,29 @@
           "2026-10-19",
           "2026-10-26"
         ],
-        "confirmed_dates": null,
+        "confirmed_dates": [],
         "tarifa": 45000,
-        "subtotal": 90000
+        "subtotal": 0
       }
     ],
     "by_location": [
       {
         "location": "City Plaza",
-        "classes": 2,
-        "value": 90000
+        "classes": 0,
+        "value": 0
       }
     ],
-    "total_classes": 2,
-    "total": 90000,
-    "status": "SUBMITTED",
+    "total_classes": 0,
+    "total": 0,
+    "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
     "admin_note": "Creado por laura.gomez@actionblack.co",
     "submitted_at": "2026-10-28T17:20:11.247Z",
-    "reviewed_by": null,
-    "reviewed_at": null,
+    "reviewed_by": "laura.gomez@actionblack.co",
+    "reviewed_at": "2026-10-28T17:20:38.465Z",
     "created_at": "2026-10-28T17:20:11.247Z",
-    "updated_at": "2026-10-28T17:20:11.247Z"
+    "updated_at": "2026-10-28T17:20:38.465Z",
+    "especiales": []
   }
 ]
