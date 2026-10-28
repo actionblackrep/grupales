@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvscpmj7bjvbioor",
+    "at": "2026-10-28T16:51:06.451Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvo1ime3tiwnyx0l JUAN ALEJANDRO GÓMEZ RESTREPO 2026-10-2 -> CONFIRMED $2250000"
+  },
+  {
     "id": "a_mvscpdqeetnos390",
     "at": "2026-10-28T16:50:55.046Z",
     "actor": "laura.gomez@actionblack.co",
