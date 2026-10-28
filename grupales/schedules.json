@@ -11728,5 +11728,20 @@
     "source": "manual",
     "created_at": "2026-10-23T21:24:27.876Z",
     "updated_at": "2026-10-23T21:24:27.876Z"
+  },
+  {
+    "id": "s_mvs933na3r0b1st0",
+    "employee_id": "30402457",
+    "employee_name": "LUZ MARÍA MEJIA JARAMILLO",
+    "class_name": "GIRO",
+    "day": "LUNES",
+    "time": "06:00",
+    "location": "Epic Pereira",
+    "modality": "Normal",
+    "classes_count": 1,
+    "status": "ACTIVE",
+    "source": "manual",
+    "created_at": "2026-10-28T15:09:36.694Z",
+    "updated_at": "2026-10-28T15:09:36.694Z"
   }
 ]
