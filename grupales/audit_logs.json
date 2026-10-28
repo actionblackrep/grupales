@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvsdo48f6sir8qvu",
+    "at": "2026-10-28T17:17:55.695Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvq0ng4qk652snfx SANTIAGO GALLEGO HERRERA 2026-10-2 -> CONFIRMED $424000"
+  },
+  {
     "id": "a_mvsdnsprcfkjmdmi",
     "at": "2026-10-28T17:17:40.767Z",
     "actor": "laura.gomez@actionblack.co",
