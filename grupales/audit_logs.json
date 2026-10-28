@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvsdr0tre0mwak8a",
+    "at": "2026-10-28T17:20:11.247Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_CREATE_ADMIN",
+    "detail": "LAURA GÓMEZ GARCIA 2026-10-2"
+  },
+  {
     "id": "a_mvsdpzldtgkwszif",
     "at": "2026-10-28T17:19:22.993Z",
     "actor": "laura.gomez@actionblack.co",
