@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvsdm0v9jwdkra6j",
+    "at": "2026-10-28T17:16:18.021Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvp7nralaz14dl6w NATALIA RIVERA CIFUENTE 2026-10-2 -> CONFIRMED $675000"
+  },
+  {
     "id": "a_mvsdlv72t6ds10kw",
     "at": "2026-10-28T17:16:10.670Z",
     "actor": "laura.gomez@actionblack.co",
