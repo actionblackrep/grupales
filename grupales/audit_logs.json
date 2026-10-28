@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvsd5vgv53o1ba5f",
+    "at": "2026-10-28T17:03:44.527Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvo5n76v507rcl5v JERSSON FAVIAN ANGEL HERNANDEZ 2026-10-2 -> CONFIRMED $1145000"
+  },
+  {
     "id": "a_mvscya2mhvbm2evy",
     "at": "2026-10-28T16:57:50.206Z",
     "actor": "katherine.zapata@actionblack.co",
