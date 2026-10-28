@@ -1,5 +1,40 @@
 [
   {
+    "id": "a_mvsbxf9x9viv9icl",
+    "at": "2026-10-28T16:29:10.677Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=4 rejected=0"
+  },
+  {
+    "id": "a_mvsbxf9xy9xknbf6",
+    "at": "2026-10-28T16:29:10.677Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1045759211 MARIELA CAROLINA ECHEVERRÍA MACHADO"
+  },
+  {
+    "id": "a_mvsbxf9xclp1qv9o",
+    "at": "2026-10-28T16:29:10.677Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "30402457 LUZ MARÍA MEJIA JARAMILLO"
+  },
+  {
+    "id": "a_mvsbxf9xgui8zczs",
+    "at": "2026-10-28T16:29:10.677Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1136886696 LINA MARIA PARRA MARTINEZ"
+  },
+  {
+    "id": "a_mvsbxf9xz97xd9ve",
+    "at": "2026-10-28T16:29:10.677Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "71270555 LEONARDO ANTONIO ISAZA RESTREPO"
+  },
+  {
     "id": "a_mvsbq6ezfkz59fqz",
     "at": "2026-10-28T16:23:32.603Z",
     "actor": "katherine.zapata@actionblack.co",
