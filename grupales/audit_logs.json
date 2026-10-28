@@ -1,5 +1,26 @@
 [
   {
+    "id": "a_mvsbz78h7uo8i066",
+    "at": "2026-10-28T16:30:33.569Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_UPSERT",
+    "detail": "created=0 updated=2 rejected=0"
+  },
+  {
+    "id": "a_mvsbz78hx5v8utk3",
+    "at": "2026-10-28T16:30:33.569Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1152458920 VALENTINA CALAD OSPINA"
+  },
+  {
+    "id": "a_mvsbz78hc8vl1czh",
+    "at": "2026-10-28T16:30:33.569Z",
+    "actor": "katherine.zapata@actionblack.co",
+    "action": "NOMINA_REPORTO_SS_UNDO",
+    "detail": "1001773177 SANTIAGO MEDINA OSORIO"
+  },
+  {
     "id": "a_mvsbxs120z9flrem",
     "at": "2026-10-28T16:29:27.206Z",
     "actor": "katherine.zapata@actionblack.co",
