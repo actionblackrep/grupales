@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvscqjdipvxoi222",
+    "at": "2026-10-28T16:51:49.014Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvohhykff8rgkd6i JUAN DAVID GÓMEZ ACOSTA 2026-10-2 -> CONFIRMED $2325000"
+  },
+  {
     "id": "a_mvscpuboq18fomd1",
     "at": "2026-10-28T16:51:16.548Z",
     "actor": "laura.gomez@actionblack.co",
