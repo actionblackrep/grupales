@@ -1344,27 +1344,6 @@
     "ultimo_pago_grupo": "ss"
   },
   {
-    "cedula": "1045759211",
-    "nombre": "MARIELA CAROLINA ECHEVERRÍA MACHADO",
-    "ss": false,
-    "tipo_documento": "1",
-    "tipo_transaccion": "37",
-    "codigo_banco": "1507",
-    "no_cuenta": "3025052534",
-    "referencia": "octuno",
-    "notas": "",
-    "in_workforce": false,
-    "created_at": "2026-09-09T16:38:33.532491Z",
-    "updated_at": "2026-10-28T16:29:10.099Z",
-    "reporto_ss": false,
-    "reporto_ss_at": null,
-    "reporto_ss_by": null,
-    "ultimo_pago_at": "2026-10-05T16:15:51.280Z",
-    "ultimo_pago_by": "katherine.zapata@actionblack.co",
-    "ultimo_pago_period": "2026-09-2",
-    "ultimo_pago_grupo": "pendientes"
-  },
-  {
     "cedula": "1019028020",
     "nombre": "MIGUEL ANGEL CHACON HINCAPIE",
     "ss": true,
