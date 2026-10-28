@@ -34568,9 +34568,11 @@
           "2026-10-21",
           "2026-10-28"
         ],
-        "confirmed_dates": null,
+        "confirmed_dates": [
+          "2026-10-21"
+        ],
         "tarifa": 45000,
-        "subtotal": 90000
+        "subtotal": 45000
       },
       {
         "schedule_id": "s_mtlrlsc9tkh8enit",
@@ -34698,8 +34700,8 @@
     "by_location": [
       {
         "location": "Colina",
-        "classes": 8,
-        "value": 360000
+        "classes": 7,
+        "value": 315000
       },
       {
         "location": "Corporate Center",
@@ -34712,8 +34714,8 @@
         "value": 740000
       }
     ],
-    "total_classes": 26,
-    "total": 1190000,
+    "total_classes": 25,
+    "total": 1145000,
     "status": "CONFIRMED",
     "alerts": [],
     "instructor_note": "",
@@ -34722,7 +34724,7 @@
     "reviewed_by": "laura.gomez@actionblack.co",
     "reviewed_at": "2026-10-28T16:49:25.783Z",
     "created_at": "2026-10-25T18:22:11.239Z",
-    "updated_at": "2026-10-28T16:49:25.783Z",
+    "updated_at": "2026-10-28T17:03:44.527Z",
     "especiales": []
   },
   {
