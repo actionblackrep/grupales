@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvscli7w611qxcky",
+    "at": "2026-10-28T16:47:54.236Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "REPORT_REVIEW",
+    "detail": "r_mvo89xlhxgdt5t1n HENDER JOSE VALLES URDANETA 2026-10-2 -> CONFIRMED $270000"
+  },
+  {
     "id": "a_mvsca1yqmkietatf",
     "at": "2026-10-28T16:38:59.954Z",
     "actor": "katherine.zapata@actionblack.co",
