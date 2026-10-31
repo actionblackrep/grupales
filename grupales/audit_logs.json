@@ -1,5 +1,12 @@
 [
   {
+    "id": "a_mvwij2900g2pigdu",
+    "at": "2026-10-31T14:45:02.628Z",
+    "actor": "laura.gomez@actionblack.co",
+    "action": "SCHEDULE_UPDATE",
+    "detail": "s_mva04i75v8ecjo7a ANDREA DEL PILAR SALAZAR PARRADO JUEVES 18:30"
+  },
+  {
     "id": "a_mvwiim9h96okq699",
     "at": "2026-10-31T14:44:41.909Z",
     "actor": "laura.gomez@actionblack.co",
